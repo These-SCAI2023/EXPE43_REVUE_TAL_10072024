@@ -3,7 +3,7 @@ import re
 import glob
 from pathlib import Path
 import spacy
-from more_itertools import chunked
+# from more_itertools import chunked
 import json
 import os
 import csv
