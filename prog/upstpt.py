@@ -31,18 +31,21 @@ def stocker(chemin, contenu):
 
 
 
-path_corpora = "../DATA_ELTeC_spaCy3.5.1_ENliste/DATA_ELTeC-eng_spaCy3.5.1/*/*.json"
+path_corpora = "../test_upsetplot/*.json"
 
 
 
 for path in glob.glob(path_corpora):
-    # print("_____________",path)
-    path_output = path.split(".json")[0]+"_upsetplot.png"
+    print("_____________",path)
+    path_output = path.split(".json")[0]+"_upsetplot2.png"
     print(path_output)
     dico_entite=lire_json(path)
-    print(dico_entite)
-    dico_entite = {k: set(v)for k,v in dico_entite.items() if k !="sm"}
     # print(dico_entite)
+    dico_entite = {k: set(v)for k,v in dico_entite.items() if k =="Tesseract-PNG" or k =="Ref"}
+    print(dico_entite)
+    # for k, v in dico_entite.items():
+    #     print(k,set(v))
+
     test = from_contents(dico_entite)
     upset = UpSet(
         test,
@@ -67,8 +70,8 @@ for path in glob.glob(path_corpora):
 
     upset.plot(fig=fig)
     fig.figsize = (20, 20)
-    plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
-    plt.savefig("%s_upsetplot.png"%path_output)
+    # plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
+    plt.savefig(path_output)
     plt.show()
 
 # # ##SuperVenn
