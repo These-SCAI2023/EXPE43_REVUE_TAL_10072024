@@ -1,0 +1,11826 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Adélaïde de M ariendal",
+    "jalons": [
+      12,
+      34
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France 11",
+    "jalons": [
+      83,
+      118
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Adélaïde de Marginal",
+    "jalons": [
+      130,
+      150
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      222,
+      229
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      740,
+      772
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Source gallica.bnf.fr / BnF",
+    "jalons": [
+      780,
+      807
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "CLIQUER ICI",
+    "jalons": [
+      1303,
+      1314
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "ACCÉDER",
+    "jalons": [
+      1320,
+      1327
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "TARIFS ET",
+    "jalons": [
+      1332,
+      1341
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "LA LICENCE 2/",
+    "jalons": [
+      1344,
+      1357
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      1374,
+      1381
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      1406,
+      1409
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "L.2112-1",
+    "jalons": [
+      1431,
+      1439
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Source gallica.BnF.fr / Bibliothèque municipale de …",
+    "jalons": [
+      1947,
+      1999
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2130,
+      2137
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      2177,
+      2180
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "L341-1",
+    "jalons": [
+      2230,
+      2236
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2347,
+      2354
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2856,
+      2863
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France Ga LIT",
+    "jalons": [
+      2952,
+      2991
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "LT",
+    "jalons": [
+      3028,
+      3030
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "e",
+    "jalons": [
+      3046,
+      3047
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "DE * S 4° - .",
+    "jalons": [
+      3093,
+      3106
+    ]
+  },
+  "entite_23": {
+    "label": "ORG",
+    "text": "EN CINQ",
+    "jalons": [
+      3149,
+      3156
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Genrnqeenr mme",
+    "jalons": [
+      3166,
+      3180
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "fs FA",
+    "jalons": [
+      3202,
+      3207
+    ]
+  },
+  "entite_26": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      3216,
+      3221
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "JEAN-François BASTIEN",
+    "jalons": [
+      3232,
+      3253
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Libraire",
+    "jalons": [
+      3255,
+      3263
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "rue du Petit-Lion",
+    "jalons": [
+      3269,
+      3286
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Comédie Françoise",
+    "jalons": [
+      3308,
+      3325
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "M DCC",
+    "jalons": [
+      3330,
+      3335
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "LXXXIII",
+    "jalons": [
+      3337,
+      3344
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "RU",
+    "jalons": [
+      3354,
+      3356
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "MARGINAL",
+    "jalons": [
+      3394,
+      3402
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3409,
+      3416
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      3423,
+      3435
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "ADELAIDE",
+    "jalons": [
+      3448,
+      3456
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "DUMONT",
+    "jalons": [
+      3472,
+      3478
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3487,
+      3495
+    ]
+  },
+  "entite_40": {
+    "label": "ORG",
+    "text": "Négociant",
+    "jalons": [
+      3497,
+      3506
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "CE DUPUIS",
+    "jalons": [
+      3525,
+      3534
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      3543,
+      3551
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "ANTOINE",
+    "jalons": [
+      3574,
+      3581
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "M. JÉROME",
+    "jalons": [
+      3583,
+      3592
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Conomie",
+    "jalons": [
+      3594,
+      3601
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Scene fe paffe",
+    "jalons": [
+      3610,
+      3624
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      3628,
+      3637
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Baron",
+    "jalons": [
+      3671,
+      3676
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "AÉL",
+    "jalons": [
+      3678,
+      3681
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "DE MAR",
+    "jalons": [
+      3689,
+      3695
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "PREMIER",
+    "jalons": [
+      3714,
+      3721
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "JÉROME",
+    "jalons": [
+      3754,
+      3760
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      3762,
+      3770
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      3776,
+      3782
+    ]
+  },
+  "entite_55": {
+    "label": "ORG",
+    "text": "IMa",
+    "jalons": [
+      3821,
+      3824
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Allez",
+    "jalons": [
+      4079,
+      4084
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Le bonheur de la famille",
+    "jalons": [
+      4126,
+      4150
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4221,
+      4222
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4277,
+      4285
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Heureux",
+    "jalons": [
+      4403,
+      4410
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "affétons",
+    "jalons": [
+      4585,
+      4593
+    ]
+  },
+  "entite_62": {
+    "label": "ORG",
+    "text": "EE EG",
+    "jalons": [
+      4667,
+      4672
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "SCENE II LE BARON",
+    "jalons": [
+      4677,
+      4694
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      4696,
+      4706
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      4708,
+      4720
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4722,
+      4730
+    ]
+  },
+  "entite_67": {
+    "label": "ORG",
+    "text": "TVA",
+    "jalons": [
+      4742,
+      4745
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      4901,
+      4910
+    ]
+  },
+  "entite_69": {
+    "label": "ORG",
+    "text": "| & les sacrifices",
+    "jalons": [
+      5192,
+      5210
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Quand votre ayeul",
+    "jalons": [
+      5248,
+      5265
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "DE MARCENAIS",
+    "jalons": [
+      5287,
+      5299
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "Pour les terres",
+    "jalons": [
+      5458,
+      5473
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      5782,
+      5784
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "& jai",
+    "jalons": [
+      146,
+      151
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Aïni",
+    "jalons": [
+      170,
+      174
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Joule",
+    "jalons": [
+      241,
+      246
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "oififs",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "M. Jérôme",
+    "jalons": [
+      562,
+      571
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Nos besoins",
+    "jalons": [
+      718,
+      729
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      787,
+      789
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      835,
+      843
+    ]
+  },
+  "entite_82": {
+    "label": "ORG",
+    "text": "fon rang",
+    "jalons": [
+      906,
+      914
+    ]
+  },
+  "entite_83": {
+    "label": "ORG",
+    "text": "ner",
+    "jalons": [
+      1206,
+      1209
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Le terme n’est pas auñli",
+    "jalons": [
+      1262,
+      1286
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      1492,
+      1500
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Eh bien, mes enfans ?",
+    "jalons": [
+      1527,
+      1548
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      1803,
+      1812
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      1823,
+      1835
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "blair",
+    "jalons": [
+      1914,
+      1919
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Æ€ D ’",
+    "jalons": [
+      1968,
+      1974
+    ]
+  },
+  "entite_91": {
+    "label": "ORG",
+    "text": "TT EC PA AR DE.MARGINAL",
+    "jalons": [
+      2077,
+      2100
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "DÉELENAÏiD E. Pen{et",
+    "jalons": [
+      2196,
+      2216
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Meilleur",
+    "jalons": [
+      2223,
+      2231
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      2508,
+      2517
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      2653,
+      2658
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      2703,
+      2704
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "BARONNE Vous",
+    "jalons": [
+      2865,
+      2877
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Monsieur le Baron",
+    "jalons": [
+      2900,
+      2917
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      2919,
+      2927
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Madame...",
+    "jalons": [
+      2944,
+      2953
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "A ii { 1%",
+    "jalons": [
+      3084,
+      3093
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3101,
+      3109
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      3131,
+      3141
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "derniere Scene",
+    "jalons": [
+      3155,
+      3169
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "$ E",
+    "jalons": [
+      3225,
+      3228
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      3235,
+      3241
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "Si vous aviez",
+    "jalons": [
+      3547,
+      3560
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      3562,
+      3568
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3845,
+      3852
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      3891,
+      3899
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "US",
+    "jalons": [
+      3991,
+      3993
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "LL Le",
+    "jalons": [
+      4008,
+      4013
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "DE MARGINALE",
+    "jalons": [
+      4016,
+      4028
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4035,
+      4042
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "Baron ;",
+    "jalons": [
+      4092,
+      4099
+    ]
+  },
+  "entite_116": {
+    "label": "ORG",
+    "text": "Chevalier",
+    "jalons": [
+      4105,
+      4114
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "grace",
+    "jalons": [
+      4185,
+      4190
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      4224,
+      4233
+    ]
+  },
+  "entite_119": {
+    "label": "ORG",
+    "text": "AG POiNte",
+    "jalons": [
+      4252,
+      4261
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4270,
+      4277
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "S'habiller pour témoigner des égards à des gens à qui l’on doit tout?",
+    "jalons": [
+      4279,
+      4348
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      4435,
+      4443
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      4462,
+      4468
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4529,
+      4536
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      4555,
+      4560
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Lût",
+    "jalons": [
+      4628,
+      4631
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      4643,
+      4651
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4660,
+      4667
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      4678,
+      4686
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4859,
+      4867
+    ]
+  },
+  "entite_131": {
+    "label": "ORG",
+    "text": "fon",
+    "jalons": [
+      5023,
+      5026
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      5115,
+      5125
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Monsieur le Baron",
+    "jalons": [
+      5128,
+      5145
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "On a cherché des partis",
+    "jalons": [
+      5609,
+      5632
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Négociants de Hollande",
+    "jalons": [
+      226,
+      248
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      254,
+      262
+    ]
+  },
+  "entite_137": {
+    "label": "ORG",
+    "text": "RÉ FRET",
+    "jalons": [
+      530,
+      537
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "SRI",
+    "jalons": [
+      545,
+      548
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "NET TT nd L ET - l DE MARGINAL",
+    "jalons": [
+      577,
+      607
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      717,
+      724
+    ]
+  },
+  "entite_141": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      778,
+      787
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Monsieur le Baron",
+    "jalons": [
+      973,
+      990
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "fert de gémir",
+    "jalons": [
+      1029,
+      1042
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "infraétueuse-",
+    "jalons": [
+      1044,
+      1057
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "| Lé",
+    "jalons": [
+      1180,
+      1184
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      1387,
+      1394
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "Protestant",
+    "jalons": [
+      1450,
+      1460
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "| LE BARON",
+    "jalons": [
+      1485,
+      1495
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      1516,
+      1522
+    ]
+  },
+  "entite_150": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1546,
+      1554
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "L a B ARONNF",
+    "jalons": [
+      1664,
+      1676
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Lr Baron",
+    "jalons": [
+      1718,
+      1726
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "BARONNE La belle gloire de souffrir !",
+    "jalons": [
+      1755,
+      1792
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "Madame !",
+    "jalons": [
+      1803,
+      1811
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      1816,
+      1823
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1858,
+      1866
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      2161,
+      2164
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Pouvez",
+    "jalons": [
+      2468,
+      2474
+    ]
+  },
+  "entite_159": {
+    "label": "ORG",
+    "text": "LENERGIE",
+    "jalons": [
+      2553,
+      2561
+    ]
+  },
+  "entite_160": {
+    "label": "ORG",
+    "text": "PT SEE",
+    "jalons": [
+      2613,
+      2619
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "PE DE MARGINAL",
+    "jalons": [
+      2620,
+      2634
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "TE des voies balles &",
+    "jalons": [
+      2636,
+      2657
+    ]
+  },
+  "entite_163": {
+    "label": "ORG",
+    "text": "f1",
+    "jalons": [
+      2717,
+      2719
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Ance",
+    "jalons": [
+      2945,
+      2949
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "fes",
+    "jalons": [
+      2954,
+      2957
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Monsieur le Baron!",
+    "jalons": [
+      3007,
+      3025
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Baron !",
+    "jalons": [
+      3038,
+      3045
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      3073,
+      3081
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      3103,
+      3109
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Monsieur Franklin",
+    "jalons": [
+      3329,
+      3346
+    ]
+  },
+  "entite_171": {
+    "label": "ORG",
+    "text": "SCENE IF",
+    "jalons": [
+      3348,
+      3356
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      3368,
+      3378
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "JÉROME",
+    "jalons": [
+      3380,
+      3386
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3390,
+      3398
+    ]
+  },
+  "entite_175": {
+    "label": "ORG",
+    "text": "DUPUIS",
+    "jalons": [
+      3400,
+      3406
+    ]
+  },
+  "entite_176": {
+    "label": "ORG",
+    "text": "LÉ",
+    "jalons": [
+      3410,
+      3412
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      3421,
+      3427
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Worra",
+    "jalons": [
+      3429,
+      3434
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "M",
+    "jalons": [
+      3517,
+      3518
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      3520,
+      3526
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Jérôme fort",
+    "jalons": [
+      3548,
+      3559
+    ]
+  },
+  "entite_182": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      3565,
+      3571
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "DÉLAIDE",
+    "jalons": [
+      3608,
+      3615
+    ]
+  },
+  "entite_184": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      3621,
+      3627
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "ch Antoine",
+    "jalons": [
+      3629,
+      3639
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "LE B ARON",
+    "jalons": [
+      3643,
+      3652
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      3655,
+      3663
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "FRANKÉER Dumont",
+    "jalons": [
+      3679,
+      3694
+    ]
+  },
+  "entite_189": {
+    "label": "ORG",
+    "text": "SCENE",
+    "jalons": [
+      3846,
+      3851
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      3865,
+      3875
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "LE CHE- VALIER",
+    "jalons": [
+      3877,
+      3891
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3894,
+      3902
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3904,
+      3912
+    ]
+  },
+  "entite_194": {
+    "label": "ORG",
+    "text": "DUPUIS",
+    "jalons": [
+      3916,
+      3922
+    ]
+  },
+  "entite_195": {
+    "label": "ORG",
+    "text": "JÉROME",
+    "jalons": [
+      3924,
+      3930
+    ]
+  },
+  "entite_196": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      3958,
+      3964
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "pectez-les comme moi-même",
+    "jalons": [
+      4011,
+      4036
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Dur",
+    "jalons": [
+      4127,
+      4130
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4171,
+      4179
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "DE MARGINAL",
+    "jalons": [
+      4209,
+      4220
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      4224,
+      4232
+    ]
+  },
+  "entite_202": {
+    "label": "ORG",
+    "text": "kr",
+    "jalons": [
+      4270,
+      4272
+    ]
+  },
+  "entite_203": {
+    "label": "MISC",
+    "text": "C'est le, …",
+    "jalons": [
+      4284,
+      4295
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Franklin !",
+    "jalons": [
+      4314,
+      4324
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "fa mere",
+    "jalons": [
+      4347,
+      4354
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4364,
+      4371
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      4447,
+      4459
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      4464,
+      4473
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "demivoix",
+    "jalons": [
+      4476,
+      4484
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      4545,
+      4553
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "foibleffe",
+    "jalons": [
+      4635,
+      4644
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      4702,
+      4711
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Suivez-moi mon fils",
+    "jalons": [
+      4732,
+      4751
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "M. Jérôme",
+    "jalons": [
+      4753,
+      4762
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Allez",
+    "jalons": [
+      4796,
+      4801
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Cs",
+    "jalons": [
+      4803,
+      4805
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "AÉL",
+    "jalons": [
+      4834,
+      4837
+    ]
+  },
+  "entite_218": {
+    "label": "ORG",
+    "text": "AÎDE",
+    "jalons": [
+      4838,
+      4842
+    ]
+  },
+  "entite_219": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4848,
+      4851
+    ]
+  },
+  "entite_220": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      4884,
+      4894
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      5015,
+      5023
+    ]
+  },
+  "entite_222": {
+    "label": "ORG",
+    "text": "foumiflion &",
+    "jalons": [
+      5057,
+      5069
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "tranquillifez",
+    "jalons": [
+      5183,
+      5196
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      5286,
+      5294
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      5332,
+      5340
+    ]
+  },
+  "entite_226": {
+    "label": "ORG",
+    "text": "SCENE",
+    "jalons": [
+      5371,
+      5376
+    ]
+  },
+  "entite_227": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5381,
+      5389
+    ]
+  },
+  "entite_228": {
+    "label": "ORG",
+    "text": "DUPUIS",
+    "jalons": [
+      5391,
+      5397
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5399,
+      5407
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      5498,
+      5506
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Le.bar- bare!",
+    "jalons": [
+      114,
+      127
+    ]
+  },
+  "entite_232": {
+    "label": "ORG",
+    "text": "DupUiS.",
+    "jalons": [
+      294,
+      301
+    ]
+  },
+  "entite_233": {
+    "label": "ORG",
+    "text": "NOUS",
+    "jalons": [
+      345,
+      349
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "DE",
+    "jalons": [
+      387,
+      389
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "MARGINAL",
+    "jalons": [
+      391,
+      399
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      404,
+      412
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      464,
+      472
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Qu'elle est à plaindre !",
+    "jalons": [
+      474,
+      498
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      524,
+      530
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      794,
+      797
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "| Duqu",
+    "jalons": [
+      889,
+      895
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "grace",
+    "jalons": [
+      920,
+      925
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      1018,
+      1019
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "ANKNER",
+    "jalons": [
+      1022,
+      1028
+    ]
+  },
+  "entite_245": {
+    "label": "MISC",
+    "text": "Eh!",
+    "jalons": [
+      1032,
+      1035
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1184,
+      1192
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "fes",
+    "jalons": [
+      1272,
+      1275
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1299,
+      1307
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Si tu Es connoiflois",
+    "jalons": [
+      1349,
+      1369
+    ]
+  },
+  "entite_250": {
+    "label": "ORG",
+    "text": "ADELAIDE",
+    "jalons": [
+      1418,
+      1426
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      1516,
+      1519
+    ]
+  },
+  "entite_252": {
+    "label": "MISC",
+    "text": "Dururs h “Un pere",
+    "jalons": [
+      1614,
+      1631
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1652,
+      1660
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "fon fein",
+    "jalons": [
+      1824,
+      1832
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      1887,
+      1895
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "lur fes dangers",
+    "jalons": [
+      1943,
+      1958
+    ]
+  },
+  "entite_257": {
+    "label": "LOC",
+    "text": "Dururs",
+    "jalons": [
+      1960,
+      1966
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2005,
+      2013
+    ]
+  },
+  "entite_259": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2111,
+      2119
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "aflurerai Lori",
+    "jalons": [
+      2172,
+      2186
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Surpris",
+    "jalons": [
+      2196,
+      2203
+    ]
+  },
+  "entite_262": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2285,
+      2293
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Cheva- fier",
+    "jalons": [
+      2332,
+      2343
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "MARINAÏ",
+    "jalons": [
+      2395,
+      2402
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "#7 T",
+    "jalons": [
+      2404,
+      2408
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2497,
+      2505
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "Baronne",
+    "jalons": [
+      2540,
+      2547
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      2615,
+      2620
+    ]
+  },
+  "entite_269": {
+    "label": "ORG",
+    "text": "Chevalier",
+    "jalons": [
+      2630,
+      2639
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      2681,
+      2689
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "Qué jaurais de plaisir",
+    "jalons": [
+      2910,
+      2932
+    ]
+  },
+  "entite_272": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      2954,
+      2960
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2992,
+      3000
+    ]
+  },
+  "entite_274": {
+    "label": "MISC",
+    "text": "DuPrurzrs",
+    "jalons": [
+      3002,
+      3011
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "| Ti",
+    "jalons": [
+      3013,
+      3017
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "IL",
+    "jalons": [
+      3065,
+      3067
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "amOur",
+    "jalons": [
+      3097,
+      3102
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "FRANKÉ R",
+    "jalons": [
+      3141,
+      3149
+    ]
+  },
+  "entite_279": {
+    "label": "MISC",
+    "text": "lieñs",
+    "jalons": [
+      3235,
+      3240
+    ]
+  },
+  "entite_280": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      3332,
+      3340
+    ]
+  },
+  "entite_281": {
+    "label": "MISC",
+    "text": "Qu'on taille pas m'imputer une obscure naïlance",
+    "jalons": [
+      3391,
+      3438
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Lorqu'",
+    "jalons": [
+      3524,
+      3530
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "sen",
+    "jalons": [
+      3583,
+      3586
+    ]
+  },
+  "entite_284": {
+    "label": "MISC",
+    "text": "Mais B 18",
+    "jalons": [
+      3631,
+      3640
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3641,
+      3649
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3658,
+      3666
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Laïle",
+    "jalons": [
+      3668,
+      3673
+    ]
+  },
+  "entite_288": {
+    "label": "MISC",
+    "text": "Ex IQ ee",
+    "jalons": [
+      3718,
+      3726
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "VIL",
+    "jalons": [
+      3735,
+      3738
+    ]
+  },
+  "entite_290": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3740,
+      3748
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3750,
+      3758
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      3760,
+      3768
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Connoiflez",
+    "jalons": [
+      3898,
+      3908
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Fuyez",
+    "jalons": [
+      3959,
+      3964
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4098,
+      4106
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4108,
+      4111
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "Fuyez",
+    "jalons": [
+      4301,
+      4306
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      4484,
+      4492
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "LL",
+    "jalons": [
+      4494,
+      4496
+    ]
+  },
+  "entite_300": {
+    "label": "MISC",
+    "text": "Pourquoi les T Te",
+    "jalons": [
+      4528,
+      4545
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "TRI DE RE EN ET",
+    "jalons": [
+      4573,
+      4588
+    ]
+  },
+  "entite_302": {
+    "label": "ORG",
+    "text": "DE CR TES",
+    "jalons": [
+      4603,
+      4612
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "ppp ee",
+    "jalons": [
+      4649,
+      4655
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4815,
+      4823
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      4836,
+      4840
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Instant",
+    "jalons": [
+      5005,
+      5012
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      5172,
+      5174
+    ]
+  },
+  "entite_308": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      5423,
+      5427
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_310": {
+    "label": "MISC",
+    "text": "J'y refterai",
+    "jalons": [
+      130,
+      142
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      144,
+      152
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      168,
+      176
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      194,
+      202
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      265,
+      266
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      273,
+      281
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      333,
+      341
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Vous me réduire au désespoir",
+    "jalons": [
+      343,
+      371
+    ]
+  },
+  "entite_318": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      658,
+      666
+    ]
+  },
+  "entite_319": {
+    "label": "MISC",
+    "text": "Et ces jours",
+    "jalons": [
+      668,
+      680
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      705,
+      713
+    ]
+  },
+  "entite_321": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      786,
+      794
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "J'ai pour toi",
+    "jalons": [
+      1016,
+      1029
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "PPS PET",
+    "jalons": [
+      1102,
+      1109
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "TERRE D",
+    "jalons": [
+      1112,
+      1119
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "| DE MARGINAL",
+    "jalons": [
+      1123,
+      1136
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "2É",
+    "jalons": [
+      1138,
+      1140
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1231,
+      1239
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Avant qu'il arrive",
+    "jalons": [
+      1301,
+      1319
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "je.ne",
+    "jalons": [
+      1321,
+      1326
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1339,
+      1347
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      1349,
+      1357
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "Pourquoi chercher à äjouter à notre malheur",
+    "jalons": [
+      1396,
+      1439
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Abyme",
+    "jalons": [
+      1484,
+      1489
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Ma cher Adélaïde",
+    "jalons": [
+      1532,
+      1548
+    ]
+  },
+  "entite_335": {
+    "label": "MISC",
+    "text": "A DÉ",
+    "jalons": [
+      1728,
+      1732
+    ]
+  },
+  "entite_336": {
+    "label": "MISC",
+    "text": "1D EN Vous feriez",
+    "jalons": [
+      1736,
+      1753
+    ]
+  },
+  "entite_337": {
+    "label": "MISC",
+    "text": "À DÉLANDE",
+    "jalons": [
+      1865,
+      1874
+    ]
+  },
+  "entite_338": {
+    "label": "MISC",
+    "text": "Eh bien'",
+    "jalons": [
+      1876,
+      1884
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "fes",
+    "jalons": [
+      1927,
+      1930
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2057,
+      2065
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Bi",
+    "jalons": [
+      2115,
+      2117
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "ADÉÉAIDE",
+    "jalons": [
+      2123,
+      2131
+    ]
+  },
+  "entite_343": {
+    "label": "MISC",
+    "text": "MON amour",
+    "jalons": [
+      2191,
+      2200
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "rai",
+    "jalons": [
+      2231,
+      2234
+    ]
+  },
+  "entite_345": {
+    "label": "MISC",
+    "text": "ADÉLAIDE Cruel !",
+    "jalons": [
+      2285,
+      2301
+    ]
+  },
+  "entite_346": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      2325,
+      2329
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "Franklin !",
+    "jalons": [
+      2330,
+      2340
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "F R A N NER",
+    "jalons": [
+      2384,
+      2395
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "LADÉLAIDE",
+    "jalons": [
+      2430,
+      2439
+    ]
+  },
+  "entite_350": {
+    "label": "MISC",
+    "text": "Pi",
+    "jalons": [
+      2442,
+      2444
+    ]
+  },
+  "entite_351": {
+    "label": "ORG",
+    "text": "Allez pe",
+    "jalons": [
+      2483,
+      2491
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Dieux !",
+    "jalons": [
+      2565,
+      2572
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "4 T!",
+    "jalons": [
+      2688,
+      2692
+    ]
+  },
+  "entite_354": {
+    "label": "MISC",
+    "text": "Fin du premier Ades",
+    "jalons": [
+      2846,
+      2865
+    ]
+  },
+  "entite_355": {
+    "label": "ORG",
+    "text": "eos",
+    "jalons": [
+      2879,
+      2882
+    ]
+  },
+  "entite_356": {
+    "label": "MISC",
+    "text": "DER",
+    "jalons": [
+      2888,
+      2891
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "ACTE À SCENE PREMIERE",
+    "jalons": [
+      2931,
+      2952
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      2954,
+      2962
+    ]
+  },
+  "entite_359": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      2964,
+      2976
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      3068,
+      3076
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "LL L",
+    "jalons": [
+      3137,
+      3141
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Le Baro",
+    "jalons": [
+      3194,
+      3201
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "Maïs",
+    "jalons": [
+      3312,
+      3316
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3327,
+      3335
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "vat",
+    "jalons": [
+      3341,
+      3344
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Ïl",
+    "jalons": [
+      3364,
+      3366
+    ]
+  },
+  "entite_367": {
+    "label": "MISC",
+    "text": "La tranquillité",
+    "jalons": [
+      3677,
+      3692
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "B iv",
+    "jalons": [
+      3712,
+      3716
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3720,
+      3728
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      3732,
+      3741
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "De Opprobre LE BARON",
+    "jalons": [
+      3758,
+      3778
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "CHEVALIER lArrêtez",
+    "jalons": [
+      3797,
+      3815
+    ]
+  },
+  "entite_373": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      3871,
+      3874
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3898,
+      3906
+    ]
+  },
+  "entite_375": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      3926,
+      3934
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "L LE CHEVALIER",
+    "jalons": [
+      3959,
+      3973
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Baronne",
+    "jalons": [
+      4036,
+      4043
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "foibleffe",
+    "jalons": [
+      4057,
+      4066
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "Ah.!fi",
+    "jalons": [
+      4105,
+      4111
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Dé= Jïde!",
+    "jalons": [
+      4217,
+      4226
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      4334,
+      4343
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "demon",
+    "jalons": [
+      4406,
+      4411
+    ]
+  },
+  "entite_383": {
+    "label": "MISC",
+    "text": "Adélaide",
+    "jalons": [
+      4565,
+      4573
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4577,
+      4580
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "PETITE",
+    "jalons": [
+      4593,
+      4599
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      4622,
+      4623
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "& ma vengeance!",
+    "jalons": [
+      4765,
+      4780
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Faulkner",
+    "jalons": [
+      4828,
+      4836
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      4855,
+      4863
+    ]
+  },
+  "entite_390": {
+    "label": "MISC",
+    "text": "LE Barre",
+    "jalons": [
+      4925,
+      4933
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      4935,
+      4937
+    ]
+  },
+  "entite_392": {
+    "label": "ORG",
+    "text": "laiffe",
+    "jalons": [
+      5100,
+      5106
+    ]
+  },
+  "entite_393": {
+    "label": "MISC",
+    "text": "En Sortant il jette un coup-d il menaçant fur",
+    "jalons": [
+      5189,
+      5234
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      5235,
+      5243
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "U PEN TT fe",
+    "jalons": [
+      5246,
+      5257
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "SCENE II",
+    "jalons": [
+      5258,
+      5266
+    ]
+  },
+  "entite_397": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      5278,
+      5286
+    ]
+  },
+  "entite_398": {
+    "label": "MISC",
+    "text": "L & BARON",
+    "jalons": [
+      5288,
+      5297
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "INT",
+    "jalons": [
+      5301,
+      5304
+    ]
+  },
+  "entite_400": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "Ce ADÉLAÏDE",
+    "jalons": [
+      116,
+      127
+    ]
+  },
+  "entite_402": {
+    "label": "MISC",
+    "text": "À quoi tend ce discours ?",
+    "jalons": [
+      136,
+      161
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Haut",
+    "jalons": [
+      164,
+      168
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "delirez",
+    "jalons": [
+      175,
+      182
+    ]
+  },
+  "entite_405": {
+    "label": "ORG",
+    "text": "ADELAÏÎDE",
+    "jalons": [
+      254,
+      263
+    ]
+  },
+  "entite_406": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      287,
+      295
+    ]
+  },
+  "entite_407": {
+    "label": "ORG",
+    "text": "FA",
+    "jalons": [
+      300,
+      302
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      325,
+      333
+    ]
+  },
+  "entite_409": {
+    "label": "MISC",
+    "text": "DÉLAIDE",
+    "jalons": [
+      348,
+      355
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      359,
+      367
+    ]
+  },
+  "entite_411": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      550,
+      558
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "LE BARON Inventée !",
+    "jalons": [
+      681,
+      700
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "DE MARGINAL",
+    "jalons": [
+      738,
+      749
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      938,
+      946
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      973,
+      981
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "at-",
+    "jalons": [
+      1169,
+      1172
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      1352,
+      1360
+    ]
+  },
+  "entite_418": {
+    "label": "MISC",
+    "text": "Craignez vous li",
+    "jalons": [
+      1386,
+      1402
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "ADÉÇAÏ DE",
+    "jalons": [
+      1442,
+      1451
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "Mon pere!",
+    "jalons": [
+      1455,
+      1464
+    ]
+  },
+  "entite_421": {
+    "label": "MISC",
+    "text": "L E BARON",
+    "jalons": [
+      1467,
+      1476
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "Indigne pañion",
+    "jalons": [
+      1570,
+      1584
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      1670,
+      1678
+    ]
+  },
+  "entite_424": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1724,
+      1732
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      1735,
+      1743
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      1820,
+      1828
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "| LE BARON",
+    "jalons": [
+      1842,
+      1852
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      1857,
+      1865
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "Gen",
+    "jalons": [
+      1904,
+      1907
+    ]
+  },
+  "entite_430": {
+    "label": "MISC",
+    "text": "Expliquez-",
+    "jalons": [
+      1938,
+      1948
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      1955,
+      1963
+    ]
+  },
+  "entite_432": {
+    "label": "ORG",
+    "text": "L",
+    "jalons": [
+      1993,
+      1994
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "jaime",
+    "jalons": [
+      2018,
+      2023
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Sortant",
+    "jalons": [
+      2443,
+      2450
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "ADÉLAÏDE oc",
+    "jalons": [
+      2469,
+      2480
+    ]
+  },
+  "entite_436": {
+    "label": "MISC",
+    "text": "Pace",
+    "jalons": [
+      2591,
+      2595
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "ere Dore",
+    "jalons": [
+      2598,
+      2606
+    ]
+  },
+  "entite_438": {
+    "label": "MISC",
+    "text": "MARGINALIS",
+    "jalons": [
+      2640,
+      2650
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Quel",
+    "jalons": [
+      2841,
+      2845
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      2869,
+      2877
+    ]
+  },
+  "entite_441": {
+    "label": "MISC",
+    "text": "Comment s'échapper ?",
+    "jalons": [
+      2908,
+      2928
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      2929,
+      2932
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Baronne",
+    "jalons": [
+      3100,
+      3107
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Ma mere",
+    "jalons": [
+      3166,
+      3173
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "jaime",
+    "jalons": [
+      3324,
+      3329
+    ]
+  },
+  "entite_446": {
+    "label": "MISC",
+    "text": "En Je retournant elle aperçoit la Baronne",
+    "jalons": [
+      3418,
+      3459
+    ]
+  },
+  "entite_447": {
+    "label": "ORG",
+    "text": "SCENE IF",
+    "jalons": [
+      3521,
+      3529
+    ]
+  },
+  "entite_448": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3534,
+      3541
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3543,
+      3551
+    ]
+  },
+  "entite_450": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3556,
+      3563
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "éfrayer",
+    "jalons": [
+      3623,
+      3630
+    ]
+  },
+  "entite_452": {
+    "label": "ORG",
+    "text": "YADÉLAIDE",
+    "jalons": [
+      3665,
+      3674
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "Re parlez moi avec tranquillité",
+    "jalons": [
+      3685,
+      3716
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Votre pere fe",
+    "jalons": [
+      3718,
+      3731
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "Je crois que vous m’aimez allez pour m'ouvrir votre cœur",
+    "jalons": [
+      3817,
+      3873
+    ]
+  },
+  "entite_456": {
+    "label": "MISC",
+    "text": "Croyez",
+    "jalons": [
+      3900,
+      3906
+    ]
+  },
+  "entite_457": {
+    "label": "ORG",
+    "text": "ADÉLAÏÎDE",
+    "jalons": [
+      4041,
+      4050
+    ]
+  },
+  "entite_458": {
+    "label": "MISC",
+    "text": "Madame!",
+    "jalons": [
+      4056,
+      4063
+    ]
+  },
+  "entite_459": {
+    "label": "MISC",
+    "text": "BARONNE Vous",
+    "jalons": [
+      4096,
+      4108
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      4136,
+      4144
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4350,
+      4358
+    ]
+  },
+  "entite_462": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4394,
+      4401
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      4595,
+      4601
+    ]
+  },
+  "entite_464": {
+    "label": "MISC",
+    "text": "Je vous le ré- pete",
+    "jalons": [
+      4629,
+      4648
+    ]
+  },
+  "entite_465": {
+    "label": "MISC",
+    "text": "DE MARCENAIS",
+    "jalons": [
+      4714,
+      4726
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "ADÉLAIt",
+    "jalons": [
+      4736,
+      4743
+    ]
+  },
+  "entite_467": {
+    "label": "MISC",
+    "text": "Que je suis confondue!",
+    "jalons": [
+      4754,
+      4776
+    ]
+  },
+  "entite_468": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4782,
+      4789
+    ]
+  },
+  "entite_469": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4930,
+      4938
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Ma mere",
+    "jalons": [
+      4941,
+      4948
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4955,
+      4962
+    ]
+  },
+  "entite_472": {
+    "label": "MISC",
+    "text": "DÉLAIDE",
+    "jalons": [
+      4987,
+      4994
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Ma mere",
+    "jalons": [
+      4996,
+      5003
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      5007,
+      5015
+    ]
+  },
+  "entite_475": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5023,
+      5030
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      5060,
+      5068
+    ]
+  },
+  "entite_477": {
+    "label": "ORG",
+    "text": "ADÉLAÎDE",
+    "jalons": [
+      5094,
+      5102
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      5109,
+      5115
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5142,
+      5149
+    ]
+  },
+  "entite_480": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      5187,
+      5195
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "| | La",
+    "jalons": [
+      5265,
+      5271
+    ]
+  },
+  "entite_482": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5272,
+      5279
+    ]
+  },
+  "entite_483": {
+    "label": "MISC",
+    "text": "s2",
+    "jalons": [
+      5326,
+      5328
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      5329,
+      5337
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      5339,
+      5347
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Ayez",
+    "jalons": [
+      5350,
+      5354
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_488": {
+    "label": "MISC",
+    "text": "Mes mépris",
+    "jalons": [
+      64,
+      74
+    ]
+  },
+  "entite_489": {
+    "label": "MISC",
+    "text": "Voilà mon pere",
+    "jalons": [
+      100,
+      114
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "ES os tre A N A",
+    "jalons": [
+      165,
+      180
+    ]
+  },
+  "entite_491": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      209,
+      219
+    ]
+  },
+  "entite_492": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      221,
+      229
+    ]
+  },
+  "entite_493": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      231,
+      239
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_495": {
+    "label": "PER",
+    "text": "Monteur le Baron",
+    "jalons": [
+      322,
+      338
+    ]
+  },
+  "entite_496": {
+    "label": "PER",
+    "text": "Adélaïde évänous.j Ciel",
+    "jalons": [
+      366,
+      389
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "Baron Bonne",
+    "jalons": [
+      417,
+      428
+    ]
+  },
+  "entite_498": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_499": {
+    "label": "MISC",
+    "text": "Baron !",
+    "jalons": [
+      561,
+      568
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      597,
+      603
+    ]
+  },
+  "entite_501": {
+    "label": "MISC",
+    "text": "Adélaïde.(à",
+    "jalons": [
+      631,
+      642
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Suivonsles",
+    "jalons": [
+      650,
+      660
+    ]
+  },
+  "entite_503": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      715,
+      723
+    ]
+  },
+  "entite_504": {
+    "label": "MISC",
+    "text": "ITR ONE",
+    "jalons": [
+      729,
+      736
+    ]
+  },
+  "entite_505": {
+    "label": "ORG",
+    "text": "SR PQ",
+    "jalons": [
+      741,
+      746
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      781,
+      789
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      813,
+      821
+    ]
+  },
+  "entite_508": {
+    "label": "MISC",
+    "text": "B 4 R",
+    "jalons": [
+      836,
+      841
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      919,
+      927
+    ]
+  },
+  "entite_510": {
+    "label": "LOC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1003,
+      1011
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Adélaïde !",
+    "jalons": [
+      1031,
+      1041
+    ]
+  },
+  "entite_512": {
+    "label": "MISC",
+    "text": "En | SCENE VI",
+    "jalons": [
+      1163,
+      1176
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "NER",
+    "jalons": [
+      1185,
+      1188
+    ]
+  },
+  "entite_514": {
+    "label": "MISC",
+    "text": "JÉROME",
+    "jalons": [
+      1190,
+      1196
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Jérôm",
+    "jalons": [
+      1198,
+      1203
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Union",
+    "jalons": [
+      1226,
+      1231
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "M. le Baron",
+    "jalons": [
+      1239,
+      1250
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Huiliers",
+    "jalons": [
+      1256,
+      1264
+    ]
+  },
+  "entite_519": {
+    "label": "ORG",
+    "text": "Regardañt",
+    "jalons": [
+      1321,
+      1330
+    ]
+  },
+  "entite_520": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      1372,
+      1375
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "M. Franklin",
+    "jalons": [
+      1376,
+      1387
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "ES GC 54",
+    "jalons": [
+      1590,
+      1598
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1601,
+      1609
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1612,
+      1620
+    ]
+  },
+  "entite_525": {
+    "label": "ORG",
+    "text": "JÉRÔME",
+    "jalons": [
+      1637,
+      1643
+    ]
+  },
+  "entite_526": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1680,
+      1688
+    ]
+  },
+  "entite_527": {
+    "label": "ORG",
+    "text": "JÉRÔME",
+    "jalons": [
+      1708,
+      1714
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Scellier",
+    "jalons": [
+      1727,
+      1735
+    ]
+  },
+  "entite_529": {
+    "label": "LOC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1739,
+      1747
+    ]
+  },
+  "entite_530": {
+    "label": "MISC",
+    "text": "Combien lui effil",
+    "jalons": [
+      1749,
+      1766
+    ]
+  },
+  "entite_531": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1801,
+      1809
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      1862,
+      1868
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "Signé",
+    "jalons": [
+      1930,
+      1935
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1937,
+      1945
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "Diable !",
+    "jalons": [
+      1948,
+      1956
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1960,
+      1968
+    ]
+  },
+  "entite_537": {
+    "label": "MISC",
+    "text": "Tu te feras remettre les titres",
+    "jalons": [
+      1970,
+      2001
+    ]
+  },
+  "entite_538": {
+    "label": "MISC",
+    "text": "I!",
+    "jalons": [
+      2037,
+      2039
+    ]
+  },
+  "entite_539": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2048,
+      2056
+    ]
+  },
+  "entite_540": {
+    "label": "ORG",
+    "text": "TENTE POP EE PEL D DE + k ” : long",
+    "jalons": [
+      2164,
+      2198
+    ]
+  },
+  "entite_541": {
+    "label": "MISC",
+    "text": "SCENE VII",
+    "jalons": [
+      2217,
+      2226
+    ]
+  },
+  "entite_542": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2228,
+      2236
+    ]
+  },
+  "entite_543": {
+    "label": "ORG",
+    "text": "DUPUIS",
+    "jalons": [
+      2238,
+      2244
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Dururs",
+    "jalons": [
+      2246,
+      2252
+    ]
+  },
+  "entite_545": {
+    "label": "LOC",
+    "text": "MONT",
+    "jalons": [
+      2256,
+      2260
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      2262,
+      2268
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2273,
+      2281
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "FRANK N E",
+    "jalons": [
+      2311,
+      2320
+    ]
+  },
+  "entite_549": {
+    "label": "MISC",
+    "text": "Quand l’as",
+    "jalons": [
+      2331,
+      2341
+    ]
+  },
+  "entite_550": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      2354,
+      2360
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2428,
+      2436
+    ]
+  },
+  "entite_552": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      2466,
+      2472
+    ]
+  },
+  "entite_553": {
+    "label": "LOC",
+    "text": "Monteur",
+    "jalons": [
+      2479,
+      2486
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2488,
+      2496
+    ]
+  },
+  "entite_555": {
+    "label": "MISC",
+    "text": "La | ‘Lettre",
+    "jalons": [
+      2541,
+      2553
+    ]
+  },
+  "entite_556": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2575,
+      2583
+    ]
+  },
+  "entite_557": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2637,
+      2645
+    ]
+  },
+  "entite_558": {
+    "label": "MISC",
+    "text": "Ci 56",
+    "jalons": [
+      2675,
+      2680
+    ]
+  },
+  "entite_559": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2681,
+      2689
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2715,
+      2723
+    ]
+  },
+  "entite_561": {
+    "label": "ORG",
+    "text": "Chevalier",
+    "jalons": [
+      2758,
+      2767
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      2774,
+      2779
+    ]
+  },
+  "entite_563": {
+    "label": "MISC",
+    "text": "D£",
+    "jalons": [
+      2783,
+      2785
+    ]
+  },
+  "entite_564": {
+    "label": "MISC",
+    "text": "La » Haye",
+    "jalons": [
+      2858,
+      2867
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "Quelles nou- elles!",
+    "jalons": [
+      2989,
+      3008
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "DuprPurs Linterrompant",
+    "jalons": [
+      3009,
+      3031
+    ]
+  },
+  "entite_567": {
+    "label": "MISC",
+    "text": "Ex _",
+    "jalons": [
+      3077,
+      3081
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3094,
+      3102
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3104,
+      3112
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "FrANKLIN",
+    "jalons": [
+      3114,
+      3122
+    ]
+  },
+  "entite_571": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      3128,
+      3130
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3202,
+      3210
+    ]
+  },
+  "entite_573": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3255,
+      3263
+    ]
+  },
+  "entite_574": {
+    "label": "MISC",
+    "text": "péraïD| ADÉLAÏDE",
+    "jalons": [
+      3267,
+      3283
+    ]
+  },
+  "entite_575": {
+    "label": "LOC",
+    "text": "Vexécration",
+    "jalons": [
+      3354,
+      3365
+    ]
+  },
+  "entite_576": {
+    "label": "MISC",
+    "text": "Et voilà reconnu pour l'auteur de mes tourments",
+    "jalons": [
+      3381,
+      3428
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "MARCENAIS",
+    "jalons": [
+      3445,
+      3454
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "#7",
+    "jalons": [
+      3456,
+      3458
+    ]
+  },
+  "entite_579": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      3494,
+      3502
+    ]
+  },
+  "entite_580": {
+    "label": "MISC",
+    "text": "DÉLAIÏDE",
+    "jalons": [
+      3505,
+      3513
+    ]
+  },
+  "entite_581": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      3531,
+      3539
+    ]
+  },
+  "entite_582": {
+    "label": "MISC",
+    "text": "obéiflez & fur-tout",
+    "jalons": [
+      3552,
+      3571
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3769,
+      3777
+    ]
+  },
+  "entite_584": {
+    "label": "MISC",
+    "text": "Cruelle!",
+    "jalons": [
+      3782,
+      3790
+    ]
+  },
+  "entite_585": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4244,
+      4252
+    ]
+  },
+  "entite_586": {
+    "label": "ORG",
+    "text": "ADËLA",
+    "jalons": [
+      4308,
+      4313
+    ]
+  },
+  "entite_587": {
+    "label": "MISC",
+    "text": "IDE",
+    "jalons": [
+      4315,
+      4318
+    ]
+  },
+  "entite_588": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4359,
+      4367
+    ]
+  },
+  "entite_589": {
+    "label": "ORG",
+    "text": "CCE",
+    "jalons": [
+      4424,
+      4427
+    ]
+  },
+  "entite_590": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4436,
+      4444
+    ]
+  },
+  "entite_591": {
+    "label": "MISC",
+    "text": "Si je t'aimons moins",
+    "jalons": [
+      4484,
+      4504
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "op amouR |",
+    "jalons": [
+      4602,
+      4612
+    ]
+  },
+  "entite_593": {
+    "label": "LOC",
+    "text": "NER",
+    "jalons": [
+      4627,
+      4630
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "füre",
+    "jalons": [
+      4680,
+      4684
+    ]
+  },
+  "entite_595": {
+    "label": "MISC",
+    "text": "Suis-je allez malheureuse?",
+    "jalons": [
+      4783,
+      4809
+    ]
+  },
+  "entite_596": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4810,
+      4813
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "véloigne",
+    "jalons": [
+      4828,
+      4836
+    ]
+  },
+  "entite_598": {
+    "label": "MISC",
+    "text": "La.",
+    "jalons": [
+      4860,
+      4863
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "grace",
+    "jalons": [
+      4932,
+      4937
+    ]
+  },
+  "entite_600": {
+    "label": "MISC",
+    "text": "H'",
+    "jalons": [
+      4963,
+      4965
+    ]
+  },
+  "entite_601": {
+    "label": "MISC",
+    "text": "Epargne-moi les tiennes",
+    "jalons": [
+      5041,
+      5064
+    ]
+  },
+  "entite_602": {
+    "label": "ORG",
+    "text": "Co FRANKLIN",
+    "jalons": [
+      5167,
+      5178
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Jivrez",
+    "jalons": [
+      5328,
+      5334
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Chapper",
+    "jalons": [
+      5366,
+      5373
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "Arrête & celle",
+    "jalons": [
+      5432,
+      5446
+    ]
+  },
+  "entite_606": {
+    "label": "MISC",
+    "text": "Si je t'",
+    "jalons": [
+      5462,
+      5470
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "ET ADÉLAÏDE",
+    "jalons": [
+      5501,
+      5512
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "MARITENDAL",
+    "jalons": [
+      26,
+      36
+    ]
+  },
+  "entite_609": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      41,
+      49
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "Lo Eh",
+    "jalons": [
+      51,
+      56
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "rappelleï",
+    "jalons": [
+      63,
+      72
+    ]
+  },
+  "entite_612": {
+    "label": "MISC",
+    "text": "DÉLAÏD A",
+    "jalons": [
+      176,
+      184
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Cher",
+    "jalons": [
+      187,
+      191
+    ]
+  },
+  "entite_614": {
+    "label": "PER",
+    "text": "FRANK ER",
+    "jalons": [
+      218,
+      226
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "En refusant de te füivrè",
+    "jalons": [
+      417,
+      441
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Je.te",
+    "jalons": [
+      632,
+      637
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "Dérobe",
+    "jalons": [
+      656,
+      662
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "vengeañce",
+    "jalons": [
+      673,
+      682
+    ]
+  },
+  "entite_619": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      753,
+      761
+    ]
+  },
+  "entite_620": {
+    "label": "LOC",
+    "text": "Île",
+    "jalons": [
+      774,
+      777
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      966,
+      974
+    ]
+  },
+  "entite_622": {
+    "label": "ORG",
+    "text": "Civ &",
+    "jalons": [
+      1061,
+      1066
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1070,
+      1078
+    ]
+  },
+  "entite_624": {
+    "label": "MISC",
+    "text": "Tu veux que je fuie",
+    "jalons": [
+      1184,
+      1203
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "JY con fens",
+    "jalons": [
+      1217,
+      1228
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "ta famille",
+    "jalons": [
+      1309,
+      1319
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Univers",
+    "jalons": [
+      1326,
+      1333
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      1591,
+      1599
+    ]
+  },
+  "entite_629": {
+    "label": "MISC",
+    "text": "leècés C",
+    "jalons": [
+      1619,
+      1627
+    ]
+  },
+  "entite_630": {
+    "label": "MISC",
+    "text": "CFRANKNER",
+    "jalons": [
+      1838,
+      1847
+    ]
+  },
+  "entite_631": {
+    "label": "MISC",
+    "text": "La _",
+    "jalons": [
+      1848,
+      1852
+    ]
+  },
+  "entite_632": {
+    "label": "MISC",
+    "text": "./euX ‘Allons",
+    "jalons": [
+      1876,
+      1889
+    ]
+  },
+  "entite_633": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      1898,
+      1904
+    ]
+  },
+  "entite_634": {
+    "label": "ORG",
+    "text": "fautôs",
+    "jalons": [
+      1937,
+      1943
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Dour",
+    "jalons": [
+      1961,
+      1965
+    ]
+  },
+  "entite_636": {
+    "label": "ORG",
+    "text": "AT PR",
+    "jalons": [
+      2006,
+      2011
+    ]
+  },
+  "entite_637": {
+    "label": "ORG",
+    "text": "ARBITRER",
+    "jalons": [
+      2017,
+      2025
+    ]
+  },
+  "entite_638": {
+    "label": "MISC",
+    "text": "gr RE",
+    "jalons": [
+      2045,
+      2050
+    ]
+  },
+  "entite_639": {
+    "label": "MISC",
+    "text": "ACTE AIX",
+    "jalons": [
+      2063,
+      2071
+    ]
+  },
+  "entite_640": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      2088,
+      2096
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "Baron eff",
+    "jalons": [
+      2128,
+      2137
+    ]
+  },
+  "entite_642": {
+    "label": "PER",
+    "text": "mé",
+    "jalons": [
+      2197,
+      2199
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "VOILA",
+    "jalons": [
+      2244,
+      2249
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Baron de Marginale",
+    "jalons": [
+      2267,
+      2285
+    ]
+  },
+  "entite_645": {
+    "label": "MISC",
+    "text": "Ï",
+    "jalons": [
+      2329,
+      2330
+    ]
+  },
+  "entite_646": {
+    "label": "MISC",
+    "text": "malheurs Songeons",
+    "jalons": [
+      2480,
+      2497
+    ]
+  },
+  "entite_647": {
+    "label": "MISC",
+    "text": "Conditions",
+    "jalons": [
+      2528,
+      2538
+    ]
+  },
+  "entite_648": {
+    "label": "MISC",
+    "text": "jai",
+    "jalons": [
+      2588,
+      2591
+    ]
+  },
+  "entite_649": {
+    "label": "MISC",
+    "text": "Confentirai",
+    "jalons": [
+      2612,
+      2623
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      2696,
+      2704
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Voyons",
+    "jalons": [
+      2774,
+      2780
+    ]
+  },
+  "entite_652": {
+    "label": "MISC",
+    "text": "Jai beau réfléchir",
+    "jalons": [
+      2917,
+      2935
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "Vois",
+    "jalons": [
+      2996,
+      3000
+    ]
+  },
+  "entite_654": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3025,
+      3033
+    ]
+  },
+  "entite_655": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      3054,
+      3057
+    ]
+  },
+  "entite_656": {
+    "label": "MISC",
+    "text": "Quel parti prendre...",
+    "jalons": [
+      3241,
+      3262
+    ]
+  },
+  "entite_657": {
+    "label": "MISC",
+    "text": "Sauvons-lui plutôt ce chägrin",
+    "jalons": [
+      3296,
+      3325
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "demon déshonneur",
+    "jalons": [
+      3352,
+      3368
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Frañkñer parët",
+    "jalons": [
+      3462,
+      3476
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      3480,
+      3486
+    ]
+  },
+  "entite_661": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      3503,
+      3512
+    ]
+  },
+  "entite_662": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      3697,
+      3701
+    ]
+  },
+  "entite_663": {
+    "label": "LOC",
+    "text": "Chevalier",
+    "jalons": [
+      3744,
+      3753
+    ]
+  },
+  "entite_664": {
+    "label": "MISC",
+    "text": "one",
+    "jalons": [
+      3769,
+      3772
+    ]
+  },
+  "entite_665": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      3795,
+      3807
+    ]
+  },
+  "entite_666": {
+    "label": "MISC",
+    "text": "Le BARON",
+    "jalons": [
+      3816,
+      3824
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "ie justes te F",
+    "jalons": [
+      3826,
+      3840
+    ]
+  },
+  "entite_668": {
+    "label": "MISC",
+    "text": "ÉREZ",
+    "jalons": [
+      3841,
+      3845
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Le Chevalér",
+    "jalons": [
+      3861,
+      3872
+    ]
+  },
+  "entite_670": {
+    "label": "MISC",
+    "text": "DRE 7 ET",
+    "jalons": [
+      3986,
+      3994
+    ]
+  },
+  "entite_671": {
+    "label": "MISC",
+    "text": "CHEVALIER US :",
+    "jalons": [
+      3998,
+      4012
+    ]
+  },
+  "entite_672": {
+    "label": "ORG",
+    "text": "AS PATIENTS",
+    "jalons": [
+      4057,
+      4068
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "NCA A EN R POP ART",
+    "jalons": [
+      4071,
+      4089
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "CEE PE ET 7 e S 7 7",
+    "jalons": [
+      4092,
+      4111
+    ]
+  },
+  "entite_675": {
+    "label": "MISC",
+    "text": "À ASPIRE OA PT PTT",
+    "jalons": [
+      4130,
+      4148
+    ]
+  },
+  "entite_676": {
+    "label": "ORG",
+    "text": "PR NE",
+    "jalons": [
+      4153,
+      4158
+    ]
+  },
+  "entite_677": {
+    "label": "MISC",
+    "text": "ICT DE",
+    "jalons": [
+      4162,
+      4168
+    ]
+  },
+  "entite_678": {
+    "label": "MISC",
+    "text": "LE B",
+    "jalons": [
+      4245,
+      4249
+    ]
+  },
+  "entite_679": {
+    "label": "MISC",
+    "text": "ARO DOS",
+    "jalons": [
+      4251,
+      4258
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "foibleffe",
+    "jalons": [
+      4435,
+      4444
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "dufour",
+    "jalons": [
+      4804,
+      4810
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Francine",
+    "jalons": [
+      4939,
+      4947
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      5009,
+      5021
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      5024,
+      5032
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Mrs L E LA D 0",
+    "jalons": [
+      5040,
+      5054
+    ]
+  },
+  "entite_686": {
+    "label": "ORG",
+    "text": "CHEVALIER",
+    "jalons": [
+      94,
+      103
+    ]
+  },
+  "entite_687": {
+    "label": "MISC",
+    "text": "Ur",
+    "jalons": [
+      135,
+      137
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "ADÉLAIDE pecter",
+    "jalons": [
+      216,
+      231
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      237,
+      245
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      440,
+      448
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "Monfils",
+    "jalons": [
+      481,
+      488
+    ]
+  },
+  "entite_692": {
+    "label": "MISC",
+    "text": "Non, non",
+    "jalons": [
+      814,
+      822
+    ]
+  },
+  "entite_693": {
+    "label": "MISC",
+    "text": "CuevA LI",
+    "jalons": [
+      908,
+      916
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      967,
+      975
+    ]
+  },
+  "entite_695": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      997,
+      1006
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "DE PER",
+    "jalons": [
+      1118,
+      1124
+    ]
+  },
+  "entite_697": {
+    "label": "MISC",
+    "text": "MARGINAL 4 LE CHEVALIER",
+    "jalons": [
+      1135,
+      1158
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      1164,
+      1172
+    ]
+  },
+  "entite_699": {
+    "label": "MISC",
+    "text": "Tu me fais frémir",
+    "jalons": [
+      1280,
+      1297
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "| | LE Baron",
+    "jalons": [
+      1535,
+      1547
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Del",
+    "jalons": [
+      1810,
+      1813
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1832,
+      1840
+    ]
+  },
+  "entite_703": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      1921,
+      1929
+    ]
+  },
+  "entite_704": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      1993,
+      2001
+    ]
+  },
+  "entite_705": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2094,
+      2102
+    ]
+  },
+  "entite_706": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      2106,
+      2115
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Mon pere !",
+    "jalons": [
+      2119,
+      2129
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2193,
+      2201
+    ]
+  },
+  "entite_709": {
+    "label": "MISC",
+    "text": "Ecoutez",
+    "jalons": [
+      2253,
+      2260
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "I baiffe",
+    "jalons": [
+      2264,
+      2272
+    ]
+  },
+  "entite_711": {
+    "label": "ORG",
+    "text": "CHEVALIER",
+    "jalons": [
+      2472,
+      2481
+    ]
+  },
+  "entite_712": {
+    "label": "PER",
+    "text": "Qu'Adélaïde",
+    "jalons": [
+      2483,
+      2494
+    ]
+  },
+  "entite_713": {
+    "label": "MISC",
+    "text": "LE LA R-",
+    "jalons": [
+      2559,
+      2567
+    ]
+  },
+  "entite_714": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      2619,
+      2628
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "LE CHEVALIER Frémilieu",
+    "jalons": [
+      2705,
+      2727
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      2997,
+      3005
+    ]
+  },
+  "entite_717": {
+    "label": "MISC",
+    "text": "mille morts!...",
+    "jalons": [
+      3018,
+      3033
+    ]
+  },
+  "entite_718": {
+    "label": "MISC",
+    "text": "Et vous n’osez",
+    "jalons": [
+      3049,
+      3063
+    ]
+  },
+  "entite_719": {
+    "label": "MISC",
+    "text": "LE B4Afro",
+    "jalons": [
+      3080,
+      3089
+    ]
+  },
+  "entite_720": {
+    "label": "PER",
+    "text": "| LE CHEVALIER",
+    "jalons": [
+      3120,
+      3134
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "| LE Baron",
+    "jalons": [
+      3202,
+      3212
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      3236,
+      3245
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "Point de milieu",
+    "jalons": [
+      3285,
+      3300
+    ]
+  },
+  "entite_724": {
+    "label": "MISC",
+    "text": "Chevalier !",
+    "jalons": [
+      3550,
+      3561
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      3596,
+      3604
+    ]
+  },
+  "entite_726": {
+    "label": "PER",
+    "text": "Voudriez",
+    "jalons": [
+      3653,
+      3661
+    ]
+  },
+  "entite_727": {
+    "label": "MISC",
+    "text": "Laiïfle-moi",
+    "jalons": [
+      3834,
+      3845
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "Laissez-moi, vous dis-je...",
+    "jalons": [
+      3847,
+      3874
+    ]
+  },
+  "entite_729": {
+    "label": "MISC",
+    "text": "Mes enfans m'affligent de tous côtés",
+    "jalons": [
+      3928,
+      3964
+    ]
+  },
+  "entite_730": {
+    "label": "PER",
+    "text": "Jai",
+    "jalons": [
+      3966,
+      3969
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "Cheva-",
+    "jalons": [
+      4018,
+      4024
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "Signera-je ma honte & celle de ma postérité",
+    "jalons": [
+      4067,
+      4110
+    ]
+  },
+  "entite_733": {
+    "label": "MISC",
+    "text": "Franklin... LE CHEVALIER",
+    "jalons": [
+      4238,
+      4262
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4289,
+      4292
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      4389,
+      4397
+    ]
+  },
+  "entite_736": {
+    "label": "PER",
+    "text": "| LE BAR o N. Ciel!",
+    "jalons": [
+      4399,
+      4418
+    ]
+  },
+  "entite_737": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      4422,
+      4431
+    ]
+  },
+  "entite_738": {
+    "label": "MISC",
+    "text": "L E L A R O",
+    "jalons": [
+      4485,
+      4496
+    ]
+  },
+  "entite_739": {
+    "label": "MISC",
+    "text": "Le DE MARGINAL",
+    "jalons": [
+      4516,
+      4530
+    ]
+  },
+  "entite_740": {
+    "label": "MISC",
+    "text": "CHEVALIER S",
+    "jalons": [
+      4539,
+      4550
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "BaROm L",
+    "jalons": [
+      4569,
+      4576
+    ]
+  },
+  "entite_742": {
+    "label": "PER",
+    "text": "Faulkner",
+    "jalons": [
+      4641,
+      4649
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "B AR ON",
+    "jalons": [
+      4655,
+      4662
+    ]
+  },
+  "entite_744": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      4698,
+      4710
+    ]
+  },
+  "entite_745": {
+    "label": "MISC",
+    "text": "LE BaRon",
+    "jalons": [
+      4745,
+      4753
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "1e fautai",
+    "jalons": [
+      4789,
+      4798
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      4829,
+      4841
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "afyle",
+    "jalons": [
+      4894,
+      4899
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      5155,
+      5163
+    ]
+  },
+  "entite_750": {
+    "label": "MISC",
+    "text": "L LE Baron La perfide?",
+    "jalons": [
+      5282,
+      5304
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "| | D",
+    "jalons": [
+      5339,
+      5344
+    ]
+  },
+  "entite_752": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      5351,
+      5359
+    ]
+  },
+  "entite_753": {
+    "label": "MISC",
+    "text": "Toi, vas",
+    "jalons": [
+      11,
+      19
+    ]
+  },
+  "entite_754": {
+    "label": "MISC",
+    "text": "Va Cours",
+    "jalons": [
+      93,
+      101
+    ]
+  },
+  "entite_755": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      120,
+      128
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      146,
+      154
+    ]
+  },
+  "entite_757": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      156,
+      168
+    ]
+  },
+  "entite_758": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      175,
+      183
+    ]
+  },
+  "entite_759": {
+    "label": "MISC",
+    "text": "Tout étoit",
+    "jalons": [
+      196,
+      206
+    ]
+  },
+  "entite_760": {
+    "label": "ORG",
+    "text": "LL Bonne",
+    "jalons": [
+      248,
+      256
+    ]
+  },
+  "entite_761": {
+    "label": "MISC",
+    "text": "Franklin paro&",
+    "jalons": [
+      258,
+      272
+    ]
+  },
+  "entite_762": {
+    "label": "PER",
+    "text": "Antoine",
+    "jalons": [
+      276,
+      283
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      331,
+      339
+    ]
+  },
+  "entite_764": {
+    "label": "MISC",
+    "text": "Fa LE CHEVALIER",
+    "jalons": [
+      341,
+      356
+    ]
+  },
+  "entite_765": {
+    "label": "MISC",
+    "text": "Allez vous coucher auf",
+    "jalons": [
+      359,
+      381
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      391,
+      399
+    ]
+  },
+  "entite_767": {
+    "label": "MISC",
+    "text": "SCENE III",
+    "jalons": [
+      560,
+      569
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "fes",
+    "jalons": [
+      592,
+      595
+    ]
+  },
+  "entite_769": {
+    "label": "ORG",
+    "text": "UE",
+    "jalons": [
+      601,
+      603
+    ]
+  },
+  "entite_770": {
+    "label": "MISC",
+    "text": "Baron & le Chevalier",
+    "jalons": [
+      615,
+      635
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Adélaïde!",
+    "jalons": [
+      689,
+      698
+    ]
+  },
+  "entite_772": {
+    "label": "LOC",
+    "text": "Soyons",
+    "jalons": [
+      791,
+      797
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "DE MARIENDATL",
+    "jalons": [
+      888,
+      901
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      922,
+      930
+    ]
+  },
+  "entite_775": {
+    "label": "MISC",
+    "text": "Les che- vaux",
+    "jalons": [
+      948,
+      961
+    ]
+  },
+  "entite_776": {
+    "label": "MISC",
+    "text": "Amour, Que ;",
+    "jalons": [
+      1085,
+      1097
+    ]
+  },
+  "entite_777": {
+    "label": "MISC",
+    "text": "Les s perécuteurse",
+    "jalons": [
+      1191,
+      1209
+    ]
+  },
+  "entite_778": {
+    "label": "MISC",
+    "text": "S C E N E L 2 LE CHEVALIER",
+    "jalons": [
+      1210,
+      1236
+    ]
+  },
+  "entite_779": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1238,
+      1246
+    ]
+  },
+  "entite_780": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1304,
+      1312
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1322,
+      1330
+    ]
+  },
+  "entite_782": {
+    "label": "MISC",
+    "text": "Le cruel!",
+    "jalons": [
+      1344,
+      1353
+    ]
+  },
+  "entite_783": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      1357,
+      1366
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      1415,
+      1423
+    ]
+  },
+  "entite_785": {
+    "label": "PER",
+    "text": "Suivons",
+    "jalons": [
+      1425,
+      1432
+    ]
+  },
+  "entite_786": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      1441,
+      1447
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "anne",
+    "jalons": [
+      1492,
+      1496
+    ]
+  },
+  "entite_788": {
+    "label": "MISC",
+    "text": "RUES",
+    "jalons": [
+      1506,
+      1510
+    ]
+  },
+  "entite_789": {
+    "label": "ORG",
+    "text": "ADÉDAIDE",
+    "jalons": [
+      1514,
+      1522
+    ]
+  },
+  "entite_790": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1543,
+      1551
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      1554,
+      1562
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "DÉLAÏIDE",
+    "jalons": [
+      1637,
+      1645
+    ]
+  },
+  "entite_793": {
+    "label": "LOC",
+    "text": "ee",
+    "jalons": [
+      1648,
+      1650
+    ]
+  },
+  "entite_794": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      1695,
+      1703
+    ]
+  },
+  "entite_795": {
+    "label": "LOC",
+    "text": "A DÉLAÏDE",
+    "jalons": [
+      1719,
+      1728
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      1730,
+      1732
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      2001,
+      2009
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      2060,
+      2068
+    ]
+  },
+  "entite_799": {
+    "label": "MISC",
+    "text": "O mon pere",
+    "jalons": [
+      2070,
+      2080
+    ]
+  },
+  "entite_800": {
+    "label": "MISC",
+    "text": "Avez",
+    "jalons": [
+      2128,
+      2132
+    ]
+  },
+  "entite_801": {
+    "label": "PER",
+    "text": "DE MARGINAL",
+    "jalons": [
+      2154,
+      2165
+    ]
+  },
+  "entite_802": {
+    "label": "ORG",
+    "text": "TUEUR",
+    "jalons": [
+      2207,
+      2212
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Ingrate !",
+    "jalons": [
+      2269,
+      2278
+    ]
+  },
+  "entite_804": {
+    "label": "PER",
+    "text": "dé Franklin",
+    "jalons": [
+      2295,
+      2306
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2325,
+      2333
+    ]
+  },
+  "entite_806": {
+    "label": "MISC",
+    "text": "Eh!",
+    "jalons": [
+      2336,
+      2339
+    ]
+  },
+  "entite_807": {
+    "label": "PER",
+    "text": "Frappez",
+    "jalons": [
+      2452,
+      2459
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "L L",
+    "jalons": [
+      2541,
+      2544
+    ]
+  },
+  "entite_809": {
+    "label": "MISC",
+    "text": "Ma fille !",
+    "jalons": [
+      2566,
+      2576
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "DÉLAÏD E",
+    "jalons": [
+      2586,
+      2594
+    ]
+  },
+  "entite_811": {
+    "label": "MISC",
+    "text": "Les mains",
+    "jalons": [
+      2607,
+      2616
+    ]
+  },
+  "entite_812": {
+    "label": "MISC",
+    "text": "Les bras!",
+    "jalons": [
+      2655,
+      2664
+    ]
+  },
+  "entite_813": {
+    "label": "MISC",
+    "text": "La nature l’e empôeté",
+    "jalons": [
+      2680,
+      2701
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      2787,
+      2796
+    ]
+  },
+  "entite_815": {
+    "label": "PER",
+    "text": "Ab",
+    "jalons": [
+      2799,
+      2801
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "Dieux!",
+    "jalons": [
+      2803,
+      2809
+    ]
+  },
+  "entite_817": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      2819,
+      2828
+    ]
+  },
+  "entite_818": {
+    "label": "MISC",
+    "text": "TADÉLAIDE",
+    "jalons": [
+      2834,
+      2843
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "S c E N E",
+    "jalons": [
+      2845,
+      2854
+    ]
+  },
+  "entite_820": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      2871,
+      2883
+    ]
+  },
+  "entite_821": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2885,
+      2893
+    ]
+  },
+  "entite_822": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      2896,
+      2904
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "Lñce",
+    "jalons": [
+      2935,
+      2939
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "DEÉLAÏDE",
+    "jalons": [
+      3093,
+      3101
+    ]
+  },
+  "entite_825": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      3129,
+      3138
+    ]
+  },
+  "entite_826": {
+    "label": "LOC",
+    "text": "DÉLAÏDE",
+    "jalons": [
+      3184,
+      3191
+    ]
+  },
+  "entite_827": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      3313,
+      3322
+    ]
+  },
+  "entite_828": {
+    "label": "LOC",
+    "text": "É",
+    "jalons": [
+      3387,
+      3388
+    ]
+  },
+  "entite_829": {
+    "label": "MISC",
+    "text": "Mon pere",
+    "jalons": [
+      3404,
+      3412
+    ]
+  },
+  "entite_830": {
+    "label": "MISC",
+    "text": "LE CHEVALIER Suivez-moi",
+    "jalons": [
+      3418,
+      3441
+    ]
+  },
+  "entite_831": {
+    "label": "MISC",
+    "text": "RS _ DE MARGINAL",
+    "jalons": [
+      3459,
+      3475
+    ]
+  },
+  "entite_832": {
+    "label": "MISC",
+    "text": "Lite AU ER",
+    "jalons": [
+      3479,
+      3489
+    ]
+  },
+  "entite_833": {
+    "label": "ORG",
+    "text": "AÎDE",
+    "jalons": [
+      3490,
+      3494
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "Voyez més efforts",
+    "jalons": [
+      3499,
+      3516
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "Häcrables",
+    "jalons": [
+      3522,
+      3531
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "môh frere",
+    "jalons": [
+      3536,
+      3545
+    ]
+  },
+  "entite_837": {
+    "label": "MISC",
+    "text": "Marchez",
+    "jalons": [
+      3574,
+      3581
+    ]
+  },
+  "entite_838": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      3616,
+      3624
+    ]
+  },
+  "entite_839": {
+    "label": "MISC",
+    "text": "grands CRiS",
+    "jalons": [
+      3646,
+      3657
+    ]
+  },
+  "entite_840": {
+    "label": "ORG",
+    "text": "ED PS",
+    "jalons": [
+      3693,
+      3698
+    ]
+  },
+  "entite_841": {
+    "label": "MISC",
+    "text": "Ou fois-je Quel trouble profond a fafpeñdu l'ufdgé",
+    "jalons": [
+      3750,
+      3800
+    ]
+  },
+  "entite_842": {
+    "label": "MISC",
+    "text": "La nuit du tombeau",
+    "jalons": [
+      3842,
+      3860
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "_mà fille",
+    "jalons": [
+      3892,
+      3901
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3912,
+      3920
+    ]
+  },
+  "entite_845": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      3923,
+      3927
+    ]
+  },
+  "entite_846": {
+    "label": "ORG",
+    "text": "IL Je leve",
+    "jalons": [
+      3996,
+      4006
+    ]
+  },
+  "entite_847": {
+    "label": "MISC",
+    "text": "Barbare!",
+    "jalons": [
+      4010,
+      4018
+    ]
+  },
+  "entite_848": {
+    "label": "PER",
+    "text": "foutiendrai",
+    "jalons": [
+      4147,
+      4158
+    ]
+  },
+  "entite_849": {
+    "label": "MISC",
+    "text": "cès",
+    "jalons": [
+      4173,
+      4176
+    ]
+  },
+  "entite_850": {
+    "label": "PER",
+    "text": "Aimons",
+    "jalons": [
+      4209,
+      4215
+    ]
+  },
+  "entite_851": {
+    "label": "MISC",
+    "text": "Honneur foûis'",
+    "jalons": [
+      4311,
+      4325
+    ]
+  },
+  "entite_852": {
+    "label": "MISC",
+    "text": "its D 1v",
+    "jalons": [
+      4426,
+      4434
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      4436,
+      4437
+    ]
+  },
+  "entite_854": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      4440,
+      4448
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      4500,
+      4505
+    ]
+  },
+  "entite_856": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      4514,
+      4520
+    ]
+  },
+  "entite_857": {
+    "label": "PER",
+    "text": "Que",
+    "jalons": [
+      4522,
+      4525
+    ]
+  },
+  "entite_858": {
+    "label": "ORG",
+    "text": "PS SCENE",
+    "jalons": [
+      4566,
+      4574
+    ]
+  },
+  "entite_859": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      4580,
+      4588
+    ]
+  },
+  "entite_860": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4590,
+      4598
+    ]
+  },
+  "entite_861": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4600,
+      4608
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      4619,
+      4620
+    ]
+  },
+  "entite_863": {
+    "label": "PER",
+    "text": "Adé",
+    "jalons": [
+      4663,
+      4666
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "laide",
+    "jalons": [
+      4668,
+      4673
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      4716,
+      4721
+    ]
+  },
+  "entite_866": {
+    "label": "MISC",
+    "text": "Monsieur !",
+    "jalons": [
+      4728,
+      4738
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "Je me jette à vos genoux",
+    "jalons": [
+      4851,
+      4875
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "Eclairciflez",
+    "jalons": [
+      4877,
+      4889
+    ]
+  },
+  "entite_869": {
+    "label": "PER",
+    "text": "| LE Baron",
+    "jalons": [
+      4973,
+      4983
+    ]
+  },
+  "entite_870": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5062,
+      5070
+    ]
+  },
+  "entite_871": {
+    "label": "ORG",
+    "text": "ner",
+    "jalons": [
+      5111,
+      5114
+    ]
+  },
+  "entite_872": {
+    "label": "MISC",
+    "text": "LE Baron Je vais me coucher",
+    "jalons": [
+      5149,
+      5176
+    ]
+  },
+  "entite_873": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5194,
+      5202
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Baron: Moniteurs DE MARIENDAIL",
+    "jalons": [
+      5206,
+      5236
+    ]
+  },
+  "entite_875": {
+    "label": "ORG",
+    "text": "CE N",
+    "jalons": [
+      5274,
+      5278
+    ]
+  },
+  "entite_876": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      5296,
+      5308
+    ]
+  },
+  "entite_877": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5312,
+      5320
+    ]
+  },
+  "entite_878": {
+    "label": "ORG",
+    "text": "CHEVALIER",
+    "jalons": [
+      5325,
+      5334
+    ]
+  },
+  "entite_879": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      5374,
+      5382
+    ]
+  },
+  "entite_880": {
+    "label": "MISC",
+    "text": "Laïfleznous",
+    "jalons": [
+      5399,
+      5410
+    ]
+  },
+  "entite_881": {
+    "label": "MISC",
+    "text": "FrRrANKNER Permettez",
+    "jalons": [
+      5412,
+      5432
+    ]
+  },
+  "entite_882": {
+    "label": "MISC",
+    "text": "Monsieur... LE CHEVALIER",
+    "jalons": [
+      5434,
+      5458
+    ]
+  },
+  "entite_883": {
+    "label": "LOC",
+    "text": "obéflex",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_884": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      11,
+      19
+    ]
+  },
+  "entite_885": {
+    "label": "ORG",
+    "text": "Barom",
+    "jalons": [
+      23,
+      28
+    ]
+  },
+  "entite_886": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      30,
+      33
+    ]
+  },
+  "entite_887": {
+    "label": "MISC",
+    "text": "CHEvALiER",
+    "jalons": [
+      84,
+      93
+    ]
+  },
+  "entite_888": {
+    "label": "PER",
+    "text": "Obéiflez",
+    "jalons": [
+      97,
+      105
+    ]
+  },
+  "entite_889": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_890": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      197,
+      205
+    ]
+  },
+  "entite_891": {
+    "label": "LOC",
+    "text": "Modérons",
+    "jalons": [
+      214,
+      222
+    ]
+  },
+  "entite_892": {
+    "label": "MISC",
+    "text": "Je me perdrois",
+    "jalons": [
+      229,
+      243
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      246,
+      247
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      259,
+      267
+    ]
+  },
+  "entite_895": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      296,
+      308
+    ]
+  },
+  "entite_896": {
+    "label": "ORG",
+    "text": "CHEVALIER",
+    "jalons": [
+      312,
+      321
+    ]
+  },
+  "entite_897": {
+    "label": "PER",
+    "text": "C- EN",
+    "jalons": [
+      331,
+      336
+    ]
+  },
+  "entite_898": {
+    "label": "MISC",
+    "text": "Son crime s'expir",
+    "jalons": [
+      439,
+      456
+    ]
+  },
+  "entite_899": {
+    "label": "PER",
+    "text": "éle",
+    "jalons": [
+      464,
+      467
+    ]
+  },
+  "entite_900": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      508,
+      516
+    ]
+  },
+  "entite_901": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      519,
+      523
+    ]
+  },
+  "entite_902": {
+    "label": "MISC",
+    "text": "nes fens",
+    "jalons": [
+      589,
+      597
+    ]
+  },
+  "entite_903": {
+    "label": "MISC",
+    "text": "Ciel!",
+    "jalons": [
+      676,
+      681
+    ]
+  },
+  "entite_904": {
+    "label": "PER",
+    "text": "fa mere",
+    "jalons": [
+      687,
+      694
+    ]
+  },
+  "entite_905": {
+    "label": "MISC",
+    "text": "Parle... _jentends du bruit",
+    "jalons": [
+      742,
+      769
+    ]
+  },
+  "entite_906": {
+    "label": "MISC",
+    "text": "Mon fils",
+    "jalons": [
+      797,
+      805
+    ]
+  },
+  "entite_907": {
+    "label": "MISC",
+    "text": "fuyons",
+    "jalons": [
+      840,
+      846
+    ]
+  },
+  "entite_908": {
+    "label": "MISC",
+    "text": "4 LE CHEVALIER",
+    "jalons": [
+      848,
+      862
+    ]
+  },
+  "entite_909": {
+    "label": "MISC",
+    "text": "Fuyons",
+    "jalons": [
+      864,
+      870
+    ]
+  },
+  "entite_910": {
+    "label": "PER",
+    "text": "fuyons",
+    "jalons": [
+      882,
+      888
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "troifieme",
+    "jalons": [
+      897,
+      906
+    ]
+  },
+  "entite_912": {
+    "label": "PER",
+    "text": "Aëta _",
+    "jalons": [
+      908,
+      914
+    ]
+  },
+  "entite_913": {
+    "label": "MISC",
+    "text": "nt",
+    "jalons": [
+      916,
+      918
+    ]
+  },
+  "entite_914": {
+    "label": "MISC",
+    "text": "PE Met",
+    "jalons": [
+      963,
+      969
+    ]
+  },
+  "entite_915": {
+    "label": "MISC",
+    "text": "MARCENAIS",
+    "jalons": [
+      985,
+      994
+    ]
+  },
+  "entite_916": {
+    "label": "MISC",
+    "text": "ACTE IV",
+    "jalons": [
+      1001,
+      1008
+    ]
+  },
+  "entite_917": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      1026,
+      1034
+    ]
+  },
+  "entite_918": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      1036,
+      1046
+    ]
+  },
+  "entite_919": {
+    "label": "PER",
+    "text": "Baronne",
+    "jalons": [
+      1107,
+      1114
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "Ban ONNE",
+    "jalons": [
+      1342,
+      1350
+    ]
+  },
+  "entite_921": {
+    "label": "MISC",
+    "text": "Vous me fuyez",
+    "jalons": [
+      1352,
+      1365
+    ]
+  },
+  "entite_922": {
+    "label": "PER",
+    "text": "Calmez",
+    "jalons": [
+      1402,
+      1408
+    ]
+  },
+  "entite_923": {
+    "label": "ORG",
+    "text": "fon",
+    "jalons": [
+      1425,
+      1428
+    ]
+  },
+  "entite_924": {
+    "label": "MISC",
+    "text": "Où et la fille?",
+    "jalons": [
+      1464,
+      1479
+    ]
+  },
+  "entite_925": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      1523,
+      1529
+    ]
+  },
+  "entite_926": {
+    "label": "MISC",
+    "text": "Re {oit & son amant",
+    "jalons": [
+      1563,
+      1582
+    ]
+  },
+  "entite_927": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      1589,
+      1596
+    ]
+  },
+  "entite_928": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1689,
+      1697
+    ]
+  },
+  "entite_929": {
+    "label": "MISC",
+    "text": "Ex",
+    "jalons": [
+      1743,
+      1745
+    ]
+  },
+  "entite_930": {
+    "label": "MISC",
+    "text": "La BARONNES",
+    "jalons": [
+      1782,
+      1793
+    ]
+  },
+  "entite_931": {
+    "label": "MISC",
+    "text": "Quelle a ” été on espoir ?",
+    "jalons": [
+      1832,
+      1858
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2006,
+      2012
+    ]
+  },
+  "entite_933": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2169,
+      2177
+    ]
+  },
+  "entite_934": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2208,
+      2215
+    ]
+  },
+  "entite_935": {
+    "label": "PER",
+    "text": "Parlez",
+    "jalons": [
+      2385,
+      2391
+    ]
+  },
+  "entite_936": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      2394,
+      2402
+    ]
+  },
+  "entite_937": {
+    "label": "MISC",
+    "text": "Francine",
+    "jalons": [
+      2517,
+      2525
+    ]
+  },
+  "entite_938": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      2527,
+      2533
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      2535,
+      2541
+    ]
+  },
+  "entite_940": {
+    "label": "MISC",
+    "text": "Mes enfants",
+    "jalons": [
+      2552,
+      2563
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      2672,
+      2678
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      2680,
+      2686
+    ]
+  },
+  "entite_943": {
+    "label": "PER",
+    "text": "Antoine",
+    "jalons": [
+      2688,
+      2695
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      2744,
+      2752
+    ]
+  },
+  "entite_945": {
+    "label": "MISC",
+    "text": "Mon ami?",
+    "jalons": [
+      2770,
+      2778
+    ]
+  },
+  "entite_946": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2797,
+      2805
+    ]
+  },
+  "entite_947": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2820,
+      2826
+    ]
+  },
+  "entite_948": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      2850,
+      2855
+    ]
+  },
+  "entite_949": {
+    "label": "MISC",
+    "text": "BARONNE Cruels",
+    "jalons": [
+      2897,
+      2911
+    ]
+  },
+  "entite_950": {
+    "label": "ORG",
+    "text": "Ts fortes",
+    "jalons": [
+      2943,
+      2952
+    ]
+  },
+  "entite_951": {
+    "label": "LOC",
+    "text": "Eb",
+    "jalons": [
+      2955,
+      2957
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "Monsieur le Baron",
+    "jalons": [
+      2964,
+      2981
+    ]
+  },
+  "entite_953": {
+    "label": "PER",
+    "text": "L.E",
+    "jalons": [
+      3042,
+      3045
+    ]
+  },
+  "entite_954": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3218,
+      3225
+    ]
+  },
+  "entite_955": {
+    "label": "MISC",
+    "text": "Que puis-je apprendre de plus affreux?",
+    "jalons": [
+      3305,
+      3343
+    ]
+  },
+  "entite_956": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      3358,
+      3367
+    ]
+  },
+  "entite_957": {
+    "label": "PER",
+    "text": "laffon",
+    "jalons": [
+      3483,
+      3489
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "manille",
+    "jalons": [
+      3493,
+      3500
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "DÉLAIÏDE LE BARON",
+    "jalons": [
+      3816,
+      3833
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      3857,
+      3863
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Montrez",
+    "jalons": [
+      3938,
+      3945
+    ]
+  },
+  "entite_962": {
+    "label": "MISC",
+    "text": "LA BARONNE Eh!",
+    "jalons": [
+      4052,
+      4066
+    ]
+  },
+  "entite_963": {
+    "label": "MISC",
+    "text": "dée",
+    "jalons": [
+      4345,
+      4348
+    ]
+  },
+  "entite_964": {
+    "label": "MISC",
+    "text": "Rendez-moi ma fille",
+    "jalons": [
+      4558,
+      4577
+    ]
+  },
+  "entite_965": {
+    "label": "MISC",
+    "text": "Ou mon déespoir",
+    "jalons": [
+      4620,
+      4635
+    ]
+  },
+  "entite_966": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      4637,
+      4645
+    ]
+  },
+  "entite_967": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      4709,
+      4719
+    ]
+  },
+  "entite_968": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4744,
+      4752
+    ]
+  },
+  "entite_969": {
+    "label": "PER",
+    "text": "| LE Ban O",
+    "jalons": [
+      4785,
+      4795
+    ]
+  },
+  "entite_970": {
+    "label": "MISC",
+    "text": "Je ne les mérite pas",
+    "jalons": [
+      4823,
+      4843
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Be",
+    "jalons": [
+      4892,
+      4894
+    ]
+  },
+  "entite_972": {
+    "label": "ORG",
+    "text": "Rate",
+    "jalons": [
+      4907,
+      4911
+    ]
+  },
+  "entite_973": {
+    "label": "ORG",
+    "text": "ZZ",
+    "jalons": [
+      4939,
+      4941
+    ]
+  },
+  "entite_974": {
+    "label": "LOC",
+    "text": "Bar",
+    "jalons": [
+      4953,
+      4956
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      4969,
+      4971
+    ]
+  },
+  "entite_976": {
+    "label": "PER",
+    "text": "tu.as",
+    "jalons": [
+      5025,
+      5030
+    ]
+  },
+  "entite_977": {
+    "label": "MISC",
+    "text": "CRree— 2",
+    "jalons": [
+      5052,
+      5060
+    ]
+  },
+  "entite_978": {
+    "label": "MISC",
+    "text": "GAME",
+    "jalons": [
+      5061,
+      5065
+    ]
+  },
+  "entite_979": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5088,
+      5095
+    ]
+  },
+  "entite_980": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5097,
+      5105
+    ]
+  },
+  "entite_981": {
+    "label": "MISC",
+    "text": "cÆRAYONNER",
+    "jalons": [
+      5107,
+      5117
+    ]
+  },
+  "entite_982": {
+    "label": "MISC",
+    "text": "_ PVE",
+    "jalons": [
+      5161,
+      5166
+    ]
+  },
+  "entite_983": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      5178,
+      5183
+    ]
+  },
+  "entite_984": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5201,
+      5208
+    ]
+  },
+  "entite_985": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5260,
+      5267
+    ]
+  },
+  "entite_986": {
+    "label": "MISC",
+    "text": "Eh!",
+    "jalons": [
+      5269,
+      5272
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "Lot",
+    "jalons": [
+      5279,
+      5282
+    ]
+  },
+  "entite_988": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5284,
+      5292
+    ]
+  },
+  "entite_989": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      5329,
+      5336
+    ]
+  },
+  "entite_990": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      5354,
+      5362
+    ]
+  },
+  "entite_991": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      5364,
+      5366
+    ]
+  },
+  "entite_992": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      6,
+      14
+    ]
+  },
+  "entite_993": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      19,
+      26
+    ]
+  },
+  "entite_994": {
+    "label": "MISC",
+    "text": "FRANCINE",
+    "jalons": [
+      47,
+      55
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "Votrefille",
+    "jalons": [
+      58,
+      68
+    ]
+  },
+  "entite_996": {
+    "label": "MISC",
+    "text": "oo E LA",
+    "jalons": [
+      73,
+      80
+    ]
+  },
+  "entite_997": {
+    "label": "MISC",
+    "text": "BARONNE Ma fille ?",
+    "jalons": [
+      81,
+      99
+    ]
+  },
+  "entite_998": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      102,
+      110
+    ]
+  },
+  "entite_999": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      136,
+      143
+    ]
+  },
+  "entite_1000": {
+    "label": "MISC",
+    "text": "Ciel!",
+    "jalons": [
+      145,
+      150
+    ]
+  },
+  "entite_1001": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      153,
+      161
+    ]
+  },
+  "entite_1002": {
+    "label": "MISC",
+    "text": "LA BARONNE De Je ne l'ai pas cru",
+    "jalons": [
+      239,
+      271
+    ]
+  },
+  "entite_1003": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      273,
+      281
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "fon frere",
+    "jalons": [
+      292,
+      301
+    ]
+  },
+  "entite_1005": {
+    "label": "MISC",
+    "text": "BARONNE Que m'apprenez",
+    "jalons": [
+      306,
+      328
+    ]
+  },
+  "entite_1006": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      336,
+      344
+    ]
+  },
+  "entite_1007": {
+    "label": "MISC",
+    "text": "Madäme",
+    "jalons": [
+      370,
+      376
+    ]
+  },
+  "entite_1008": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      472,
+      475
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      476,
+      482
+    ]
+  },
+  "entite_1010": {
+    "label": "PER",
+    "text": "éclairciflez le fort",
+    "jalons": [
+      484,
+      504
+    ]
+  },
+  "entite_1011": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      507,
+      515
+    ]
+  },
+  "entite_1012": {
+    "label": "MISC",
+    "text": "DE MARGINAL",
+    "jalons": [
+      649,
+      660
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "Aïfiez",
+    "jalons": [
+      709,
+      715
+    ]
+  },
+  "entite_1014": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      747,
+      752
+    ]
+  },
+  "entite_1015": {
+    "label": "ORG",
+    "text": "Priez-",
+    "jalons": [
+      754,
+      760
+    ]
+  },
+  "entite_1016": {
+    "label": "ORG",
+    "text": "Chevalier",
+    "jalons": [
+      835,
+      844
+    ]
+  },
+  "entite_1017": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      933,
+      939
+    ]
+  },
+  "entite_1018": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      963,
+      971
+    ]
+  },
+  "entite_1019": {
+    "label": "PER",
+    "text": "Son pere",
+    "jalons": [
+      998,
+      1006
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "fon frere",
+    "jalons": [
+      1008,
+      1017
+    ]
+  },
+  "entite_1021": {
+    "label": "MISC",
+    "text": "BARONNE Si",
+    "jalons": [
+      1125,
+      1135
+    ]
+  },
+  "entite_1022": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1152,
+      1160
+    ]
+  },
+  "entite_1023": {
+    "label": "PER",
+    "text": "dre",
+    "jalons": [
+      1260,
+      1263
+    ]
+  },
+  "entite_1024": {
+    "label": "MISC",
+    "text": "Je vous parle peut-être pour la derniere fois",
+    "jalons": [
+      1269,
+      1314
+    ]
+  },
+  "entite_1025": {
+    "label": "LOC",
+    "text": "fes",
+    "jalons": [
+      1390,
+      1393
+    ]
+  },
+  "entite_1026": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      1413,
+      1419
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "Chevalier & le Baron",
+    "jalons": [
+      1509,
+      1529
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      1592,
+      1600
+    ]
+  },
+  "entite_1029": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      1644,
+      1650
+    ]
+  },
+  "entite_1030": {
+    "label": "MISC",
+    "text": "BARONNE Vous vous oubliez Dumont",
+    "jalons": [
+      1682,
+      1714
+    ]
+  },
+  "entite_1031": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      1720,
+      1725
+    ]
+  },
+  "entite_1032": {
+    "label": "MISC",
+    "text": "jen",
+    "jalons": [
+      1741,
+      1744
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "DE L",
+    "jalons": [
+      1781,
+      1785
+    ]
+  },
+  "entite_1034": {
+    "label": "MISC",
+    "text": "A A EST roman",
+    "jalons": [
+      1808,
+      1821
+    ]
+  },
+  "entite_1035": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1825,
+      1833
+    ]
+  },
+  "entite_1036": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2098,
+      2106
+    ]
+  },
+  "entite_1037": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      2138,
+      2144
+    ]
+  },
+  "entite_1038": {
+    "label": "LOC",
+    "text": "Franknerne",
+    "jalons": [
+      2168,
+      2178
+    ]
+  },
+  "entite_1039": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2211,
+      2218
+    ]
+  },
+  "entite_1040": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      2226,
+      2234
+    ]
+  },
+  "entite_1041": {
+    "label": "PER",
+    "text": "Fra N NER",
+    "jalons": [
+      2238,
+      2247
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2327,
+      2335
+    ]
+  },
+  "entite_1043": {
+    "label": "MISC",
+    "text": "La mort peut-être",
+    "jalons": [
+      2542,
+      2559
+    ]
+  },
+  "entite_1044": {
+    "label": "MISC",
+    "text": "La La R ON",
+    "jalons": [
+      2561,
+      2571
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2701,
+      2709
+    ]
+  },
+  "entite_1046": {
+    "label": "MISC",
+    "text": "ET # DÉ MARIENDAI 63 oo ue CFRANKNER",
+    "jalons": [
+      2762,
+      2798
+    ]
+  },
+  "entite_1047": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2833,
+      2840
+    ]
+  },
+  "entite_1048": {
+    "label": "MISC",
+    "text": "Je Baron",
+    "jalons": [
+      2939,
+      2947
+    ]
+  },
+  "entite_1049": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      2960,
+      2969
+    ]
+  },
+  "entite_1050": {
+    "label": "MISC",
+    "text": "SCENE IIL",
+    "jalons": [
+      3053,
+      3062
+    ]
+  },
+  "entite_1051": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3064,
+      3072
+    ]
+  },
+  "entite_1052": {
+    "label": "MISC",
+    "text": "A péraie!",
+    "jalons": [
+      3081,
+      3090
+    ]
+  },
+  "entite_1053": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3103,
+      3111
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      3146,
+      3150
+    ]
+  },
+  "entite_1055": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      3321,
+      3329
+    ]
+  },
+  "entite_1056": {
+    "label": "MISC",
+    "text": "Dieux!",
+    "jalons": [
+      3412,
+      3418
+    ]
+  },
+  "entite_1057": {
+    "label": "PER",
+    "text": "Quel coupçon",
+    "jalons": [
+      3419,
+      3431
+    ]
+  },
+  "entite_1058": {
+    "label": "ORG",
+    "text": "Dupuis",
+    "jalons": [
+      3469,
+      3475
+    ]
+  },
+  "entite_1059": {
+    "label": "MISC",
+    "text": "il’",
+    "jalons": [
+      3668,
+      3671
+    ]
+  },
+  "entite_1060": {
+    "label": "MISC",
+    "text": "vi",
+    "jalons": [
+      3684,
+      3686
+    ]
+  },
+  "entite_1061": {
+    "label": "ORG",
+    "text": "ADÈLAIDE",
+    "jalons": [
+      3750,
+      3758
+    ]
+  },
+  "entite_1062": {
+    "label": "ORG",
+    "text": "SCENE IF",
+    "jalons": [
+      3760,
+      3768
+    ]
+  },
+  "entite_1063": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3780,
+      3788
+    ]
+  },
+  "entite_1064": {
+    "label": "MISC",
+    "text": "LE BaRON",
+    "jalons": [
+      3790,
+      3798
+    ]
+  },
+  "entite_1065": {
+    "label": "PER",
+    "text": "hazard Franklin",
+    "jalons": [
+      3870,
+      3885
+    ]
+  },
+  "entite_1066": {
+    "label": "LOC",
+    "text": "laïflot",
+    "jalons": [
+      3922,
+      3929
+    ]
+  },
+  "entite_1067": {
+    "label": "ORG",
+    "text": "châ",
+    "jalons": [
+      3945,
+      3948
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "fi Pon",
+    "jalons": [
+      3960,
+      3966
+    ]
+  },
+  "entite_1069": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3980,
+      3988
+    ]
+  },
+  "entite_1070": {
+    "label": "LOC",
+    "text": "4 Franklin",
+    "jalons": [
+      4025,
+      4035
+    ]
+  },
+  "entite_1071": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      4039,
+      4045
+    ]
+  },
+  "entite_1072": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      4058,
+      4064
+    ]
+  },
+  "entite_1073": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4085,
+      4093
+    ]
+  },
+  "entite_1074": {
+    "label": "MISC",
+    "text": "L LE Baron",
+    "jalons": [
+      4106,
+      4116
+    ]
+  },
+  "entite_1075": {
+    "label": "PER",
+    "text": "hazard",
+    "jalons": [
+      4136,
+      4142
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Siu",
+    "jalons": [
+      4166,
+      4169
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "FRANK NER",
+    "jalons": [
+      4185,
+      4194
+    ]
+  },
+  "entite_1078": {
+    "label": "MISC",
+    "text": "Monteur?",
+    "jalons": [
+      4271,
+      4279
+    ]
+  },
+  "entite_1079": {
+    "label": "PER",
+    "text": "Fr ankner",
+    "jalons": [
+      4295,
+      4304
+    ]
+  },
+  "entite_1080": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      4319,
+      4327
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      4345,
+      4353
+    ]
+  },
+  "entite_1082": {
+    "label": "LOC",
+    "text": "Brie",
+    "jalons": [
+      4413,
+      4417
+    ]
+  },
+  "entite_1083": {
+    "label": "MISC",
+    "text": "Le Baro Ne",
+    "jalons": [
+      4434,
+      4444
+    ]
+  },
+  "entite_1084": {
+    "label": "PER",
+    "text": "L. Si",
+    "jalons": [
+      4456,
+      4461
+    ]
+  },
+  "entite_1085": {
+    "label": "PER",
+    "text": "hazard",
+    "jalons": [
+      4466,
+      4472
+    ]
+  },
+  "entite_1086": {
+    "label": "LOC",
+    "text": "F.R A N A",
+    "jalons": [
+      4477,
+      4486
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      4565,
+      4571
+    ]
+  },
+  "entite_1088": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      4670,
+      4682
+    ]
+  },
+  "entite_1089": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      4687,
+      4696
+    ]
+  },
+  "entite_1090": {
+    "label": "MISC",
+    "text": "UT ef calme",
+    "jalons": [
+      4702,
+      4713
+    ]
+  },
+  "entite_1091": {
+    "label": "MISC",
+    "text": "De LE CaVALIER",
+    "jalons": [
+      4777,
+      4791
+    ]
+  },
+  "entite_1092": {
+    "label": "MISC",
+    "text": "Mon pere À Fo",
+    "jalons": [
+      4793,
+      4806
+    ]
+  },
+  "entite_1093": {
+    "label": "LOC",
+    "text": "Ban Oo",
+    "jalons": [
+      4814,
+      4820
+    ]
+  },
+  "entite_1094": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      4866,
+      4874
+    ]
+  },
+  "entite_1095": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      4886,
+      4895
+    ]
+  },
+  "entite_1096": {
+    "label": "MISC",
+    "text": "D 2 A t Pi D 0 rm ER C7 EN",
+    "jalons": [
+      4979,
+      5005
+    ]
+  },
+  "entite_1097": {
+    "label": "ORG",
+    "text": "ADÉLAIDES",
+    "jalons": [
+      5013,
+      5022
+    ]
+  },
+  "entite_1098": {
+    "label": "ORG",
+    "text": "LS",
+    "jalons": [
+      5034,
+      5036
+    ]
+  },
+  "entite_1099": {
+    "label": "ORG",
+    "text": "ei CA",
+    "jalons": [
+      5057,
+      5062
+    ]
+  },
+  "entite_1100": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      5067,
+      5076
+    ]
+  },
+  "entite_1101": {
+    "label": "ORG",
+    "text": "rs",
+    "jalons": [
+      5102,
+      5104
+    ]
+  },
+  "entite_1102": {
+    "label": "PER",
+    "text": "ÆL E BARON",
+    "jalons": [
+      5107,
+      5117
+    ]
+  },
+  "entite_1103": {
+    "label": "PER",
+    "text": "| Chevalier",
+    "jalons": [
+      5119,
+      5130
+    ]
+  },
+  "entite_1104": {
+    "label": "MISC",
+    "text": "Cnevarrer ‘Non",
+    "jalons": [
+      5203,
+      5217
+    ]
+  },
+  "entite_1105": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      5231,
+      5232
+    ]
+  },
+  "entite_1106": {
+    "label": "LOC",
+    "text": "B A R 0 M",
+    "jalons": [
+      5235,
+      5244
+    ]
+  },
+  "entite_1107": {
+    "label": "LOC",
+    "text": "Î",
+    "jalons": [
+      5249,
+      5250
+    ]
+  },
+  "entite_1108": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      5270,
+      5279
+    ]
+  },
+  "entite_1109": {
+    "label": "MISC",
+    "text": "Lx BARON",
+    "jalons": [
+      25,
+      33
+    ]
+  },
+  "entite_1110": {
+    "label": "MISC",
+    "text": "Mes remords",
+    "jalons": [
+      80,
+      91
+    ]
+  },
+  "entite_1111": {
+    "label": "ORG",
+    "text": "PR",
+    "jalons": [
+      122,
+      124
+    ]
+  },
+  "entite_1112": {
+    "label": "MISC",
+    "text": "BARr",
+    "jalons": [
+      161,
+      165
+    ]
+  },
+  "entite_1113": {
+    "label": "LOC",
+    "text": "mer LES LE",
+    "jalons": [
+      197,
+      207
+    ]
+  },
+  "entite_1114": {
+    "label": "PER",
+    "text": "Ïl",
+    "jalons": [
+      217,
+      219
+    ]
+  },
+  "entite_1115": {
+    "label": "MISC",
+    "text": "Mon fils",
+    "jalons": [
+      252,
+      260
+    ]
+  },
+  "entite_1116": {
+    "label": "MISC",
+    "text": "MARCENAIS",
+    "jalons": [
+      282,
+      291
+    ]
+  },
+  "entite_1117": {
+    "label": "MISC",
+    "text": "DE: LE CHEVALIER",
+    "jalons": [
+      293,
+      309
+    ]
+  },
+  "entite_1118": {
+    "label": "PER",
+    "text": "Rature",
+    "jalons": [
+      315,
+      321
+    ]
+  },
+  "entite_1119": {
+    "label": "MISC",
+    "text": "Baron h",
+    "jalons": [
+      341,
+      348
+    ]
+  },
+  "entite_1120": {
+    "label": "PER",
+    "text": "aïle",
+    "jalons": [
+      536,
+      540
+    ]
+  },
+  "entite_1121": {
+    "label": "PER",
+    "text": "| t te le répete",
+    "jalons": [
+      546,
+      562
+    ]
+  },
+  "entite_1122": {
+    "label": "ORG",
+    "text": "laiffe",
+    "jalons": [
+      564,
+      570
+    ]
+  },
+  "entite_1123": {
+    "label": "MISC",
+    "text": "SCENE PI LE BARON",
+    "jalons": [
+      577,
+      594
+    ]
+  },
+  "entite_1124": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      596,
+      604
+    ]
+  },
+  "entite_1125": {
+    "label": "LOC",
+    "text": "A Franklin",
+    "jalons": [
+      709,
+      719
+    ]
+  },
+  "entite_1126": {
+    "label": "LOC",
+    "text": "parëte",
+    "jalons": [
+      725,
+      731
+    ]
+  },
+  "entite_1127": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      733,
+      739
+    ]
+  },
+  "entite_1128": {
+    "label": "MISC",
+    "text": "L Quäs-tuè | F RAYONNEr",
+    "jalons": [
+      754,
+      777
+    ]
+  },
+  "entite_1129": {
+    "label": "LOC",
+    "text": "BAR ON",
+    "jalons": [
+      810,
+      816
+    ]
+  },
+  "entite_1130": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      856,
+      864
+    ]
+  },
+  "entite_1131": {
+    "label": "MISC",
+    "text": "Franklin !",
+    "jalons": [
+      888,
+      898
+    ]
+  },
+  "entite_1132": {
+    "label": "ORG",
+    "text": "SR Era",
+    "jalons": [
+      930,
+      936
+    ]
+  },
+  "entite_1133": {
+    "label": "ORG",
+    "text": "PQ",
+    "jalons": [
+      965,
+      967
+    ]
+  },
+  "entite_1134": {
+    "label": "MISC",
+    "text": "SAR DE PERTE",
+    "jalons": [
+      997,
+      1009
+    ]
+  },
+  "entite_1135": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1014,
+      1022
+    ]
+  },
+  "entite_1136": {
+    "label": "ORG",
+    "text": "FRAN",
+    "jalons": [
+      1024,
+      1028
+    ]
+  },
+  "entite_1137": {
+    "label": "ORG",
+    "text": "KN ER",
+    "jalons": [
+      1029,
+      1034
+    ]
+  },
+  "entite_1138": {
+    "label": "PER",
+    "text": "quéi",
+    "jalons": [
+      1076,
+      1080
+    ]
+  },
+  "entite_1139": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      1126,
+      1134
+    ]
+  },
+  "entite_1140": {
+    "label": "MISC",
+    "text": "FRÂANKNER",
+    "jalons": [
+      1162,
+      1171
+    ]
+  },
+  "entite_1141": {
+    "label": "MISC",
+    "text": "LE Barom | D mon ami",
+    "jalons": [
+      1337,
+      1357
+    ]
+  },
+  "entite_1142": {
+    "label": "PER",
+    "text": "Fo FRANKLIN",
+    "jalons": [
+      1359,
+      1370
+    ]
+  },
+  "entite_1143": {
+    "label": "MISC",
+    "text": "oué",
+    "jalons": [
+      1382,
+      1385
+    ]
+  },
+  "entite_1144": {
+    "label": "MISC",
+    "text": "El",
+    "jalons": [
+      1471,
+      1473
+    ]
+  },
+  "entite_1145": {
+    "label": "MISC",
+    "text": "LE B ARO NN",
+    "jalons": [
+      1564,
+      1575
+    ]
+  },
+  "entite_1146": {
+    "label": "ORG",
+    "text": "B ARO",
+    "jalons": [
+      1756,
+      1761
+    ]
+  },
+  "entite_1147": {
+    "label": "MISC",
+    "text": "E DE MARGINAL #4",
+    "jalons": [
+      1819,
+      1835
+    ]
+  },
+  "entite_1148": {
+    "label": "PER",
+    "text": "| CÉ Æ",
+    "jalons": [
+      1918,
+      1924
+    ]
+  },
+  "entite_1149": {
+    "label": "MISC",
+    "text": "eff",
+    "jalons": [
+      1973,
+      1976
+    ]
+  },
+  "entite_1150": {
+    "label": "PER",
+    "text": "A",
+    "jalons": [
+      2028,
+      2029
+    ]
+  },
+  "entite_1151": {
+    "label": "MISC",
+    "text": "Haur.j",
+    "jalons": [
+      2073,
+      2079
+    ]
+  },
+  "entite_1152": {
+    "label": "PER",
+    "text": "Dumont",
+    "jalons": [
+      2082,
+      2088
+    ]
+  },
+  "entite_1153": {
+    "label": "MISC",
+    "text": "ten",
+    "jalons": [
+      2135,
+      2138
+    ]
+  },
+  "entite_1154": {
+    "label": "MISC",
+    "text": "Le foin",
+    "jalons": [
+      2146,
+      2153
+    ]
+  },
+  "entite_1155": {
+    "label": "ORG",
+    "text": "véilleras",
+    "jalons": [
+      2172,
+      2181
+    ]
+  },
+  "entite_1156": {
+    "label": "ORG",
+    "text": "E MU AT CO tt DE L A N A_ N E R",
+    "jalons": [
+      2297,
+      2328
+    ]
+  },
+  "entite_1157": {
+    "label": "PER",
+    "text": "Le Li",
+    "jalons": [
+      2382,
+      2387
+    ]
+  },
+  "entite_1158": {
+    "label": "PER",
+    "text": "E. B ARON",
+    "jalons": [
+      2393,
+      2402
+    ]
+  },
+  "entite_1159": {
+    "label": "PER",
+    "text": "Vas",
+    "jalons": [
+      2404,
+      2407
+    ]
+  },
+  "entite_1160": {
+    "label": "MISC",
+    "text": "ee",
+    "jalons": [
+      2458,
+      2460
+    ]
+  },
+  "entite_1161": {
+    "label": "ORG",
+    "text": "oo & RÉTE",
+    "jalons": [
+      2462,
+      2471
+    ]
+  },
+  "entite_1162": {
+    "label": "ORG",
+    "text": "JEANNE ER TÉROME",
+    "jalons": [
+      2507,
+      2523
+    ]
+  },
+  "entite_1163": {
+    "label": "MISC",
+    "text": "CFRANKNER",
+    "jalons": [
+      2528,
+      2537
+    ]
+  },
+  "entite_1164": {
+    "label": "PER",
+    "text": "Pourfuivons",
+    "jalons": [
+      2587,
+      2598
+    ]
+  },
+  "entite_1165": {
+    "label": "PER",
+    "text": "SEMTEETIT Jérôme",
+    "jalons": [
+      2655,
+      2671
+    ]
+  },
+  "entite_1166": {
+    "label": "MISC",
+    "text": "Mon-stratagéme",
+    "jalons": [
+      2675,
+      2689
+    ]
+  },
+  "entite_1167": {
+    "label": "MISC",
+    "text": "Ba-",
+    "jalons": [
+      2810,
+      2813
+    ]
+  },
+  "entite_1168": {
+    "label": "MISC",
+    "text": "Dieux!",
+    "jalons": [
+      2860,
+      2866
+    ]
+  },
+  "entite_1169": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2897,
+      2905
+    ]
+  },
+  "entite_1170": {
+    "label": "MISC",
+    "text": "im",
+    "jalons": [
+      2926,
+      2928
+    ]
+  },
+  "entite_1171": {
+    "label": "MISC",
+    "text": "A&les V3 D",
+    "jalons": [
+      2955,
+      2965
+    ]
+  },
+  "entite_1172": {
+    "label": "MISC",
+    "text": "Et 2e oh dore AREA ET",
+    "jalons": [
+      2972,
+      2993
+    ]
+  },
+  "entite_1173": {
+    "label": "MISC",
+    "text": "Adéhïde?:",
+    "jalons": [
+      3025,
+      3034
+    ]
+  },
+  "entite_1174": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      3038,
+      3044
+    ]
+  },
+  "entite_1175": {
+    "label": "MISC",
+    "text": "ACTE V.",
+    "jalons": [
+      3067,
+      3074
+    ]
+  },
+  "entite_1176": {
+    "label": "MISC",
+    "text": "Thétre",
+    "jalons": [
+      3098,
+      3104
+    ]
+  },
+  "entite_1177": {
+    "label": "LOC",
+    "text": "ut caveau",
+    "jalons": [
+      3118,
+      3127
+    ]
+  },
+  "entite_1178": {
+    "label": "MISC",
+    "text": "Péclaire",
+    "jalons": [
+      3252,
+      3260
+    ]
+  },
+  "entite_1179": {
+    "label": "MISC",
+    "text": "A D É",
+    "jalons": [
+      3272,
+      3277
+    ]
+  },
+  "entite_1180": {
+    "label": "MISC",
+    "text": "ID E pâle",
+    "jalons": [
+      3283,
+      3292
+    ]
+  },
+  "entite_1181": {
+    "label": "LOC",
+    "text": "C7",
+    "jalons": [
+      3370,
+      3372
+    ]
+  },
+  "entite_1182": {
+    "label": "MISC",
+    "text": "Si : T'étois coupable 3",
+    "jalons": [
+      3498,
+      3521
+    ]
+  },
+  "entite_1183": {
+    "label": "MISC",
+    "text": "La douleur",
+    "jalons": [
+      3562,
+      3572
+    ]
+  },
+  "entite_1184": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      3574,
+      3576
+    ]
+  },
+  "entite_1185": {
+    "label": "MISC",
+    "text": "Horreur qui m",
+    "jalons": [
+      3606,
+      3619
+    ]
+  },
+  "entite_1186": {
+    "label": "PER",
+    "text": "Çen",
+    "jalons": [
+      3632,
+      3635
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "desombres",
+    "jalons": [
+      3950,
+      3959
+    ]
+  },
+  "entite_1188": {
+    "label": "MISC",
+    "text": "Do one 4 D gene",
+    "jalons": [
+      4009,
+      4024
+    ]
+  },
+  "entite_1189": {
+    "label": "MISC",
+    "text": "ADÉLAIDÉ",
+    "jalons": [
+      4035,
+      4043
+    ]
+  },
+  "entite_1190": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      4045,
+      4049
+    ]
+  },
+  "entite_1191": {
+    "label": "PER",
+    "text": "räffermir",
+    "jalons": [
+      4100,
+      4109
+    ]
+  },
+  "entite_1192": {
+    "label": "PER",
+    "text": "Ma mere ‘ina",
+    "jalons": [
+      4125,
+      4137
+    ]
+  },
+  "entite_1193": {
+    "label": "PER",
+    "text": "devenéz fénible",
+    "jalons": [
+      4407,
+      4422
+    ]
+  },
+  "entite_1194": {
+    "label": "PER",
+    "text": "Tnfeüfée",
+    "jalons": [
+      4463,
+      4471
+    ]
+  },
+  "entite_1195": {
+    "label": "MISC",
+    "text": "Gen",
+    "jalons": [
+      4668,
+      4671
+    ]
+  },
+  "entite_1196": {
+    "label": "MISC",
+    "text": "Eh bien",
+    "jalons": [
+      4848,
+      4855
+    ]
+  },
+  "entite_1197": {
+    "label": "PER",
+    "text": "jé Vais",
+    "jalons": [
+      4857,
+      4864
+    ]
+  },
+  "entite_1198": {
+    "label": "PER",
+    "text": "Mäîs il",
+    "jalons": [
+      5002,
+      5009
+    ]
+  },
+  "entite_1199": {
+    "label": "PER",
+    "text": "armès",
+    "jalons": [
+      5098,
+      5103
+    ]
+  },
+  "entite_1200": {
+    "label": "MISC",
+    "text": "Je refaire",
+    "jalons": [
+      281,
+      291
+    ]
+  },
+  "entite_1201": {
+    "label": "MISC",
+    "text": "Get objet",
+    "jalons": [
+      293,
+      302
+    ]
+  },
+  "entite_1202": {
+    "label": "PER",
+    "text": "Mânes",
+    "jalons": [
+      362,
+      367
+    ]
+  },
+  "entite_1203": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      444,
+      445
+    ]
+  },
+  "entite_1204": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      475,
+      479
+    ]
+  },
+  "entite_1205": {
+    "label": "ORG",
+    "text": "CA SCENE IT LE BARON",
+    "jalons": [
+      557,
+      577
+    ]
+  },
+  "entite_1206": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      579,
+      591
+    ]
+  },
+  "entite_1207": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      593,
+      601
+    ]
+  },
+  "entite_1208": {
+    "label": "MISC",
+    "text": "L Le Chevalier & le Baron",
+    "jalons": [
+      603,
+      628
+    ]
+  },
+  "entite_1209": {
+    "label": "MISC",
+    "text": "CHÉVALIER",
+    "jalons": [
+      683,
+      692
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "T A DÉLAÏDE",
+    "jalons": [
+      721,
+      732
+    ]
+  },
+  "entite_1211": {
+    "label": "MISC",
+    "text": "L L£é",
+    "jalons": [
+      848,
+      853
+    ]
+  },
+  "entite_1212": {
+    "label": "PER",
+    "text": "CHEVALIER Vois",
+    "jalons": [
+      854,
+      868
+    ]
+  },
+  "entite_1213": {
+    "label": "LOC",
+    "text": "DÉLAÏDE",
+    "jalons": [
+      932,
+      939
+    ]
+  },
+  "entite_1214": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      957,
+      962
+    ]
+  },
+  "entite_1215": {
+    "label": "MISC",
+    "text": "Forfait!",
+    "jalons": [
+      1031,
+      1039
+    ]
+  },
+  "entite_1216": {
+    "label": "MISC",
+    "text": "Sortons",
+    "jalons": [
+      1102,
+      1109
+    ]
+  },
+  "entite_1217": {
+    "label": "MISC",
+    "text": "CHEv",
+    "jalons": [
+      1124,
+      1128
+    ]
+  },
+  "entite_1218": {
+    "label": "ORG",
+    "text": "ALIÉR",
+    "jalons": [
+      1129,
+      1134
+    ]
+  },
+  "entite_1219": {
+    "label": "MISC",
+    "text": "Où allez-vous ?",
+    "jalons": [
+      1157,
+      1172
+    ]
+  },
+  "entite_1220": {
+    "label": "MISC",
+    "text": "DÉLAÏD E",
+    "jalons": [
+      1228,
+      1236
+    ]
+  },
+  "entite_1221": {
+    "label": "MISC",
+    "text": "LE B A R O N",
+    "jalons": [
+      1337,
+      1349
+    ]
+  },
+  "entite_1222": {
+    "label": "MISC",
+    "text": "Vous l'pprendrez",
+    "jalons": [
+      1351,
+      1367
+    ]
+  },
+  "entite_1223": {
+    "label": "MISC",
+    "text": "LE CHEVALIER",
+    "jalons": [
+      1380,
+      1392
+    ]
+  },
+  "entite_1224": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1448,
+      1456
+    ]
+  },
+  "entite_1225": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      1533,
+      1538
+    ]
+  },
+  "entite_1226": {
+    "label": "ORG",
+    "text": "TA x",
+    "jalons": [
+      1648,
+      1652
+    ]
+  },
+  "entite_1227": {
+    "label": "LOC",
+    "text": "sn +",
+    "jalons": [
+      1655,
+      1659
+    ]
+  },
+  "entite_1228": {
+    "label": "LOC",
+    "text": "Fos",
+    "jalons": [
+      1707,
+      1710
+    ]
+  },
+  "entite_1229": {
+    "label": "LOC",
+    "text": "Pr QE",
+    "jalons": [
+      1715,
+      1720
+    ]
+  },
+  "entite_1230": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1736,
+      1744
+    ]
+  },
+  "entite_1231": {
+    "label": "ORG",
+    "text": "FRANÉNER",
+    "jalons": [
+      1746,
+      1754
+    ]
+  },
+  "entite_1232": {
+    "label": "MISC",
+    "text": "ADÉLaiDe",
+    "jalons": [
+      1756,
+      1764
+    ]
+  },
+  "entite_1233": {
+    "label": "MISC",
+    "text": "Franklin !",
+    "jalons": [
+      1824,
+      1834
+    ]
+  },
+  "entite_1234": {
+    "label": "MISC",
+    "text": "F RAN",
+    "jalons": [
+      1848,
+      1853
+    ]
+  },
+  "entite_1235": {
+    "label": "PER",
+    "text": "Tait",
+    "jalons": [
+      1888,
+      1892
+    ]
+  },
+  "entite_1236": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      1928,
+      1936
+    ]
+  },
+  "entite_1237": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1951,
+      1959
+    ]
+  },
+  "entite_1238": {
+    "label": "MISC",
+    "text": "La douleur",
+    "jalons": [
+      1982,
+      1992
+    ]
+  },
+  "entite_1239": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2014,
+      2022
+    ]
+  },
+  "entite_1240": {
+    "label": "PER",
+    "text": "cest Franklin",
+    "jalons": [
+      2031,
+      2044
+    ]
+  },
+  "entite_1241": {
+    "label": "MISC",
+    "text": "Ciel!",
+    "jalons": [
+      2117,
+      2122
+    ]
+  },
+  "entite_1242": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2160,
+      2168
+    ]
+  },
+  "entite_1243": {
+    "label": "MISC",
+    "text": "J'ai tout: hazardé pour m'en éclaircir",
+    "jalons": [
+      2288,
+      2326
+    ]
+  },
+  "entite_1244": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      2328,
+      2334
+    ]
+  },
+  "entite_1245": {
+    "label": "ORG",
+    "text": "meré",
+    "jalons": [
+      2354,
+      2358
+    ]
+  },
+  "entite_1246": {
+    "label": "LOC",
+    "text": "É",
+    "jalons": [
+      2418,
+      2419
+    ]
+  },
+  "entite_1247": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2426,
+      2434
+    ]
+  },
+  "entite_1248": {
+    "label": "MISC",
+    "text": "la vengeance",
+    "jalons": [
+      2585,
+      2597
+    ]
+  },
+  "entite_1249": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2619,
+      2627
+    ]
+  },
+  "entite_1250": {
+    "label": "LOC",
+    "text": "yeUX",
+    "jalons": [
+      2681,
+      2685
+    ]
+  },
+  "entite_1251": {
+    "label": "PER",
+    "text": "ADÉLAÏDE",
+    "jalons": [
+      2760,
+      2768
+    ]
+  },
+  "entite_1252": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      2772,
+      2777
+    ]
+  },
+  "entite_1253": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      2791,
+      2799
+    ]
+  },
+  "entite_1254": {
+    "label": "MISC",
+    "text": "SCENE IV",
+    "jalons": [
+      2868,
+      2876
+    ]
+  },
+  "entite_1255": {
+    "label": "PER",
+    "text": "© LA",
+    "jalons": [
+      2878,
+      2882
+    ]
+  },
+  "entite_1256": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2883,
+      2890
+    ]
+  },
+  "entite_1257": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2892,
+      2900
+    ]
+  },
+  "entite_1258": {
+    "label": "MISC",
+    "text": "FRANCINE",
+    "jalons": [
+      2902,
+      2910
+    ]
+  },
+  "entite_1259": {
+    "label": "PER",
+    "text": "Baronne",
+    "jalons": [
+      2956,
+      2963
+    ]
+  },
+  "entite_1260": {
+    "label": "MISC",
+    "text": "Ma mere!",
+    "jalons": [
+      2965,
+      2973
+    ]
+  },
+  "entite_1261": {
+    "label": "LOC",
+    "text": "BaRONNE Tr",
+    "jalons": [
+      2979,
+      2989
+    ]
+  },
+  "entite_1262": {
+    "label": "MISC",
+    "text": "D O ma lle!",
+    "jalons": [
+      2993,
+      3004
+    ]
+  },
+  "entite_1263": {
+    "label": "MISC",
+    "text": "Le barbare ne me ravira plus mon",
+    "jalons": [
+      3049,
+      3081
+    ]
+  },
+  "entite_1264": {
+    "label": "LOC",
+    "text": "Adélaïde",
+    "jalons": [
+      3082,
+      3090
+    ]
+  },
+  "entite_1265": {
+    "label": "MISC",
+    "text": "LE 2 SCENE",
+    "jalons": [
+      3177,
+      3187
+    ]
+  },
+  "entite_1266": {
+    "label": "PER",
+    "text": "DE MARGINAL",
+    "jalons": [
+      3197,
+      3208
+    ]
+  },
+  "entite_1267": {
+    "label": "MISC",
+    "text": "Sr =”",
+    "jalons": [
+      3210,
+      3215
+    ]
+  },
+  "entite_1268": {
+    "label": "ORG",
+    "text": "SCENE PF",
+    "jalons": [
+      3221,
+      3229
+    ]
+  },
+  "entite_1269": {
+    "label": "MISC",
+    "text": "LES MÈMES",
+    "jalons": [
+      3243,
+      3252
+    ]
+  },
+  "entite_1270": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      3254,
+      3262
+    ]
+  },
+  "entite_1271": {
+    "label": "MISC",
+    "text": "Le Baron",
+    "jalons": [
+      3264,
+      3272
+    ]
+  },
+  "entite_1272": {
+    "label": "MISC",
+    "text": "RAMENER",
+    "jalons": [
+      3317,
+      3324
+    ]
+  },
+  "entite_1273": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      3382,
+      3390
+    ]
+  },
+  "entite_1274": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      3394,
+      3402
+    ]
+  },
+  "entite_1275": {
+    "label": "PER",
+    "text": "Infolent!.",
+    "jalons": [
+      3421,
+      3431
+    ]
+  },
+  "entite_1276": {
+    "label": "MISC",
+    "text": "F RANKNER",
+    "jalons": [
+      3456,
+      3465
+    ]
+  },
+  "entite_1277": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      3489,
+      3497
+    ]
+  },
+  "entite_1278": {
+    "label": "LOC",
+    "text": "Baronne",
+    "jalons": [
+      3531,
+      3538
+    ]
+  },
+  "entite_1279": {
+    "label": "MISC",
+    "text": ".O",
+    "jalons": [
+      3540,
+      3542
+    ]
+  },
+  "entite_1280": {
+    "label": "MISC",
+    "text": "BA R O.N.",
+    "jalons": [
+      3585,
+      3594
+    ]
+  },
+  "entite_1281": {
+    "label": "ORG",
+    "text": "PAT",
+    "jalons": [
+      3595,
+      3598
+    ]
+  },
+  "entite_1282": {
+    "label": "MISC",
+    "text": "CFRANKNER",
+    "jalons": [
+      3618,
+      3627
+    ]
+  },
+  "entite_1283": {
+    "label": "PER",
+    "text": "Poe",
+    "jalons": [
+      3640,
+      3643
+    ]
+  },
+  "entite_1284": {
+    "label": "ORG",
+    "text": "afp& de",
+    "jalons": [
+      3710,
+      3717
+    ]
+  },
+  "entite_1285": {
+    "label": "LOC",
+    "text": "4 FE { 7 me mr 2",
+    "jalons": [
+      3753,
+      3769
+    ]
+  },
+  "entite_1286": {
+    "label": "PER",
+    "text": "mme eme end an none",
+    "jalons": [
+      3773,
+      3792
+    ]
+  },
+  "entite_1287": {
+    "label": "ORG",
+    "text": "L &e",
+    "jalons": [
+      3796,
+      3800
+    ]
+  },
+  "entite_1288": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3805,
+      3813
+    ]
+  },
+  "entite_1289": {
+    "label": "MISC",
+    "text": "Barbare!",
+    "jalons": [
+      3875,
+      3883
+    ]
+  },
+  "entite_1290": {
+    "label": "PER",
+    "text": "foùs",
+    "jalons": [
+      3969,
+      3973
+    ]
+  },
+  "entite_1291": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      4088,
+      4096
+    ]
+  },
+  "entite_1292": {
+    "label": "MISC",
+    "text": "Qu'il fffe",
+    "jalons": [
+      4133,
+      4143
+    ]
+  },
+  "entite_1293": {
+    "label": "PER",
+    "text": "dé fon",
+    "jalons": [
+      4168,
+      4174
+    ]
+  },
+  "entite_1294": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      4306,
+      4309
+    ]
+  },
+  "entite_1295": {
+    "label": "MISC",
+    "text": "J'adore votre fille",
+    "jalons": [
+      4364,
+      4383
+    ]
+  },
+  "entite_1296": {
+    "label": "PER",
+    "text": "&- refpeätueux",
+    "jalons": [
+      4433,
+      4447
+    ]
+  },
+  "entite_1297": {
+    "label": "PER",
+    "text": "LÉS MÊMES",
+    "jalons": [
+      4450,
+      4459
+    ]
+  },
+  "entite_1298": {
+    "label": "MISC",
+    "text": "JÉROME",
+    "jalons": [
+      4461,
+      4467
+    ]
+  },
+  "entite_1299": {
+    "label": "MISC",
+    "text": "An!",
+    "jalons": [
+      4485,
+      4488
+    ]
+  },
+  "entite_1300": {
+    "label": "PER",
+    "text": "Lx",
+    "jalons": [
+      4500,
+      4502
+    ]
+  },
+  "entite_1301": {
+    "label": "PER",
+    "text": "Jérôme",
+    "jalons": [
+      4530,
+      4536
+    ]
+  },
+  "entite_1302": {
+    "label": "ORG",
+    "text": "Huissiers",
+    "jalons": [
+      4581,
+      4590
+    ]
+  },
+  "entite_1303": {
+    "label": "PER",
+    "text": "soppofer",
+    "jalons": [
+      4664,
+      4672
+    ]
+  },
+  "entite_1304": {
+    "label": "MISC",
+    "text": "DE MARGINAL #",
+    "jalons": [
+      4698,
+      4711
+    ]
+  },
+  "entite_1305": {
+    "label": "PER",
+    "text": "Ah Monie",
+    "jalons": [
+      4870,
+      4878
+    ]
+  },
+  "entite_1306": {
+    "label": "MISC",
+    "text": "Madame!",
+    "jalons": [
+      4892,
+      4899
+    ]
+  },
+  "entite_1307": {
+    "label": "PER",
+    "text": "JéPrô ‘M E.",
+    "jalons": [
+      4928,
+      4939
+    ]
+  },
+  "entite_1308": {
+    "label": "MISC",
+    "text": "L E BaMaKO",
+    "jalons": [
+      5067,
+      5077
+    ]
+  },
+  "entite_1309": {
+    "label": "ORG",
+    "text": "Fo TS",
+    "jalons": [
+      5100,
+      5105
+    ]
+  },
+  "entite_1310": {
+    "label": "PER",
+    "text": "fa mere",
+    "jalons": [
+      38,
+      45
+    ]
+  },
+  "entite_1311": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      57,
+      65
+    ]
+  },
+  "entite_1312": {
+    "label": "PER",
+    "text": "FRANK E",
+    "jalons": [
+      86,
+      93
+    ]
+  },
+  "entite_1313": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      107,
+      113
+    ]
+  },
+  "entite_1314": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      155,
+      163
+    ]
+  },
+  "entite_1315": {
+    "label": "PER",
+    "text": "| L A Ba RON N EN _ Gela",
+    "jalons": [
+      176,
+      200
+    ]
+  },
+  "entite_1316": {
+    "label": "MISC",
+    "text": "Fe ANN E R",
+    "jalons": [
+      226,
+      236
+    ]
+  },
+  "entite_1317": {
+    "label": "MISC",
+    "text": "Fi ij DER ES ET #",
+    "jalons": [
+      300,
+      317
+    ]
+  },
+  "entite_1318": {
+    "label": "ORG",
+    "text": "ARÉLAMPE",
+    "jalons": [
+      320,
+      328
+    ]
+  },
+  "entite_1319": {
+    "label": "ORG",
+    "text": "S CE NE",
+    "jalons": [
+      331,
+      338
+    ]
+  },
+  "entite_1320": {
+    "label": "LOC",
+    "text": "VIL",
+    "jalons": [
+      340,
+      343
+    ]
+  },
+  "entite_1321": {
+    "label": "ORG",
+    "text": "BÂRONNE",
+    "jalons": [
+      359,
+      366
+    ]
+  },
+  "entite_1322": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      368,
+      376
+    ]
+  },
+  "entite_1323": {
+    "label": "ORG",
+    "text": "JÉRÔME",
+    "jalons": [
+      379,
+      385
+    ]
+  },
+  "entite_1324": {
+    "label": "PER",
+    "text": "L LA Baron",
+    "jalons": [
+      387,
+      397
+    ]
+  },
+  "entite_1325": {
+    "label": "MISC",
+    "text": "Confier jour",
+    "jalons": [
+      411,
+      423
+    ]
+  },
+  "entite_1326": {
+    "label": "PER",
+    "text": "defliniez",
+    "jalons": [
+      529,
+      538
+    ]
+  },
+  "entite_1327": {
+    "label": "PER",
+    "text": "devénir",
+    "jalons": [
+      570,
+      577
+    ]
+  },
+  "entite_1328": {
+    "label": "PER",
+    "text": "afyle",
+    "jalons": [
+      584,
+      589
+    ]
+  },
+  "entite_1329": {
+    "label": "MISC",
+    "text": "Vous allez être _ contraint de vous y cacher",
+    "jalons": [
+      591,
+      635
+    ]
+  },
+  "entite_1330": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      712,
+      720
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Ab",
+    "jalons": [
+      803,
+      805
+    ]
+  },
+  "entite_1332": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      807,
+      813
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      845,
+      850
+    ]
+  },
+  "entite_1334": {
+    "label": "PER",
+    "text": "ames honnêtés",
+    "jalons": [
+      921,
+      934
+    ]
+  },
+  "entite_1335": {
+    "label": "PER",
+    "text": "rougiflez du crime",
+    "jalons": [
+      937,
+      955
+    ]
+  },
+  "entite_1336": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      967,
+      975
+    ]
+  },
+  "entite_1337": {
+    "label": "MISC",
+    "text": "Yécours de Jérômé",
+    "jalons": [
+      1006,
+      1023
+    ]
+  },
+  "entite_1338": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      1141,
+      1149
+    ]
+  },
+  "entite_1339": {
+    "label": "PER",
+    "text": "DE MARGINAL",
+    "jalons": [
+      1171,
+      1182
+    ]
+  },
+  "entite_1340": {
+    "label": "PER",
+    "text": "Jérôme na",
+    "jalons": [
+      1192,
+      1201
+    ]
+  },
+  "entite_1341": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1227,
+      1235
+    ]
+  },
+  "entite_1342": {
+    "label": "PER",
+    "text": "l4 délicateñle",
+    "jalons": [
+      1348,
+      1362
+    ]
+  },
+  "entite_1343": {
+    "label": "MISC",
+    "text": "| | LE BARON",
+    "jalons": [
+      1398,
+      1410
+    ]
+  },
+  "entite_1344": {
+    "label": "PER",
+    "text": "Jérôme?",
+    "jalons": [
+      1436,
+      1443
+    ]
+  },
+  "entite_1345": {
+    "label": "MISC",
+    "text": "Voyez derriere vous un précipice horrible",
+    "jalons": [
+      1481,
+      1522
+    ]
+  },
+  "entite_1346": {
+    "label": "LOC",
+    "text": "Centre",
+    "jalons": [
+      1575,
+      1581
+    ]
+  },
+  "entite_1347": {
+    "label": "MISC",
+    "text": "LE BARON aprés",
+    "jalons": [
+      1619,
+      1633
+    ]
+  },
+  "entite_1348": {
+    "label": "PER",
+    "text": "Envoyez Jérôme",
+    "jalons": [
+      1681,
+      1695
+    ]
+  },
+  "entite_1349": {
+    "label": "MISC",
+    "text": "B AR",
+    "jalons": [
+      1722,
+      1726
+    ]
+  },
+  "entite_1350": {
+    "label": "PER",
+    "text": "Allez Jérôme",
+    "jalons": [
+      1734,
+      1746
+    ]
+  },
+  "entite_1351": {
+    "label": "PER",
+    "text": "Jérôme fort",
+    "jalons": [
+      1804,
+      1815
+    ]
+  },
+  "entite_1352": {
+    "label": "MISC",
+    "text": "L A T À R ONNE",
+    "jalons": [
+      1903,
+      1917
+    ]
+  },
+  "entite_1353": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      2017,
+      2025
+    ]
+  },
+  "entite_1354": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      2104,
+      2112
+    ]
+  },
+  "entite_1355": {
+    "label": "ORG",
+    "text": "COUTEZ",
+    "jalons": [
+      2159,
+      2165
+    ]
+  },
+  "entite_1356": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2201,
+      2208
+    ]
+  },
+  "entite_1357": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      2210,
+      2213
+    ]
+  },
+  "entite_1358": {
+    "label": "MISC",
+    "text": "Baron!",
+    "jalons": [
+      2214,
+      2220
+    ]
+  },
+  "entite_1359": {
+    "label": "MISC",
+    "text": "A LE BARON",
+    "jalons": [
+      2221,
+      2231
+    ]
+  },
+  "entite_1360": {
+    "label": "MISC",
+    "text": "À nous vivons",
+    "jalons": [
+      2614,
+      2627
+    ]
+  },
+  "entite_1361": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2633,
+      2634
+    ]
+  },
+  "entite_1362": {
+    "label": "MISC",
+    "text": "BARONNE Co Cruel",
+    "jalons": [
+      2688,
+      2704
+    ]
+  },
+  "entite_1363": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      2737,
+      2745
+    ]
+  },
+  "entite_1364": {
+    "label": "MISC",
+    "text": "laïffe",
+    "jalons": [
+      2918,
+      2924
+    ]
+  },
+  "entite_1365": {
+    "label": "MISC",
+    "text": "BARONNE mat D dr",
+    "jalons": [
+      2996,
+      3012
+    ]
+  },
+  "entite_1366": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      3120,
+      3125
+    ]
+  },
+  "entite_1367": {
+    "label": "LOC",
+    "text": "aitenter",
+    "jalons": [
+      3128,
+      3136
+    ]
+  },
+  "entite_1368": {
+    "label": "MISC",
+    "text": "Baron!",
+    "jalons": [
+      3151,
+      3157
+    ]
+  },
+  "entite_1369": {
+    "label": "MISC",
+    "text": "Laiïfle-moi",
+    "jalons": [
+      3178,
+      3189
+    ]
+  },
+  "entite_1370": {
+    "label": "ORG",
+    "text": "ALP",
+    "jalons": [
+      3206,
+      3209
+    ]
+  },
+  "entite_1371": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      3226,
+      3234
+    ]
+  },
+  "entite_1372": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      3236,
+      3246
+    ]
+  },
+  "entite_1373": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3248,
+      3256
+    ]
+  },
+  "entite_1374": {
+    "label": "MISC",
+    "text": "JÉROME co + J Ë R",
+    "jalons": [
+      3258,
+      3275
+    ]
+  },
+  "entite_1375": {
+    "label": "MISC",
+    "text": "COM",
+    "jalons": [
+      3344,
+      3347
+    ]
+  },
+  "entite_1376": {
+    "label": "MISC",
+    "text": "Ca A» É L",
+    "jalons": [
+      3351,
+      3360
+    ]
+  },
+  "entite_1377": {
+    "label": "MISC",
+    "text": "1DE",
+    "jalons": [
+      3363,
+      3366
+    ]
+  },
+  "entite_1378": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      3413,
+      3421
+    ]
+  },
+  "entite_1379": {
+    "label": "MISC",
+    "text": "LÉ R Ô",
+    "jalons": [
+      3427,
+      3433
+    ]
+  },
+  "entite_1380": {
+    "label": "MISC",
+    "text": "Il R",
+    "jalons": [
+      3439,
+      3443
+    ]
+  },
+  "entite_1381": {
+    "label": "MISC",
+    "text": "con | tens",
+    "jalons": [
+      3529,
+      3539
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "Le Baro",
+    "jalons": [
+      3570,
+      3577
+    ]
+  },
+  "entite_1383": {
+    "label": "PER",
+    "text": "DO Franklin",
+    "jalons": [
+      3579,
+      3590
+    ]
+  },
+  "entite_1384": {
+    "label": "PER",
+    "text": "| AÉ",
+    "jalons": [
+      3600,
+      3604
+    ]
+  },
+  "entite_1385": {
+    "label": "MISC",
+    "text": "c. Eh !",
+    "jalons": [
+      3626,
+      3633
+    ]
+  },
+  "entite_1386": {
+    "label": "MISC",
+    "text": "BUS",
+    "jalons": [
+      3653,
+      3656
+    ]
+  },
+  "entite_1387": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3664,
+      3672
+    ]
+  },
+  "entite_1388": {
+    "label": "PER",
+    "text": "M. le Chevalier",
+    "jalons": [
+      3712,
+      3727
+    ]
+  },
+  "entite_1389": {
+    "label": "MISC",
+    "text": "e LE BARON",
+    "jalons": [
+      3768,
+      3778
+    ]
+  },
+  "entite_1390": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      3807,
+      3814
+    ]
+  },
+  "entite_1391": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      3829,
+      3834
+    ]
+  },
+  "entite_1392": {
+    "label": "MISC",
+    "text": "vOudriez",
+    "jalons": [
+      3837,
+      3845
+    ]
+  },
+  "entite_1393": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      3945,
+      3951
+    ]
+  },
+  "entite_1394": {
+    "label": "MISC",
+    "text": "LA BARONNE",
+    "jalons": [
+      3987,
+      3997
+    ]
+  },
+  "entite_1395": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      3999,
+      4007
+    ]
+  },
+  "entite_1396": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      4025,
+      4033
+    ]
+  },
+  "entite_1397": {
+    "label": "MISC",
+    "text": "JÉROME",
+    "jalons": [
+      4035,
+      4041
+    ]
+  },
+  "entite_1398": {
+    "label": "MISC",
+    "text": "Le Chevalier",
+    "jalons": [
+      4044,
+      4056
+    ]
+  },
+  "entite_1399": {
+    "label": "PER",
+    "text": "Fraänkner Le R",
+    "jalons": [
+      4083,
+      4097
+    ]
+  },
+  "entite_1400": {
+    "label": "MISC",
+    "text": "LE CHEVALIER De lüis déchiré",
+    "jalons": [
+      4223,
+      4251
+    ]
+  },
+  "entite_1401": {
+    "label": "PER",
+    "text": "DE MARCENAIS",
+    "jalons": [
+      4330,
+      4342
+    ]
+  },
+  "entite_1402": {
+    "label": "LOC",
+    "text": "Franklin",
+    "jalons": [
+      4357,
+      4365
+    ]
+  },
+  "entite_1403": {
+    "label": "MISC",
+    "text": "Je ne puis réfifter",
+    "jalons": [
+      4407,
+      4426
+    ]
+  },
+  "entite_1404": {
+    "label": "MISC",
+    "text": "Franklin.j Cruel",
+    "jalons": [
+      4449,
+      4465
+    ]
+  },
+  "entite_1405": {
+    "label": "LOC",
+    "text": "FRANKLIN R",
+    "jalons": [
+      4556,
+      4566
+    ]
+  },
+  "entite_1406": {
+    "label": "MISC",
+    "text": "O Ciel!",
+    "jalons": [
+      4568,
+      4575
+    ]
+  },
+  "entite_1407": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4581,
+      4588
+    ]
+  },
+  "entite_1408": {
+    "label": "LOC",
+    "text": "Er",
+    "jalons": [
+      4612,
+      4614
+    ]
+  },
+  "entite_1409": {
+    "label": "MISC",
+    "text": "Chevalier!",
+    "jalons": [
+      4625,
+      4635
+    ]
+  },
+  "entite_1410": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      4669,
+      4676
+    ]
+  },
+  "entite_1411": {
+    "label": "MISC",
+    "text": "Quoi ?",
+    "jalons": [
+      4749,
+      4755
+    ]
+  },
+  "entite_1412": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      4756,
+      4764
+    ]
+  },
+  "entite_1413": {
+    "label": "MISC",
+    "text": "Frankie !",
+    "jalons": [
+      4797,
+      4806
+    ]
+  },
+  "entite_1414": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      5040,
+      5046
+    ]
+  },
+  "entite_1415": {
+    "label": "MISC",
+    "text": "ADÉLAIDE",
+    "jalons": [
+      102,
+      110
+    ]
+  },
+  "entite_1416": {
+    "label": "MISC",
+    "text": "Gang de’ notre bienfaiteur",
+    "jalons": [
+      116,
+      142
+    ]
+  },
+  "entite_1417": {
+    "label": "MISC",
+    "text": "CFRANENER",
+    "jalons": [
+      196,
+      205
+    ]
+  },
+  "entite_1418": {
+    "label": "MISC",
+    "text": "Moi!",
+    "jalons": [
+      206,
+      210
+    ]
+  },
+  "entite_1419": {
+    "label": "LOC",
+    "text": "CÉvALtER",
+    "jalons": [
+      267,
+      275
+    ]
+  },
+  "entite_1420": {
+    "label": "MISC",
+    "text": "BasowxE",
+    "jalons": [
+      295,
+      302
+    ]
+  },
+  "entite_1421": {
+    "label": "MISC",
+    "text": "Chevalier",
+    "jalons": [
+      326,
+      335
+    ]
+  },
+  "entite_1422": {
+    "label": "MISC",
+    "text": "Le Brevet d'un régiment!",
+    "jalons": [
+      401,
+      425
+    ]
+  },
+  "entite_1423": {
+    "label": "MISC",
+    "text": "rs",
+    "jalons": [
+      426,
+      428
+    ]
+  },
+  "entite_1424": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      465,
+      466
+    ]
+  },
+  "entite_1425": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      479,
+      488
+    ]
+  },
+  "entite_1426": {
+    "label": "MISC",
+    "text": "Celui!",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_1427": {
+    "label": "MISC",
+    "text": "E LA R O",
+    "jalons": [
+      524,
+      532
+    ]
+  },
+  "entite_1428": {
+    "label": "MISC",
+    "text": "DÉLAÏÎDE",
+    "jalons": [
+      572,
+      580
+    ]
+  },
+  "entite_1429": {
+    "label": "LOC",
+    "text": "Ilsattendrit",
+    "jalons": [
+      587,
+      599
+    ]
+  },
+  "entite_1430": {
+    "label": "MISC",
+    "text": "BaRONNE",
+    "jalons": [
+      621,
+      628
+    ]
+  },
+  "entite_1431": {
+    "label": "MISC",
+    "text": "fire",
+    "jalons": [
+      654,
+      658
+    ]
+  },
+  "entite_1432": {
+    "label": "PER",
+    "text": "| LE",
+    "jalons": [
+      713,
+      717
+    ]
+  },
+  "entite_1433": {
+    "label": "ORG",
+    "text": "UT ei | # PE",
+    "jalons": [
+      791,
+      803
+    ]
+  },
+  "entite_1434": {
+    "label": "MISC",
+    "text": "MARINAÏ",
+    "jalons": [
+      818,
+      825
+    ]
+  },
+  "entite_1435": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      829,
+      837
+    ]
+  },
+  "entite_1436": {
+    "label": "PER",
+    "text": "Adélaïde",
+    "jalons": [
+      929,
+      937
+    ]
+  },
+  "entite_1437": {
+    "label": "MISC",
+    "text": "Objet de votre vengeance",
+    "jalons": [
+      996,
+      1020
+    ]
+  },
+  "entite_1438": {
+    "label": "MISC",
+    "text": "Ah!",
+    "jalons": [
+      1022,
+      1025
+    ]
+  },
+  "entite_1439": {
+    "label": "PER",
+    "text": "fa grace",
+    "jalons": [
+      1052,
+      1060
+    ]
+  },
+  "entite_1440": {
+    "label": "MISC",
+    "text": "LE BARON",
+    "jalons": [
+      1085,
+      1093
+    ]
+  },
+  "entite_1441": {
+    "label": "MISC",
+    "text": "CHsvarien",
+    "jalons": [
+      1165,
+      1174
+    ]
+  },
+  "entite_1442": {
+    "label": "MISC",
+    "text": "Monterél",
+    "jalons": [
+      1177,
+      1185
+    ]
+  },
+  "entite_1443": {
+    "label": "MISC",
+    "text": "B AR",
+    "jalons": [
+      1191,
+      1195
+    ]
+  },
+  "entite_1444": {
+    "label": "PER",
+    "text": "Vois",
+    "jalons": [
+      1276,
+      1280
+    ]
+  },
+  "entite_1445": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1288,
+      1296
+    ]
+  },
+  "entite_1446": {
+    "label": "MISC",
+    "text": "J'aurais dû peut-être en recevoir l'exemple.de toi",
+    "jalons": [
+      1418,
+      1468
+    ]
+  },
+  "entite_1447": {
+    "label": "ORG",
+    "text": "ner",
+    "jalons": [
+      1495,
+      1498
+    ]
+  },
+  "entite_1448": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      1522,
+      1531
+    ]
+  },
+  "entite_1449": {
+    "label": "MISC",
+    "text": "Mo",
+    "jalons": [
+      1533,
+      1535
+    ]
+  },
+  "entite_1450": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      1566,
+      1573
+    ]
+  },
+  "entite_1451": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1588,
+      1596
+    ]
+  },
+  "entite_1452": {
+    "label": "MISC",
+    "text": "CHEVALIER",
+    "jalons": [
+      1601,
+      1610
+    ]
+  },
+  "entite_1453": {
+    "label": "PER",
+    "text": "| Disposez de ‘ma main",
+    "jalons": [
+      1612,
+      1634
+    ]
+  },
+  "entite_1454": {
+    "label": "PER",
+    "text": "Fraser",
+    "jalons": [
+      1689,
+      1695
+    ]
+  },
+  "entite_1455": {
+    "label": "MISC",
+    "text": "6 tr rh",
+    "jalons": [
+      1743,
+      1750
+    ]
+  },
+  "entite_1456": {
+    "label": "MISC",
+    "text": "À m ADÉLAIDE",
+    "jalons": [
+      1761,
+      1773
+    ]
+  },
+  "entite_1457": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      1824,
+      1831
+    ]
+  },
+  "entite_1458": {
+    "label": "MISC",
+    "text": "BARONNE Fu LE BARON",
+    "jalons": [
+      1835,
+      1854
+    ]
+  },
+  "entite_1459": {
+    "label": "MISC",
+    "text": "FRANKLIN",
+    "jalons": [
+      1869,
+      1877
+    ]
+  },
+  "entite_1460": {
+    "label": "PER",
+    "text": "| LE BARON",
+    "jalons": [
+      1900,
+      1910
+    ]
+  },
+  "entite_1461": {
+    "label": "PER",
+    "text": "Jet",
+    "jalons": [
+      1914,
+      1917
+    ]
+  },
+  "entite_1462": {
+    "label": "MISC",
+    "text": "Le Chevalier releve fa fœur",
+    "jalons": [
+      1933,
+      1960
+    ]
+  },
+  "entite_1463": {
+    "label": "MISC",
+    "text": "La main",
+    "jalons": [
+      1974,
+      1981
+    ]
+  },
+  "entite_1464": {
+    "label": "PER",
+    "text": "Franklin",
+    "jalons": [
+      1985,
+      1993
+    ]
+  },
+  "entite_1465": {
+    "label": "MISC",
+    "text": "fon pere 6",
+    "jalons": [
+      2009,
+      2019
+    ]
+  },
+  "entite_1466": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      2235,
+      2236
+    ]
+  },
+  "entite_1467": {
+    "label": "PER",
+    "text": "grace",
+    "jalons": [
+      2274,
+      2279
+    ]
+  },
+  "entite_1468": {
+    "label": "MISC",
+    "text": "F R",
+    "jalons": [
+      2297,
+      2300
+    ]
+  },
+  "entite_1469": {
+    "label": "MISC",
+    "text": "Us",
+    "jalons": [
+      2343,
+      2345
+    ]
+  },
+  "entite_1470": {
+    "label": "MISC",
+    "text": "BARONNE",
+    "jalons": [
+      2363,
+      2370
+    ]
+  },
+  "entite_1471": {
+    "label": "PER",
+    "text": "Sont",
+    "jalons": [
+      2411,
+      2415
+    ]
+  },
+  "entite_1472": {
+    "label": "PER",
+    "text": "LEROUX",
+    "jalons": [
+      2418,
+      2424
+    ]
+  },
+  "entite_1473": {
+    "label": "MISC",
+    "text": "Baron & la { / pq",
+    "jalons": [
+      2430,
+      2447
+    ]
+  },
+  "entite_1474": {
+    "label": "MISC",
+    "text": "e3 Baronne",
+    "jalons": [
+      2471,
+      2481
+    ]
+  },
+  "entite_1475": {
+    "label": "MISC",
+    "text": "Sur eux leurs mains pater- nelles",
+    "jalons": [
+      2491,
+      2524
+    ]
+  },
+  "entite_1476": {
+    "label": "MISC",
+    "text": "LE Baron",
+    "jalons": [
+      2528,
+      2536
+    ]
+  },
+  "entite_1477": {
+    "label": "MISC",
+    "text": "Mes enfans! mes chers enfans !",
+    "jalons": [
+      2538,
+      2568
+    ]
+  }
+}

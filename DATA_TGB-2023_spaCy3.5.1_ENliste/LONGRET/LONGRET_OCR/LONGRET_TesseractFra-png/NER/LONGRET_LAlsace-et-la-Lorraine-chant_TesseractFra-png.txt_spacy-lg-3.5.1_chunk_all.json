@@ -1,0 +1,434 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "ER",
+    "jalons": [
+      0,
+      2
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Eæ",
+    "jalons": [
+      9,
+      11
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "NT fr Couplet",
+    "jalons": [
+      25,
+      38
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Car vraimint cha dot faire de l’peine",
+    "jalons": [
+      109,
+      146
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "dins cheull maudi",
+    "jalons": [
+      194,
+      211
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Par des barbares",
+    "jalons": [
+      220,
+      236
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "In",
+    "jalons": [
+      297,
+      299
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "Crieront victoire",
+    "jalons": [
+      376,
+      393
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "2e Couplet",
+    "jalons": [
+      409,
+      419
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Que ch'",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "N' s'aPtent",
+    "jalons": [
+      538,
+      549
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      596,
+      605
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      649,
+      651
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Nous leu rindrons du bure pou",
+    "jalons": [
+      691,
+      720
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Couplet",
+    "jalons": [
+      733,
+      740
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Alsaciens",
+    "jalons": [
+      808,
+      817
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Pour leu pays ête si",
+    "jalons": [
+      819,
+      839
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Et s’vir au pouvoir des",
+    "jalons": [
+      848,
+      871
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Prussiens",
+    "jalons": [
+      872,
+      881
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "Chés",
+    "jalons": [
+      885,
+      889
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Piller",
+    "jalons": [
+      961,
+      967
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "LOUIS LONGRET",
+    "jalons": [
+      1041,
+      1054
+    ]
+  },
+  "entite_22": {
+    "label": "ORG",
+    "text": "Air : le Jour de Bonheur",
+    "jalons": [
+      1055,
+      1079
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Lille",
+    "jalons": [
+      1081,
+      1086
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Imp",
+    "jalons": [
+      1088,
+      1091
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "DODOPDOOOC DOoCGCOC 4e Couplet",
+    "jalons": [
+      1116,
+      1146
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Tout comme chés pauv's diabl's in Lorraine",
+    "jalons": [
+      1148,
+      1190
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Biell’ France",
+    "jalons": [
+      1226,
+      1239
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "J’ peine",
+    "jalons": [
+      1263,
+      1271
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "Nos cœurs s’ décharnent d'jour in jour",
+    "jalons": [
+      1273,
+      1311
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "De s’ soumett’ à Jeu",
+    "jalons": [
+      1346,
+      1366
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "noa!",
+    "jalons": [
+      1396,
+      1400
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "chet",
+    "jalons": [
+      1401,
+      1405
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Bonne France",
+    "jalons": [
+      1418,
+      1430
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Couplet",
+    "jalons": [
+      1461,
+      1468
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Faut qui euch'",
+    "jalons": [
+      1540,
+      1554
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "pillache Exécuté",
+    "jalons": [
+      1706,
+      1722
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Couplet",
+    "jalons": [
+      1744,
+      1751
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Lorraine",
+    "jalons": [
+      1767,
+      1775
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Alsace",
+    "jalons": [
+      1780,
+      1786
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Pu",
+    "jalons": [
+      1788,
+      1790
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Pritent l’bon Dieu",
+    "jalons": [
+      1819,
+      1837
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      1970,
+      1972
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      1994,
+      2000
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Hélas!",
+    "jalons": [
+      2002,
+      2008
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Refrain",
+    "jalons": [
+      2033,
+      2040
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Pa",
+    "jalons": [
+      2042,
+      2044
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Critent victoire in combattant",
+    "jalons": [
+      2074,
+      2104
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "C0",
+    "jalons": [
+      2108,
+      2110
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Ps » H f D ve 11",
+    "jalons": [
+      2113,
+      2129
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France Jolquos gidweort th Hat Latin",
+    "jalons": [
+      2168,
+      2230
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": ".19",
+    "jalons": [
+      2242,
+      2245
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "ASE",
+    "jalons": [
+      2266,
+      2269
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "TE",
+    "jalons": [
+      2467,
+      2469
+    ]
+  }
+}
