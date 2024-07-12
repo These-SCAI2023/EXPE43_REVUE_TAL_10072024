@@ -39,14 +39,14 @@ def stocker(chemin, contenu):
 
     return chemin
 
-# # Ajouter .json à la place de .txt
-# path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-Por_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
-#
-# for path in glob.glob(path_corpora):
-#     print(path)
-#     add_json=path.split(".txt")[0]+".json"
-#     print(add_json)
-#     os.rename(path, add_json)
+# Ajouter .json à la place de .txt
+path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-eng_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
+
+for path in glob.glob(path_corpora):
+    print(path)
+    add_json=path.split(".txt")[0]+".json"
+    print(add_json)
+    os.rename(path, add_json)
 
 # # # Compter le nombre de sorties par dossier pour détecter les fichiers manquants
 # path_corpora = "../DATA_ELTeC_spaCy3.5.1/DATA_ELTeC-fra_spaCy3.5.1/*"
@@ -82,43 +82,43 @@ path_corpora = "../DATA_ELTeC-eng_spaCy3.5.1/*/*"
 # modeles = ["camenBert_ner", "sm", "lg","flair"]
 # dico_entite = {}
 
-for path in glob.glob(path_corpora):
-    print("_____________",path)
-    for subpath in glob.glob("%s/*/*/*1.json"%path):
-        print(subpath)
-        mod=modeles(subpath)
-        print(mod)
-        path_output=sortie(subpath)
-        print("path_output",path_output)
-        dico_entite=lire_json(subpath)
-        liste_entite=[]
-        for cle, value in dico_entite.items():
-            # print(value["label"])
-            if value["label"]=="LOC" or value["label"]=="GPE":
-                # print(value["text"])
-                # i_replace = value["text"].replace(" ", "")
-                # print(i_replace)
-                liste_entite.append(value["text"])
-        print(len(liste_entite))
-        stocker(path_output, liste_entite)
-
-    for refpath in glob.glob("%s/*/*1.json"%path):
-        print(refpath)
-        mod = modeles(refpath)
-        print(mod)
-        path_output = sortie(refpath)
-        print("path_output", path_output)
-        dico_entite = lire_json(refpath)
-        liste_entite = []
-        for cle, value in dico_entite.items():
-            # print(value["label"])
-            if value["label"] == "LOC" or value["label"] == "GPE":
-                # print(value["text"])
-                # i_replace = value["text"].replace(" ", "")
-                # print(i_replace)
-                liste_entite.append(value["text"])
-        print(len(liste_entite))
-        stocker(path_output, liste_entite)
+# for path in glob.glob(path_corpora):
+#     print("_____________",path)
+#     for subpath in glob.glob("%s/*/*/*1.json"%path):
+#         print(subpath)
+#         mod=modeles(subpath)
+#         print(mod)
+#         path_output=sortie(subpath)
+#         print("path_output",path_output)
+#         dico_entite=lire_json(subpath)
+#         liste_entite=[]
+#         for cle, value in dico_entite.items():
+#             # print(value["label"])
+#             if value["label"]=="LOC" or value["label"]=="GPE":
+#                 # print(value["text"])
+#                 # i_replace = value["text"].replace(" ", "")
+#                 # print(i_replace)
+#                 liste_entite.append(value["text"])
+#         print(len(liste_entite))
+#         stocker(path_output, liste_entite)
+#
+#     for refpath in glob.glob("%s/*/*1.json"%path):
+#         print(refpath)
+#         mod = modeles(refpath)
+#         print(mod)
+#         path_output = sortie(refpath)
+#         print("path_output", path_output)
+#         dico_entite = lire_json(refpath)
+#         liste_entite = []
+#         for cle, value in dico_entite.items():
+#             # print(value["label"])
+#             if value["label"] == "LOC" or value["label"] == "GPE":
+#                 # print(value["text"])
+#                 # i_replace = value["text"].replace(" ", "")
+#                 # print(i_replace)
+#                 liste_entite.append(value["text"])
+#         print(len(liste_entite))
+#         stocker(path_output, liste_entite)
 
 
 
