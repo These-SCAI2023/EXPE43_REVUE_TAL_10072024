@@ -1,0 +1,12082 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "A BEL LANOfc",
+    "jalons": [
+      27,
+      39
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      41,
+      48
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "PAR M",
+    "jalons": [
+      75,
+      80
+    ]
+  },
+  "entite_3": {
+    "label": "PER",
+    "text": "DE C",
+    "jalons": [
+      90,
+      94
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Jamam seijuere",
+    "jalons": [
+      102,
+      116
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Hou",
+    "jalons": [
+      122,
+      125
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      162,
+      164
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Ou que vos fictions",
+    "jalons": [
+      175,
+      194
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "CINQUIÈME A PARIS",
+    "jalons": [
+      245,
+      262
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "CHEZLOCARD",
+    "jalons": [
+      264,
+      274
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "D AVI",
+    "jalons": [
+      278,
+      283
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Libraires",
+    "jalons": [
+      285,
+      294
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Quai",
+    "jalons": [
+      296,
+      300
+    ]
+  },
+  "entite_13": {
+    "label": "LOC",
+    "text": "Auguslins",
+    "jalons": [
+      305,
+      314
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      330,
+      337
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "L’ENFANT DES APENNINS",
+    "jalons": [
+      341,
+      362
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "1 Jfci",
+    "jalons": [
+      364,
+      370
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "EVENONs",
+    "jalons": [
+      371,
+      378
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": ".d^s",
+    "jalons": [
+      432,
+      436
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "àNaples",
+    "jalons": [
+      523,
+      530
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "marquis d’Avarello",
+    "jalons": [
+      586,
+      604
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": ".^TElisca",
+    "jalons": [
+      789,
+      798
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1417,
+      1425
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "•■",
+    "jalons": [
+      1445,
+      1447
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Malviha",
+    "jalons": [
+      1506,
+      1513
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Wilmirta",
+    "jalons": [
+      1652,
+      1660
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "VVILMJSA",
+    "jalons": [
+      1875,
+      1883
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      1938,
+      1946
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      2079,
+      2084
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2155,
+      2162
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "A-lberti",
+    "jalons": [
+      2265,
+      2273
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      2292,
+      2300
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "Qonzalve",
+    "jalons": [
+      2350,
+      2358
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2400,
+      2407
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      2650,
+      2656
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      2805,
+      2810
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      2845,
+      2850
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "TÎans",
+    "jalons": [
+      3079,
+      3084
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3169,
+      3175
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      3360,
+      3368
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3372,
+      3379
+    ]
+  },
+  "entite_41": {
+    "label": "ORG",
+    "text": "ell",
+    "jalons": [
+      3381,
+      3384
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      3651,
+      3652
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      3739,
+      3747
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      3856,
+      3865
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "détrgsse",
+    "jalons": [
+      3962,
+      3970
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      4178,
+      4183
+    ]
+  },
+  "entite_47": {
+    "label": "ORG",
+    "text": "îci",
+    "jalons": [
+      4192,
+      4195
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4202,
+      4207
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "H",
+    "jalons": [
+      4237,
+      4238
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4289,
+      4296
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      4342,
+      4346
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "dé leui",
+    "jalons": [
+      4468,
+      4475
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "WlLMINA",
+    "jalons": [
+      4616,
+      4623
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Eliscâ",
+    "jalons": [
+      4710,
+      4716
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "marquis de Pinellô",
+    "jalons": [
+      4813,
+      4831
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4853,
+      4858
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Oiiise",
+    "jalons": [
+      4922,
+      4928
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4942,
+      4950
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Lazarpnis",
+    "jalons": [
+      4974,
+      4983
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      4986,
+      4994
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Pise",
+    "jalons": [
+      5022,
+      5026
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "alichâtcau des Souvenirs",
+    "jalons": [
+      5045,
+      5069
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      5104,
+      5113
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "EebeâVi:-Gonzalve",
+    "jalons": [
+      5176,
+      5193
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "•faisait",
+    "jalons": [
+      5298,
+      5306
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "us",
+    "jalons": [
+      5327,
+      5329
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "•aimer",
+    "jalons": [
+      5523,
+      5529
+    ]
+  },
+  "entite_68": {
+    "label": "ORG",
+    "text": "Jestressources dei",
+    "jalons": [
+      5814,
+      5832
+    ]
+  },
+  "entite_69": {
+    "label": "LOC",
+    "text": "Jq",
+    "jalons": [
+      5834,
+      5836
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Hômbesbiëniné",
+    "jalons": [
+      6110,
+      6123
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "rét",
+    "jalons": [
+      6190,
+      6193
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "•''-■",
+    "jalons": [
+      6264,
+      6269
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Pisé aveelëdëgret de ne^pouvoir pimir",
+    "jalons": [
+      6306,
+      6343
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "osàit’ljràvér",
+    "jalons": [
+      6368,
+      6381
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      265,
+      271
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      340,
+      347
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      354,
+      362
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Raoul I",
+    "jalons": [
+      490,
+      497
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "It",
+    "jalons": [
+      516,
+      518
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Orfée« rn",
+    "jalons": [
+      638,
+      647
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "vdyànt",
+    "jalons": [
+      649,
+      655
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": ".<:':'::.'",
+    "jalons": [
+      740,
+      750
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Avaréllo",
+    "jalons": [
+      758,
+      766
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Dèsi",
+    "jalons": [
+      793,
+      797
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      824,
+      833
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "Nâples",
+    "jalons": [
+      858,
+      864
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Luco",
+    "jalons": [
+      889,
+      893
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      910,
+      918
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "îVilla-Rosâ",
+    "jalons": [
+      996,
+      1007
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      1057,
+      1062
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      1090,
+      1097
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "-t-jl",
+    "jalons": [
+      1195,
+      1200
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "ej1,prGria.9tlla",
+    "jalons": [
+      1202,
+      1218
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "offi'",
+    "jalons": [
+      1286,
+      1291
+    ]
+  },
+  "entite_95": {
+    "label": "ORG",
+    "text": "awec",
+    "jalons": [
+      1383,
+      1387
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "je- sUfè",
+    "jalons": [
+      1434,
+      1442
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "lâbuélle",
+    "jalons": [
+      1505,
+      1513
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Le marquis",
+    "jalons": [
+      1550,
+      1560
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "inàf",
+    "jalons": [
+      1678,
+      1682
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "ièjre",
+    "jalons": [
+      1685,
+      1690
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Vnhi-Ros&>J",
+    "jalons": [
+      1734,
+      1745
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "^--fy",
+    "jalons": [
+      1753,
+      1758
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "RaoiiL’U^",
+    "jalons": [
+      1771,
+      1780
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "ceuxdjonn ib",
+    "jalons": [
+      1802,
+      1814
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Mr • le Qtrôp",
+    "jalons": [
+      1843,
+      1856
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Il^ë7dj(j^it",
+    "jalons": [
+      1955,
+      1967
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "ettvi« i« fs#ui cbâtê",
+    "jalons": [
+      2056,
+      2077
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "TèV 10",
+    "jalons": [
+      2083,
+      2089
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Wl-IÎ.MTI'ÎÏ'",
+    "jalons": [
+      2092,
+      2105
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "ecHappet Ijï-",
+    "jalons": [
+      2169,
+      2182
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "!",
+    "jalons": [
+      2267,
+      2268
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "j eûne",
+    "jalons": [
+      2327,
+      2333
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "comtessasv dbntlés malheurs",
+    "jalons": [
+      2335,
+      2362
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "avaientcxaûs’v jli",
+    "jalons": [
+      2365,
+      2383
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "niy'",
+    "jalons": [
+      2392,
+      2396
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "poûssé4 mêmBÎ",
+    "jalons": [
+      2466,
+      2479
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "WSfl&àJa",
+    "jalons": [
+      2494,
+      2502
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Isolée",
+    "jalons": [
+      2566,
+      2572
+    ]
+  },
+  "entite_119": {
+    "label": "ORG",
+    "text": "ijar*- dins",
+    "jalons": [
+      2770,
+      2781
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "p^",
+    "jalons": [
+      2828,
+      2830
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "^^%^P^^^ft55'Weiid^/s’yiciwheii",
+    "jalons": [
+      2831,
+      2862
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "luijflvaikfap^irig dequdi Raoul",
+    "jalons": [
+      2883,
+      2914
+    ]
+  },
+  "entite_123": {
+    "label": "ORG",
+    "text": "ili",
+    "jalons": [
+      2933,
+      2936
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "NélmV",
+    "jalons": [
+      3103,
+      3108
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "WILM1SA",
+    "jalons": [
+      3162,
+      3169
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "I I",
+    "jalons": [
+      3171,
+      3174
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "liai",
+    "jalons": [
+      3262,
+      3266
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "àccdùrus aiï fiiôrtidre bruit",
+    "jalons": [
+      3554,
+      3583
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "v aynt",
+    "jalons": [
+      3731,
+      3737
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "nailieu",
+    "jalons": [
+      3758,
+      3765
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Avarello ajyiiit",
+    "jalons": [
+      3825,
+      3841
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "dejla ^marquise",
+    "jalons": [
+      3977,
+      3992
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Ai- 13 WILMINÀ",
+    "jalons": [
+      4171,
+      4185
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "lemande",
+    "jalons": [
+      4187,
+      4194
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      4198,
+      4202
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      4316,
+      4322
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      4550,
+      4558
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Fenclos",
+    "jalons": [
+      4749,
+      4756
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      4814,
+      4820
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4886,
+      4891
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      4954,
+      4962
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "W1LMISA",
+    "jalons": [
+      5071,
+      5078
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "l3",
+    "jalons": [
+      5081,
+      5083
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      5698,
+      5704
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Allemande",
+    "jalons": [
+      5801,
+      5810
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Wilrriina",
+    "jalons": [
+      5884,
+      5893
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      5907,
+      5912
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      5984,
+      5992
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      6029,
+      6037
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      6240,
+      6248
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "^ie",
+    "jalons": [
+      6473,
+      6476
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Grâces",
+    "jalons": [
+      95,
+      101
+    ]
+  },
+  "entite_153": {
+    "label": "ORG",
+    "text": "blotitsans",
+    "jalons": [
+      138,
+      148
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "WILM1NA",
+    "jalons": [
+      412,
+      419
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "l5 ombre",
+    "jalons": [
+      421,
+      429
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "statue d’Actéon",
+    "jalons": [
+      444,
+      459
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": ".w II",
+    "jalons": [
+      494,
+      499
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Lazaro trèsjoyeuxde",
+    "jalons": [
+      534,
+      553
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "guetta",
+    "jalons": [
+      747,
+      753
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      834,
+      842
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Aen",
+    "jalons": [
+      887,
+      890
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      921,
+      927
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      1143,
+      1151
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "W-JXLM1HA",
+    "jalons": [
+      1311,
+      1320
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "^domestique",
+    "jalons": [
+      1330,
+      1341
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1415,
+      1422
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "lé cordon de la sonnette",
+    "jalons": [
+      1560,
+      1584
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "dèjux heures",
+    "jalons": [
+      1723,
+      1735
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1968,
+      1975
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "presqiïe",
+    "jalons": [
+      2241,
+      2249
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "dour",
+    "jalons": [
+      2661,
+      2665
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "T. v. i",
+    "jalons": [
+      3127,
+      3134
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "W.11M1HA",
+    "jalons": [
+      3140,
+      3148
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "desflambeaux",
+    "jalons": [
+      3869,
+      3881
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "L’odieuse créature",
+    "jalons": [
+      3972,
+      3990
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "ùri",
+    "jalons": [
+      3999,
+      4002
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "sôn’ _",
+    "jalons": [
+      4101,
+      4107
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "qiÎH",
+    "jalons": [
+      4110,
+      4114
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "res1 tëhtSgîr^é^a^HrréuV'",
+    "jalons": [
+      4129,
+      4154
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "Quêl’^ëctàclé/ ëri",
+    "jalons": [
+      4155,
+      4173
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "bffre",
+    "jalons": [
+      4185,
+      4190
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "rà3tl’",
+    "jalons": [
+      4231,
+      4237
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "J lé",
+    "jalons": [
+      4260,
+      4264
+    ]
+  },
+  "entite_184": {
+    "label": "ORG",
+    "text": "naè^^mr",
+    "jalons": [
+      4274,
+      4281
+    ]
+  },
+  "entite_185": {
+    "label": "ORG",
+    "text": "eil",
+    "jalons": [
+      4369,
+      4372
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": ".ï !' ;i'>::v>;",
+    "jalons": [
+      4440,
+      4455
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "onfïe",
+    "jalons": [
+      4527,
+      4532
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Mats",
+    "jalons": [
+      4674,
+      4678
+    ]
+  },
+  "entite_189": {
+    "label": "MISC",
+    "text": "unèJtèihtë",
+    "jalons": [
+      4919,
+      4929
+    ]
+  },
+  "entite_190": {
+    "label": "ORG",
+    "text": "reéOuvré' aussitôt’",
+    "jalons": [
+      4938,
+      4957
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      4993,
+      4999
+    ]
+  },
+  "entite_192": {
+    "label": "ORG",
+    "text": "Avarello !",
+    "jalons": [
+      5050,
+      5060
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "j^ai",
+    "jalons": [
+      5075,
+      5079
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "A 20 WILM1NA",
+    "jalons": [
+      5096,
+      5108
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "nomdes",
+    "jalons": [
+      5113,
+      5119
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Et vous, continua la bacchante",
+    "jalons": [
+      5156,
+      5186
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "jenie",
+    "jalons": [
+      5269,
+      5274
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "yoùsalr lez",
+    "jalons": [
+      5311,
+      5322
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Ebsca",
+    "jalons": [
+      5333,
+      5338
+    ]
+  },
+  "entite_200": {
+    "label": "ORG",
+    "text": "^effrayent point",
+    "jalons": [
+      5355,
+      5371
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "ellç",
+    "jalons": [
+      5374,
+      5378
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "SOA",
+    "jalons": [
+      5550,
+      5553
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Tout-à-coup",
+    "jalons": [
+      5661,
+      5672
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Je meurs !",
+    "jalons": [
+      5892,
+      5902
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Wilmina ! !!",
+    "jalons": [
+      5960,
+      5972
+    ]
+  },
+  "entite_206": {
+    "label": "ORG",
+    "text": "Tetirent",
+    "jalons": [
+      6120,
+      6128
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Mégère",
+    "jalons": [
+      6147,
+      6153
+    ]
+  },
+  "entite_208": {
+    "label": "ORG",
+    "text": "ueMort terrible-.l>ifaite.pour",
+    "jalons": [
+      6198,
+      6228
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "contristë",
+    "jalons": [
+      6267,
+      6276
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "itçj",
+    "jalons": [
+      7,
+      11
+    ]
+  },
+  "entite_211": {
+    "label": "LOC",
+    "text": "refid",
+    "jalons": [
+      284,
+      289
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      555,
+      561
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "Teorarnode",
+    "jalons": [
+      691,
+      701
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "fc-àcpup",
+    "jalons": [
+      720,
+      728
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "Avaréllo",
+    "jalons": [
+      766,
+      774
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "queic’",
+    "jalons": [
+      838,
+      844
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "estfluiqu’",
+    "jalons": [
+      844,
+      854
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "Soupçon",
+    "jalons": [
+      897,
+      904
+    ]
+  },
+  "entite_219": {
+    "label": "ORG",
+    "text": "ussil",
+    "jalons": [
+      920,
+      925
+    ]
+  },
+  "entite_220": {
+    "label": "MISC",
+    "text": "SOH",
+    "jalons": [
+      934,
+      937
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "xbrtfk",
+    "jalons": [
+      995,
+      1001
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "voJ^IJt",
+    "jalons": [
+      1047,
+      1054
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Appartement den^iln^inayroû",
+    "jalons": [
+      1064,
+      1091
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "siut",
+    "jalons": [
+      1111,
+      1115
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "H- .U",
+    "jalons": [
+      1121,
+      1126
+    ]
+  },
+  "entite_226": {
+    "label": "ORG",
+    "text": "^raftvaiW",
+    "jalons": [
+      1156,
+      1165
+    ]
+  },
+  "entite_227": {
+    "label": "ORG",
+    "text": "U",
+    "jalons": [
+      1166,
+      1167
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "yeTte",
+    "jalons": [
+      1182,
+      1187
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": ".VJBÛS",
+    "jalons": [
+      1221,
+      1227
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Mi'",
+    "jalons": [
+      1261,
+      1264
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      1288,
+      1294
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "unlàuteuil",
+    "jalons": [
+      1360,
+      1370
+    ]
+  },
+  "entite_233": {
+    "label": "MISC",
+    "text": "iVontàssassinéei: !' !",
+    "jalons": [
+      1386,
+      1408
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Fui",
+    "jalons": [
+      1457,
+      1460
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": ".^louce-etiiimàble",
+    "jalons": [
+      1491,
+      1509
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Wilu>inay Brestu",
+    "jalons": [
+      1588,
+      1604
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "VVILMÏNA",
+    "jalons": [
+      1690,
+      1698
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "Sôti",
+    "jalons": [
+      1732,
+      1736
+    ]
+  },
+  "entite_239": {
+    "label": "MISC",
+    "text": "• la chercher partout ;",
+    "jalons": [
+      1926,
+      1949
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Wiknina Oulamort",
+    "jalons": [
+      2014,
+      2030
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      2037,
+      2045
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "|fï^le",
+    "jalons": [
+      2102,
+      2108
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "étonrtëmeht",
+    "jalons": [
+      2217,
+      2228
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Fulvi'",
+    "jalons": [
+      2339,
+      2345
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      2397,
+      2405
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "—- Non",
+    "jalons": [
+      2498,
+      2504
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "j jéporiân",
+    "jalons": [
+      2510,
+      2520
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      2576,
+      2582
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "marquise j",
+    "jalons": [
+      2837,
+      2847
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "unvalètcrie",
+    "jalons": [
+      3011,
+      3022
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Fulvià",
+    "jalons": [
+      3060,
+      3066
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3206,
+      3213
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "douloureusementla marquise",
+    "jalons": [
+      3314,
+      3340
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      3819,
+      3825
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "naême-tempsjelle",
+    "jalons": [
+      3939,
+      3955
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Fulyi.a",
+    "jalons": [
+      4174,
+      4181
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "app",
+    "jalons": [
+      4274,
+      4277
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "supéfbê",
+    "jalons": [
+      4294,
+      4301
+    ]
+  },
+  "entite_259": {
+    "label": "MISC",
+    "text": "T. v. o 2$",
+    "jalons": [
+      4428,
+      4438
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "npyyefiu îes.gens",
+    "jalons": [
+      4625,
+      4642
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Elisça",
+    "jalons": [
+      4714,
+      4720
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "AvàrelIp",
+    "jalons": [
+      4933,
+      4941
+    ]
+  },
+  "entite_263": {
+    "label": "ORG",
+    "text": "déi",
+    "jalons": [
+      4953,
+      4956
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      5015,
+      5019
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      5305,
+      5310
+    ]
+  },
+  "entite_266": {
+    "label": "MISC",
+    "text": "WILM1NA",
+    "jalons": [
+      5345,
+      5352
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      5594,
+      5604
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      6041,
+      6046
+    ]
+  },
+  "entite_269": {
+    "label": "PER",
+    "text": "-t-elle^",
+    "jalons": [
+      6103,
+      6111
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "ïntièrèniënt",
+    "jalons": [
+      55,
+      67
+    ]
+  },
+  "entite_271": {
+    "label": "MISC",
+    "text": "^âîsfle",
+    "jalons": [
+      83,
+      90
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "Vbir",
+    "jalons": [
+      146,
+      150
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "sur-le-cfa",
+    "jalons": [
+      275,
+      285
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "LeJd",
+    "jalons": [
+      293,
+      297
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Fulvîa",
+    "jalons": [
+      394,
+      400
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "morèi",
+    "jalons": [
+      433,
+      438
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "sKl",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "ïeîcoucher",
+    "jalons": [
+      526,
+      536
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "existeraplus",
+    "jalons": [
+      575,
+      587
+    ]
+  },
+  "entite_280": {
+    "label": "MISC",
+    "text": "Votre - excellence",
+    "jalons": [
+      651,
+      669
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "nia",
+    "jalons": [
+      808,
+      811
+    ]
+  },
+  "entite_282": {
+    "label": "MISC",
+    "text": "WUM1SA",
+    "jalons": [
+      929,
+      935
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Esculape",
+    "jalons": [
+      1080,
+      1088
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      1625,
+      1630
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "Fulvia-",
+    "jalons": [
+      2034,
+      2041
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Tout-à-coup",
+    "jalons": [
+      2134,
+      2145
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      2239,
+      2243
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "^estobùlë",
+    "jalons": [
+      2330,
+      2339
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "attendrejspn",
+    "jalons": [
+      2587,
+      2599
+    ]
+  },
+  "entite_290": {
+    "label": "MISC",
+    "text": "Ab !",
+    "jalons": [
+      2680,
+      2684
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "TOis^/t’",
+    "jalons": [
+      2699,
+      2707
+    ]
+  },
+  "entite_292": {
+    "label": "MISC",
+    "text": "l ■\\VltMlNA",
+    "jalons": [
+      2742,
+      2753
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "hâtezrvous",
+    "jalons": [
+      2786,
+      2796
+    ]
+  },
+  "entite_294": {
+    "label": "MISC",
+    "text": "Gonr » zalve",
+    "jalons": [
+      2834,
+      2846
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2988,
+      2996
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      3222,
+      3228
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "sîgnora",
+    "jalons": [
+      3249,
+      3256
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      3335,
+      3337
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3556,
+      3563
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3848,
+      3856
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      4347,
+      4351
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4368,
+      4376
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Destin !",
+    "jalons": [
+      4561,
+      4569
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4577,
+      4583
+    ]
+  },
+  "entite_305": {
+    "label": "MISC",
+    "text": "Hélas !",
+    "jalons": [
+      4585,
+      4592
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4986,
+      4994
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5270,
+      5276
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5569,
+      5577
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5693,
+      5701
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      118,
+      124
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      266,
+      273
+    ]
+  },
+  "entite_312": {
+    "label": "MISC",
+    "text": "Non !",
+    "jalons": [
+      377,
+      382
+    ]
+  },
+  "entite_313": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      766,
+      774
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "ma Wilmina",
+    "jalons": [
+      1086,
+      1096
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      1163,
+      1169
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      1280,
+      1284
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1308,
+      1314
+    ]
+  },
+  "entite_318": {
+    "label": "MISC",
+    "text": "W1LM1NA",
+    "jalons": [
+      1488,
+      1495
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1564,
+      1571
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1726,
+      1734
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1774,
+      1781
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "Adieu !",
+    "jalons": [
+      1878,
+      1885
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1999,
+      2005
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2062,
+      2070
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "W IL",
+    "jalons": [
+      2332,
+      2336
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Cë",
+    "jalons": [
+      2838,
+      2840
+    ]
+  },
+  "entite_327": {
+    "label": "MISC",
+    "text": "i-",
+    "jalons": [
+      3113,
+      3115
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      3132,
+      3136
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      3154,
+      3160
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "nialgré",
+    "jalons": [
+      3465,
+      3472
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "pfesqu’",
+    "jalons": [
+      3505,
+      3512
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Tenabarrasdu",
+    "jalons": [
+      3841,
+      3853
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "açv cable",
+    "jalons": [
+      4021,
+      4030
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "im-",
+    "jalons": [
+      4180,
+      4183
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      4185,
+      4192
+    ]
+  },
+  "entite_336": {
+    "label": "LOC",
+    "text": "rère",
+    "jalons": [
+      4411,
+      4415
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "O",
+    "jalons": [
+      4428,
+      4429
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4459,
+      4465
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Ejtes",
+    "jalons": [
+      4568,
+      4573
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "pleurersa",
+    "jalons": [
+      4791,
+      4800
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "J ais",
+    "jalons": [
+      4806,
+      4811
+    ]
+  },
+  "entite_342": {
+    "label": "MISC",
+    "text": "main*. enant",
+    "jalons": [
+      4980,
+      4992
+    ]
+  },
+  "entite_343": {
+    "label": "ORG",
+    "text": "Ghartaes-d",
+    "jalons": [
+      5046,
+      5056
+    ]
+  },
+  "entite_344": {
+    "label": "MISC",
+    "text": "Uneivie",
+    "jalons": [
+      5058,
+      5065
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5267,
+      5273
+    ]
+  },
+  "entite_346": {
+    "label": "ORG",
+    "text": "^endrërhént",
+    "jalons": [
+      5463,
+      5474
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "pëîn#^^Sc’6ùvtih",
+    "jalons": [
+      5499,
+      5515
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "dbnt",
+    "jalons": [
+      5520,
+      5524
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "tôuïe ntiâ consolation",
+    "jalons": [
+      5546,
+      5568
+    ]
+  },
+  "entite_350": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      5576,
+      5585
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Êhliren",
+    "jalons": [
+      5645,
+      5652
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": ".|—",
+    "jalons": [
+      23,
+      26
+    ]
+  },
+  "entite_353": {
+    "label": "ORG",
+    "text": "môVte 1 !",
+    "jalons": [
+      41,
+      50
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "qtiiSéy",
+    "jalons": [
+      131,
+      138
+    ]
+  },
+  "entite_355": {
+    "label": "MISC",
+    "text": "màiris",
+    "jalons": [
+      214,
+      220
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Avarello I ' W",
+    "jalons": [
+      266,
+      280
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "Àvarello ! !",
+    "jalons": [
+      295,
+      307
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      521,
+      526
+    ]
+  },
+  "entite_359": {
+    "label": "MISC",
+    "text": "Raoul !",
+    "jalons": [
+      537,
+      544
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "Hé quoi !",
+    "jalons": [
+      548,
+      557
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      656,
+      660
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "eniends",
+    "jalons": [
+      667,
+      674
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "Lecapuchon du moine",
+    "jalons": [
+      729,
+      748
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Est",
+    "jalons": [
+      768,
+      771
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      795,
+      803
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      904,
+      910
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      941,
+      947
+    ]
+  },
+  "entite_368": {
+    "label": "ORG",
+    "text": "tu",
+    "jalons": [
+      1160,
+      1162
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "T. Y.",
+    "jalons": [
+      1202,
+      1207
+    ]
+  },
+  "entite_370": {
+    "label": "MISC",
+    "text": "W1LM1NA",
+    "jalons": [
+      1215,
+      1222
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1481,
+      1489
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1850,
+      1856
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "Mâtvina",
+    "jalons": [
+      2489,
+      2496
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "O désespoir !",
+    "jalons": [
+      2512,
+      2525
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      2542,
+      2552
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      2569,
+      2575
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2601,
+      2609
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      2811,
+      2817
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "moi-",
+    "jalons": [
+      3138,
+      3142
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3155,
+      3163
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      3453,
+      3459
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3487,
+      3495
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      3541,
+      3547
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      3702,
+      3706
+    ]
+  },
+  "entite_385": {
+    "label": "MISC",
+    "text": "Moi !",
+    "jalons": [
+      3742,
+      3747
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "Albino",
+    "jalons": [
+      3815,
+      3821
+    ]
+  },
+  "entite_387": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3922,
+      3929
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      3975,
+      3981
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4017,
+      4025
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4315,
+      4320
+    ]
+  },
+  "entite_391": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      4510,
+      4518
+    ]
+  },
+  "entite_392": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      4579,
+      4587
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4597,
+      4605
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "com- plice",
+    "jalons": [
+      4825,
+      4835
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Lerehgieuxs’enaperçut",
+    "jalons": [
+      5103,
+      5124
+    ]
+  },
+  "entite_396": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5379,
+      5385
+    ]
+  },
+  "entite_397": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5534,
+      5541
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      504,
+      511
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      625,
+      630
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "signor varelito",
+    "jalons": [
+      838,
+      853
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1755,
+      1761
+    ]
+  },
+  "entite_403": {
+    "label": "ORG",
+    "text": "nioi",
+    "jalons": [
+      1839,
+      1843
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      1865,
+      1870
+    ]
+  },
+  "entite_405": {
+    "label": "MISC",
+    "text": "Wibnina !",
+    "jalons": [
+      2007,
+      2016
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      2032,
+      2037
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2055,
+      2062
+    ]
+  },
+  "entite_408": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      2497,
+      2505
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2587,
+      2594
+    ]
+  },
+  "entite_410": {
+    "label": "MISC",
+    "text": "Pardieu !",
+    "jalons": [
+      2610,
+      2619
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "• et je vous jure",
+    "jalons": [
+      2768,
+      2785
+    ]
+  },
+  "entite_412": {
+    "label": "ORG",
+    "text": "Scélérat !",
+    "jalons": [
+      2933,
+      2943
+    ]
+  },
+  "entite_413": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      3049,
+      3057
+    ]
+  },
+  "entite_414": {
+    "label": "LOC",
+    "text": "WIXMINA",
+    "jalons": [
+      3566,
+      3573
+    ]
+  },
+  "entite_415": {
+    "label": "ORG",
+    "text": "cju",
+    "jalons": [
+      3640,
+      3643
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "dé Raoul",
+    "jalons": [
+      3793,
+      3801
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3997,
+      4005
+    ]
+  },
+  "entite_418": {
+    "label": "MISC",
+    "text": "•.-.-",
+    "jalons": [
+      4052,
+      4057
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "Parle !",
+    "jalons": [
+      4060,
+      4067
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "■■ Après une pause de quelques minutes",
+    "jalons": [
+      4157,
+      4195
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4197,
+      4202
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Albino",
+    "jalons": [
+      4323,
+      4329
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "eû\\t",
+    "jalons": [
+      4344,
+      4348
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "jouirde",
+    "jalons": [
+      4381,
+      4388
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "sùik",
+    "jalons": [
+      4527,
+      4531
+    ]
+  },
+  "entite_426": {
+    "label": "ORG",
+    "text": "MalVina",
+    "jalons": [
+      4570,
+      4577
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "^dbtitialors",
+    "jalons": [
+      4710,
+      4722
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "inaissantee",
+    "jalons": [
+      4738,
+      4749
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "ah !",
+    "jalons": [
+      4753,
+      4757
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Téussé",
+    "jalons": [
+      4764,
+      4770
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": ".Elle",
+    "jalons": [
+      4835,
+      4840
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "estjfiiatige",
+    "jalons": [
+      4920,
+      4932
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "pjouvaitvpîus",
+    "jalons": [
+      5004,
+      5017
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Jaloux",
+    "jalons": [
+      5088,
+      5094
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5104,
+      5112
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Alphonse firérit",
+    "jalons": [
+      5236,
+      5252
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "Ayariélloi",
+    "jalons": [
+      5307,
+      5317
+    ]
+  },
+  "entite_438": {
+    "label": "ORG",
+    "text": "ic",
+    "jalons": [
+      5380,
+      5382
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "'iïië",
+    "jalons": [
+      5428,
+      5433
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "I<^£cbn",
+    "jalons": [
+      5435,
+      5442
+    ]
+  },
+  "entite_441": {
+    "label": "MISC",
+    "text": "W1L.M1HA",
+    "jalons": [
+      5446,
+      5454
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5516,
+      5523
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "JÎ.JS",
+    "jalons": [
+      5591,
+      5596
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      122,
+      130
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "Maivina",
+    "jalons": [
+      416,
+      423
+    ]
+  },
+  "entite_446": {
+    "label": "MISC",
+    "text": "Cours !",
+    "jalons": [
+      555,
+      562
+    ]
+  },
+  "entite_447": {
+    "label": "ORG",
+    "text": "tu vivras",
+    "jalons": [
+      727,
+      736
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      809,
+      814
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      934,
+      940
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "lejcorps",
+    "jalons": [
+      1051,
+      1059
+    ]
+  },
+  "entite_451": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1163,
+      1171
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1175,
+      1182
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      1464,
+      1471
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "nuil",
+    "jalons": [
+      1582,
+      1586
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1609,
+      1616
+    ]
+  },
+  "entite_456": {
+    "label": "MISC",
+    "text": "Elisca",
+    "jalons": [
+      1719,
+      1725
+    ]
+  },
+  "entite_457": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      1740,
+      1745
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "Laza.ro",
+    "jalons": [
+      1821,
+      1828
+    ]
+  },
+  "entite_459": {
+    "label": "MISC",
+    "text": "Wilraina",
+    "jalons": [
+      2240,
+      2248
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      2299,
+      2305
+    ]
+  },
+  "entite_461": {
+    "label": "MISC",
+    "text": "WI1M1NA",
+    "jalons": [
+      2351,
+      2358
+    ]
+  },
+  "entite_462": {
+    "label": "MISC",
+    "text": "J",
+    "jalons": [
+      2651,
+      2652
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2687,
+      2694
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3081,
+      3087
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      3230,
+      3234
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      3321,
+      3325
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      3355,
+      3356
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "postillon",
+    "jalons": [
+      3391,
+      3400
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      3497,
+      3505
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3806,
+      3813
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "jCommençait",
+    "jalons": [
+      3920,
+      3931
+    ]
+  },
+  "entite_472": {
+    "label": "MISC",
+    "text": "WILMIHA",
+    "jalons": [
+      4129,
+      4136
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4559,
+      4565
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "W1LU1NA",
+    "jalons": [
+      5025,
+      5032
+    ]
+  },
+  "entite_475": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      5218,
+      5222
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "vec",
+    "jalons": [
+      21,
+      24
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Impossible",
+    "jalons": [
+      82,
+      92
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Luco",
+    "jalons": [
+      108,
+      112
+    ]
+  },
+  "entite_479": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      170,
+      171
+    ]
+  },
+  "entite_480": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      349,
+      356
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "ibse",
+    "jalons": [
+      584,
+      588
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Calabrais",
+    "jalons": [
+      610,
+      619
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      908,
+      915
+    ]
+  },
+  "entite_484": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      1018,
+      1025
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      1038,
+      1042
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1393,
+      1400
+    ]
+  },
+  "entite_487": {
+    "label": "ORG",
+    "text": "ori",
+    "jalons": [
+      1476,
+      1479
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "lesl",
+    "jalons": [
+      1516,
+      1520
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Luco",
+    "jalons": [
+      1605,
+      1609
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "à- travers’des bois",
+    "jalons": [
+      1649,
+      1668
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1686,
+      1693
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      1731,
+      1739
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "château 'Avarello",
+    "jalons": [
+      1754,
+      1771
+    ]
+  },
+  "entite_494": {
+    "label": "ORG",
+    "text": "ien",
+    "jalons": [
+      1849,
+      1852
+    ]
+  },
+  "entite_495": {
+    "label": "ORG",
+    "text": "quoiqù'",
+    "jalons": [
+      1905,
+      1912
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "inoitiié",
+    "jalons": [
+      1914,
+      1922
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2443,
+      2450
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      2551,
+      2555
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      2655,
+      2661
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Soyeztranquille",
+    "jalons": [
+      2754,
+      2769
+    ]
+  },
+  "entite_501": {
+    "label": "MISC",
+    "text": "WILMISA",
+    "jalons": [
+      2855,
+      2862
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Lâznro",
+    "jalons": [
+      2961,
+      2967
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3059,
+      3066
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "rnot",
+    "jalons": [
+      3564,
+      3568
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      3732,
+      3736
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "sur-le-rhamp",
+    "jalons": [
+      3993,
+      4005
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4015,
+      4021
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "el",
+    "jalons": [
+      4059,
+      4061
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "el",
+    "jalons": [
+      4109,
+      4111
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4299,
+      4306
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4312,
+      4318
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4515,
+      4521
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      4596,
+      4603
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4639,
+      4646
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Luco",
+    "jalons": [
+      4693,
+      4697
+    ]
+  },
+  "entite_516": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      4712,
+      4722
+    ]
+  },
+  "entite_517": {
+    "label": "MISC",
+    "text": "leen",
+    "jalons": [
+      4737,
+      4741
+    ]
+  },
+  "entite_518": {
+    "label": "MISC",
+    "text": "Tétonnement",
+    "jalons": [
+      4839,
+      4850
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5094,
+      5100
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5452,
+      5458
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "W i L M i N A.",
+    "jalons": [
+      5502,
+      5516
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5614,
+      5621
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "gissant",
+    "jalons": [
+      5665,
+      5672
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5712,
+      5718
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "vousmême",
+    "jalons": [
+      5952,
+      5960
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "charmanle",
+    "jalons": [
+      118,
+      127
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "W1LM1KA",
+    "jalons": [
+      363,
+      370
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      701,
+      708
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      720,
+      726
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "Raoul survînt",
+    "jalons": [
+      768,
+      781
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      1224,
+      1231
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1529,
+      1536
+    ]
+  },
+  "entite_533": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      1579,
+      1587
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1857,
+      1864
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      2078,
+      2085
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "our moi",
+    "jalons": [
+      2174,
+      2181
+    ]
+  },
+  "entite_537": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      2383,
+      2391
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2473,
+      2480
+    ]
+  },
+  "entite_539": {
+    "label": "ORG",
+    "text": "our",
+    "jalons": [
+      2588,
+      2591
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      2823,
+      2833
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Pendanfque",
+    "jalons": [
+      2873,
+      2883
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2929,
+      2937
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3022,
+      3029
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3154,
+      3162
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Us",
+    "jalons": [
+      3210,
+      3212
+    ]
+  },
+  "entite_546": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      3503,
+      3511
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3567,
+      3575
+    ]
+  },
+  "entite_548": {
+    "label": "MISC",
+    "text": "Dame !",
+    "jalons": [
+      3637,
+      3643
+    ]
+  },
+  "entite_549": {
+    "label": "MISC",
+    "text": "mo seigneur",
+    "jalons": [
+      3669,
+      3680
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "Couro",
+    "jalons": [
+      3741,
+      3746
+    ]
+  },
+  "entite_551": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3753,
+      3761
+    ]
+  },
+  "entite_552": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3788,
+      3795
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3807,
+      3814
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Ine",
+    "jalons": [
+      3842,
+      3845
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "•change",
+    "jalons": [
+      3880,
+      3887
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "•oute",
+    "jalons": [
+      3993,
+      3998
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      4586,
+      4593
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4965,
+      4973
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "yeu",
+    "jalons": [
+      5132,
+      5135
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      5185,
+      5189
+    ]
+  },
+  "entite_561": {
+    "label": "ORG",
+    "text": "ell",
+    "jalons": [
+      5220,
+      5223
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5376,
+      5382
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5402,
+      5410
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Alberli",
+    "jalons": [
+      5510,
+      5517
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      5622,
+      5629
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5868,
+      5876
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      2,
+      9
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "O !",
+    "jalons": [
+      37,
+      40
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      202,
+      206
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      702,
+      709
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "el",
+    "jalons": [
+      719,
+      721
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      966,
+      973
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1031,
+      1038
+    ]
+  },
+  "entite_574": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1316,
+      1323
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1464,
+      1471
+    ]
+  },
+  "entite_576": {
+    "label": "MISC",
+    "text": "Quest",
+    "jalons": [
+      1547,
+      1552
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1887,
+      1895
+    ]
+  },
+  "entite_578": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      2473,
+      2481
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "deWilraina",
+    "jalons": [
+      2568,
+      2578
+    ]
+  },
+  "entite_580": {
+    "label": "LOC",
+    "text": "Lissée",
+    "jalons": [
+      2626,
+      2632
+    ]
+  },
+  "entite_581": {
+    "label": "PER",
+    "text": "EW monseigneur",
+    "jalons": [
+      2742,
+      2756
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2873,
+      2881
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      3001,
+      3005
+    ]
+  },
+  "entite_584": {
+    "label": "LOC",
+    "text": "Mail",
+    "jalons": [
+      3052,
+      3056
+    ]
+  },
+  "entite_585": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      3335,
+      3340
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3437,
+      3444
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3490,
+      3498
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3669,
+      3676
+    ]
+  },
+  "entite_589": {
+    "label": "PER",
+    "text": "Albert",
+    "jalons": [
+      3947,
+      3953
+    ]
+  },
+  "entite_590": {
+    "label": "MISC",
+    "text": ".et",
+    "jalons": [
+      3985,
+      3988
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      4092,
+      4099
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      4118,
+      4128
+    ]
+  },
+  "entite_593": {
+    "label": "MISC",
+    "text": "bha",
+    "jalons": [
+      4317,
+      4320
+    ]
+  },
+  "entite_594": {
+    "label": "LOC",
+    "text": "soiùnie",
+    "jalons": [
+      4557,
+      4564
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4601,
+      4609
+    ]
+  },
+  "entite_596": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4654,
+      4660
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4664,
+      4672
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Gonz ive",
+    "jalons": [
+      4744,
+      4752
+    ]
+  },
+  "entite_599": {
+    "label": "MISC",
+    "text": "refuge ii",
+    "jalons": [
+      4848,
+      4857
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4883,
+      4890
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      5136,
+      5144
+    ]
+  },
+  "entite_602": {
+    "label": "LOC",
+    "text": "Ciel",
+    "jalons": [
+      5288,
+      5292
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5645,
+      5651
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      38,
+      43
+    ]
+  },
+  "entite_605": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      146,
+      156
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "8'0 WILMINA",
+    "jalons": [
+      158,
+      169
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      225,
+      231
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "ca",
+    "jalons": [
+      385,
+      387
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      576,
+      583
+    ]
+  },
+  "entite_610": {
+    "label": "MISC",
+    "text": "Ah '",
+    "jalons": [
+      629,
+      633
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      1058,
+      1065
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "8l",
+    "jalons": [
+      1067,
+      1069
+    ]
+  },
+  "entite_613": {
+    "label": "MISC",
+    "text": "Fernando",
+    "jalons": [
+      1367,
+      1375
+    ]
+  },
+  "entite_614": {
+    "label": "MISC",
+    "text": "Ciel",
+    "jalons": [
+      1480,
+      1484
+    ]
+  },
+  "entite_615": {
+    "label": "PER",
+    "text": "jo",
+    "jalons": [
+      1570,
+      1572
+    ]
+  },
+  "entite_616": {
+    "label": "MISC",
+    "text": "j’et.ns joyeuse !",
+    "jalons": [
+      1614,
+      1631
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "jo",
+    "jalons": [
+      1632,
+      1634
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "i",
+    "jalons": [
+      1732,
+      1733
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "rand désirderonlinurr",
+    "jalons": [
+      1735,
+      1756
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "Don",
+    "jalons": [
+      1827,
+      1830
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "VuYpzdono",
+    "jalons": [
+      1868,
+      1877
+    ]
+  },
+  "entite_622": {
+    "label": "MISC",
+    "text": "ja- »",
+    "jalons": [
+      1910,
+      1915
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "VO'",
+    "jalons": [
+      1958,
+      1961
+    ]
+  },
+  "entite_624": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2105,
+      2112
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "euune",
+    "jalons": [
+      2497,
+      2502
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "émut i",
+    "jalons": [
+      2591,
+      2597
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "devanl",
+    "jalons": [
+      2690,
+      2696
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2811,
+      2818
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      2859,
+      2867
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3201,
+      3208
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "ti-ndresse",
+    "jalons": [
+      3634,
+      3644
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3793,
+      3800
+    ]
+  },
+  "entite_633": {
+    "label": "MISC",
+    "text": "84 W IX M11",
+    "jalons": [
+      3829,
+      3840
+    ]
+  },
+  "entite_634": {
+    "label": "PER",
+    "text": "jnain",
+    "jalons": [
+      3956,
+      3961
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Continuez",
+    "jalons": [
+      4077,
+      4086
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      4100,
+      4108
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4127,
+      4133
+    ]
+  },
+  "entite_638": {
+    "label": "PER",
+    "text": "alade soupira",
+    "jalons": [
+      4180,
+      4193
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "marquis d’Avarello",
+    "jalons": [
+      4304,
+      4322
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4393,
+      4399
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "Itq'ie",
+    "jalons": [
+      4492,
+      4498
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Syrie",
+    "jalons": [
+      4551,
+      4556
+    ]
+  },
+  "entite_643": {
+    "label": "PER",
+    "text": "marquis d’Avarello",
+    "jalons": [
+      4561,
+      4579
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      4743,
+      4750
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "jevenais",
+    "jalons": [
+      4780,
+      4788
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "el",
+    "jalons": [
+      4893,
+      4895
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Rimini",
+    "jalons": [
+      4926,
+      4932
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Lérinde",
+    "jalons": [
+      5034,
+      5041
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5125,
+      5132
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "annonçât",
+    "jalons": [
+      5247,
+      5255
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      5343,
+      5349
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      5619,
+      5626
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "lesignor Raoul",
+    "jalons": [
+      206,
+      220
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      464,
+      469
+    ]
+  },
+  "entite_655": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      711,
+      718
+    ]
+  },
+  "entite_656": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      742,
+      748
+    ]
+  },
+  "entite_657": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      816,
+      823
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "I",
+    "jalons": [
+      886,
+      887
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Bertrude",
+    "jalons": [
+      1066,
+      1074
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "li",
+    "jalons": [
+      1220,
+      1222
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "monlèrenl",
+    "jalons": [
+      1360,
+      1369
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Jour",
+    "jalons": [
+      1426,
+      1430
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Bertrude",
+    "jalons": [
+      1511,
+      1519
+    ]
+  },
+  "entite_664": {
+    "label": "MISC",
+    "text": "Lâche et cruel !",
+    "jalons": [
+      2593,
+      2609
+    ]
+  },
+  "entite_665": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      2612,
+      2619
+    ]
+  },
+  "entite_666": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3000,
+      3007
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3049,
+      3055
+    ]
+  },
+  "entite_668": {
+    "label": "MISC",
+    "text": "oh !",
+    "jalons": [
+      3074,
+      3078
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Continuez",
+    "jalons": [
+      3283,
+      3292
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3383,
+      3389
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Fier",
+    "jalons": [
+      3442,
+      3446
+    ]
+  },
+  "entite_672": {
+    "label": "MISC",
+    "text": "V. 4 * go W IL",
+    "jalons": [
+      3505,
+      3519
+    ]
+  },
+  "entite_673": {
+    "label": "LOC",
+    "text": "comte d’Ain",
+    "jalons": [
+      3659,
+      3670
+    ]
+  },
+  "entite_674": {
+    "label": "PER",
+    "text": "eomment Raoul se ven",
+    "jalons": [
+      3720,
+      3740
+    ]
+  },
+  "entite_675": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4181,
+      4189
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Malvixia",
+    "jalons": [
+      4472,
+      4480
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      4482,
+      4489
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "gi",
+    "jalons": [
+      4491,
+      4493
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Lérindc",
+    "jalons": [
+      4909,
+      4916
+    ]
+  },
+  "entite_680": {
+    "label": "ORG",
+    "text": "Unir",
+    "jalons": [
+      5008,
+      5012
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5651,
+      5658
+    ]
+  },
+  "entite_682": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      58,
+      62
+    ]
+  },
+  "entite_683": {
+    "label": "ORG",
+    "text": "Ion",
+    "jalons": [
+      111,
+      114
+    ]
+  },
+  "entite_684": {
+    "label": "PER",
+    "text": "exeès",
+    "jalons": [
+      211,
+      216
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "JSous revînmes",
+    "jalons": [
+      232,
+      246
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "epeiidaul",
+    "jalons": [
+      248,
+      257
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Avarellonous",
+    "jalons": [
+      260,
+      272
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      443,
+      450
+    ]
+  },
+  "entite_689": {
+    "label": "LOC",
+    "text": "notie",
+    "jalons": [
+      483,
+      488
+    ]
+  },
+  "entite_690": {
+    "label": "LOC",
+    "text": "château des Apennins",
+    "jalons": [
+      504,
+      524
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "Minora Wilmina",
+    "jalons": [
+      567,
+      581
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "comtesse d Albiiio",
+    "jalons": [
+      629,
+      647
+    ]
+  },
+  "entite_693": {
+    "label": "MISC",
+    "text": "L z r > r",
+    "jalons": [
+      1033,
+      1042
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "ployes",
+    "jalons": [
+      1067,
+      1073
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1081,
+      1088
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Bertrude",
+    "jalons": [
+      1154,
+      1162
+    ]
+  },
+  "entite_697": {
+    "label": "ORG",
+    "text": "maïquis",
+    "jalons": [
+      1229,
+      1236
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "làire g4 WILMINA",
+    "jalons": [
+      1356,
+      1372
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Ï",
+    "jalons": [
+      1374,
+      1375
+    ]
+  },
+  "entite_700": {
+    "label": "MISC",
+    "text": "Enselmé",
+    "jalons": [
+      1405,
+      1412
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      1521,
+      1527
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Bertrude",
+    "jalons": [
+      1667,
+      1675
+    ]
+  },
+  "entite_703": {
+    "label": "MISC",
+    "text": "Laurenlino",
+    "jalons": [
+      1967,
+      1977
+    ]
+  },
+  "entite_704": {
+    "label": "PER",
+    "text": "Juliel.e",
+    "jalons": [
+      2055,
+      2063
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2238,
+      2245
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      2255,
+      2262
+    ]
+  },
+  "entite_707": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      2315,
+      2324
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      2332,
+      2338
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      2393,
+      2399
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      2588,
+      2595
+    ]
+  },
+  "entite_711": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      2822,
+      2826
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "lille",
+    "jalons": [
+      2971,
+      2976
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "el",
+    "jalons": [
+      3090,
+      3092
+    ]
+  },
+  "entite_714": {
+    "label": "MISC",
+    "text": "Oh !",
+    "jalons": [
+      3175,
+      3179
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3221,
+      3227
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      3230,
+      3234
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3405,
+      3410
+    ]
+  },
+  "entite_718": {
+    "label": "ORG",
+    "text": "Cei",
+    "jalons": [
+      3536,
+      3539
+    ]
+  },
+  "entite_719": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3857,
+      3862
+    ]
+  },
+  "entite_720": {
+    "label": "PER",
+    "text": "-i",
+    "jalons": [
+      3916,
+      3918
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "conimej",
+    "jalons": [
+      3956,
+      3963
+    ]
+  },
+  "entite_722": {
+    "label": "LOC",
+    "text": "Qf",
+    "jalons": [
+      4056,
+      4058
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4191,
+      4197
+    ]
+  },
+  "entite_724": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      4245,
+      4253
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4272,
+      4279
+    ]
+  },
+  "entite_726": {
+    "label": "PER",
+    "text": "il-",
+    "jalons": [
+      4341,
+      4344
+    ]
+  },
+  "entite_727": {
+    "label": "PER",
+    "text": "vînt",
+    "jalons": [
+      4384,
+      4388
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": ".et",
+    "jalons": [
+      4654,
+      4657
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4880,
+      4887
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "O",
+    "jalons": [
+      4962,
+      4963
+    ]
+  },
+  "entite_731": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      4981,
+      4987
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "Misérable !",
+    "jalons": [
+      5205,
+      5216
+    ]
+  },
+  "entite_733": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5221,
+      5228
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5314,
+      5318
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5649,
+      5655
+    ]
+  },
+  "entite_736": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      128,
+      136
+    ]
+  },
+  "entite_737": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      177,
+      184
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      345,
+      352
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      776,
+      784
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      911,
+      918
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      972,
+      976
+    ]
+  },
+  "entite_742": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      977,
+      985
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "IOO",
+    "jalons": [
+      1074,
+      1077
+    ]
+  },
+  "entite_744": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1257,
+      1264
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      1521,
+      1529
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "Souffrez",
+    "jalons": [
+      1668,
+      1676
+    ]
+  },
+  "entite_747": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1748,
+      1755
+    ]
+  },
+  "entite_748": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      1910,
+      1917
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      2168,
+      2173
+    ]
+  },
+  "entite_750": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2505,
+      2513
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2586,
+      2593
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "XOa",
+    "jalons": [
+      2807,
+      2810
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3312,
+      3320
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3386,
+      3393
+    ]
+  },
+  "entite_755": {
+    "label": "MISC",
+    "text": "jura dé nofltyeau",
+    "jalons": [
+      3513,
+      3530
+    ]
+  },
+  "entite_756": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      3597,
+      3605
+    ]
+  },
+  "entite_757": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4071,
+      4079
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4437,
+      4443
+    ]
+  },
+  "entite_759": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4512,
+      4518
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4528,
+      4536
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "lo4 WILMINA",
+    "jalons": [
+      4593,
+      4604
+    ]
+  },
+  "entite_762": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      4638,
+      4643
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4656,
+      4662
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4701,
+      4709
+    ]
+  },
+  "entite_765": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4719,
+      4726
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      4788,
+      4796
+    ]
+  },
+  "entite_767": {
+    "label": "MISC",
+    "text": "Mon coeur est ravi du retour inespéré",
+    "jalons": [
+      4931,
+      4968
+    ]
+  },
+  "entite_768": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4979,
+      4987
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5095,
+      5103
+    ]
+  },
+  "entite_770": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      5272,
+      5278
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      5336,
+      5344
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "I' WILMINA",
+    "jalons": [
+      5424,
+      5434
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      5446,
+      5454
+    ]
+  },
+  "entite_774": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5474,
+      5478
+    ]
+  },
+  "entite_775": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5665,
+      5673
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5748,
+      5755
+    ]
+  },
+  "entite_777": {
+    "label": "ORG",
+    "text": "ÎS",
+    "jalons": [
+      200,
+      202
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      523,
+      530
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "io6 WILMINA",
+    "jalons": [
+      550,
+      561
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "ïpler",
+    "jalons": [
+      576,
+      581
+    ]
+  },
+  "entite_781": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      812,
+      820
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      828,
+      836
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "enfii",
+    "jalons": [
+      845,
+      850
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      921,
+      929
+    ]
+  },
+  "entite_785": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      964,
+      969
+    ]
+  },
+  "entite_786": {
+    "label": "PER",
+    "text": "Wil mina",
+    "jalons": [
+      1117,
+      1125
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1129,
+      1137
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1255,
+      1262
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "^oins",
+    "jalons": [
+      1404,
+      1409
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1597,
+      1604
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      1692,
+      1702
+    ]
+  },
+  "entite_792": {
+    "label": "LOC",
+    "text": "Luco",
+    "jalons": [
+      1773,
+      1777
+    ]
+  },
+  "entite_793": {
+    "label": "PER",
+    "text": "sncore",
+    "jalons": [
+      1784,
+      1790
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2019,
+      2026
+    ]
+  },
+  "entite_795": {
+    "label": "PER",
+    "text": "nentor",
+    "jalons": [
+      2123,
+      2129
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2178,
+      2186
+    ]
+  },
+  "entite_797": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      2469,
+      2477
+    ]
+  },
+  "entite_798": {
+    "label": "LOC",
+    "text": "stirlesbell",
+    "jalons": [
+      2523,
+      2534
+    ]
+  },
+  "entite_799": {
+    "label": "LOC",
+    "text": "Toscane",
+    "jalons": [
+      2549,
+      2556
+    ]
+  },
+  "entite_800": {
+    "label": "LOC",
+    "text": "fr",
+    "jalons": [
+      2608,
+      2610
+    ]
+  },
+  "entite_801": {
+    "label": "PER",
+    "text": "chamb d’",
+    "jalons": [
+      2849,
+      2857
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      2857,
+      2865
+    ]
+  },
+  "entite_803": {
+    "label": "LOC",
+    "text": "Albiri",
+    "jalons": [
+      2899,
+      2905
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "insensibilil",
+    "jalons": [
+      2935,
+      2947
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "qt",
+    "jalons": [
+      3070,
+      3072
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3183,
+      3188
+    ]
+  },
+  "entite_807": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      3249,
+      3257
+    ]
+  },
+  "entite_808": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3395,
+      3403
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3480,
+      3487
+    ]
+  },
+  "entite_810": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      3600,
+      3604
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "Alno",
+    "jalons": [
+      3665,
+      3669
+    ]
+  },
+  "entite_812": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      3689,
+      3695
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "aie IeTouge",
+    "jalons": [
+      3697,
+      3708
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "Oui !",
+    "jalons": [
+      3731,
+      3736
+    ]
+  },
+  "entite_815": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3742,
+      3747
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "uffrir !",
+    "jalons": [
+      3770,
+      3778
+    ]
+  },
+  "entite_817": {
+    "label": "MISC",
+    "text": "Fuyons",
+    "jalons": [
+      3832,
+      3838
+    ]
+  },
+  "entite_818": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      3906,
+      3914
+    ]
+  },
+  "entite_819": {
+    "label": "PER",
+    "text": "trars",
+    "jalons": [
+      3952,
+      3957
+    ]
+  },
+  "entite_820": {
+    "label": "LOC",
+    "text": "Tout-à-coup",
+    "jalons": [
+      3987,
+      3998
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "ItO WILMINA",
+    "jalons": [
+      4066,
+      4077
+    ]
+  },
+  "entite_822": {
+    "label": "MISC",
+    "text": "pre",
+    "jalons": [
+      4162,
+      4165
+    ]
+  },
+  "entite_823": {
+    "label": "PER",
+    "text": "Fulvis",
+    "jalons": [
+      4227,
+      4233
+    ]
+  },
+  "entite_824": {
+    "label": "MISC",
+    "text": "Tan",
+    "jalons": [
+      4273,
+      4276
+    ]
+  },
+  "entite_825": {
+    "label": "MISC",
+    "text": "Tegards",
+    "jalons": [
+      4421,
+      4428
+    ]
+  },
+  "entite_826": {
+    "label": "MISC",
+    "text": "Wi mina !",
+    "jalons": [
+      4436,
+      4445
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4455,
+      4462
+    ]
+  },
+  "entite_828": {
+    "label": "MISC",
+    "text": "vr",
+    "jalons": [
+      4759,
+      4761
+    ]
+  },
+  "entite_829": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      4769,
+      4775
+    ]
+  },
+  "entite_830": {
+    "label": "MISC",
+    "text": "Ah ! chère enfant !",
+    "jalons": [
+      4806,
+      4825
+    ]
+  },
+  "entite_831": {
+    "label": "PER",
+    "text": "•\"'■i",
+    "jalons": [
+      4852,
+      4857
+    ]
+  },
+  "entite_832": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      5008,
+      5012
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "ilmina",
+    "jalons": [
+      5060,
+      5066
+    ]
+  },
+  "entite_834": {
+    "label": "MISC",
+    "text": "a\"r",
+    "jalons": [
+      5098,
+      5101
+    ]
+  },
+  "entite_835": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5159,
+      5167
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5171,
+      5179
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      5300,
+      5306
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Albino",
+    "jalons": [
+      5492,
+      5498
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      5605,
+      5610
+    ]
+  },
+  "entite_840": {
+    "label": "MISC",
+    "text": "iel",
+    "jalons": [
+      5612,
+      5615
+    ]
+  },
+  "entite_841": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      5622,
+      5630
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "els",
+    "jalons": [
+      5653,
+      5656
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "homrad",
+    "jalons": [
+      71,
+      77
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      214,
+      222
+    ]
+  },
+  "entite_845": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      390,
+      395
+    ]
+  },
+  "entite_846": {
+    "label": "PER",
+    "text": "e'trange",
+    "jalons": [
+      431,
+      439
+    ]
+  },
+  "entite_847": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      639,
+      645
+    ]
+  },
+  "entite_848": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      666,
+      673
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      819,
+      824
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "senlimens WILMINA",
+    "jalons": [
+      852,
+      869
+    ]
+  },
+  "entite_851": {
+    "label": "PER",
+    "text": "asez",
+    "jalons": [
+      913,
+      917
+    ]
+  },
+  "entite_852": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1204,
+      1212
+    ]
+  },
+  "entite_853": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      1244,
+      1250
+    ]
+  },
+  "entite_854": {
+    "label": "PER",
+    "text": "fuyons",
+    "jalons": [
+      1304,
+      1310
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1408,
+      1416
+    ]
+  },
+  "entite_856": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1420,
+      1428
+    ]
+  },
+  "entite_857": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      1478,
+      1486
+    ]
+  },
+  "entite_858": {
+    "label": "PER",
+    "text": "I l4 WILMINA",
+    "jalons": [
+      1759,
+      1771
+    ]
+  },
+  "entite_859": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      2552,
+      2560
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      2721,
+      2729
+    ]
+  },
+  "entite_861": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2731,
+      2738
+    ]
+  },
+  "entite_862": {
+    "label": "PER",
+    "text": "e'té parfaite",
+    "jalons": [
+      2811,
+      2824
+    ]
+  },
+  "entite_863": {
+    "label": "PER",
+    "text": "duc Colonia",
+    "jalons": [
+      2844,
+      2855
+    ]
+  },
+  "entite_864": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2920,
+      2928
+    ]
+  },
+  "entite_865": {
+    "label": "LOC",
+    "text": "dinstans",
+    "jalons": [
+      3351,
+      3359
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "duc Colonia",
+    "jalons": [
+      3401,
+      3412
+    ]
+  },
+  "entite_867": {
+    "label": "PER",
+    "text": "lesbras",
+    "jalons": [
+      3451,
+      3458
+    ]
+  },
+  "entite_868": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      3475,
+      3480
+    ]
+  },
+  "entite_869": {
+    "label": "MISC",
+    "text": "Il6 WILMINA",
+    "jalons": [
+      3552,
+      3563
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3623,
+      3631
+    ]
+  },
+  "entite_871": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3666,
+      3673
+    ]
+  },
+  "entite_872": {
+    "label": "MISC",
+    "text": "Oui !",
+    "jalons": [
+      4148,
+      4153
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "Pardon",
+    "jalons": [
+      4260,
+      4266
+    ]
+  },
+  "entite_874": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4384,
+      4391
+    ]
+  },
+  "entite_875": {
+    "label": "MISC",
+    "text": "Le bonheur de ma nièce",
+    "jalons": [
+      4465,
+      4487
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "Gonlve",
+    "jalons": [
+      4684,
+      4690
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "palais Colonia",
+    "jalons": [
+      4788,
+      4802
+    ]
+  },
+  "entite_878": {
+    "label": "MISC",
+    "text": "moi\"me",
+    "jalons": [
+      5062,
+      5068
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      5113,
+      5117
+    ]
+  },
+  "entite_880": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      5136,
+      5144
+    ]
+  },
+  "entite_881": {
+    "label": "MISC",
+    "text": "Hé- Iî8",
+    "jalons": [
+      5298,
+      5305
+    ]
+  },
+  "entite_882": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      5357,
+      5365
+    ]
+  },
+  "entite_883": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5438,
+      5446
+    ]
+  },
+  "entite_884": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      5466,
+      5471
+    ]
+  },
+  "entite_885": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      5583,
+      5590
+    ]
+  },
+  "entite_886": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5719,
+      5726
+    ]
+  },
+  "entite_887": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5754,
+      5760
+    ]
+  },
+  "entite_888": {
+    "label": "MISC",
+    "text": "S",
+    "jalons": [
+      5785,
+      5786
+    ]
+  },
+  "entite_889": {
+    "label": "MISC",
+    "text": "vo",
+    "jalons": [
+      51,
+      53
+    ]
+  },
+  "entite_890": {
+    "label": "LOC",
+    "text": "bonlé",
+    "jalons": [
+      88,
+      93
+    ]
+  },
+  "entite_891": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      229,
+      233
+    ]
+  },
+  "entite_892": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      243,
+      250
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "pasî",
+    "jalons": [
+      263,
+      267
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "W1LM1NA",
+    "jalons": [
+      305,
+      312
+    ]
+  },
+  "entite_895": {
+    "label": "ORG",
+    "text": "goûle",
+    "jalons": [
+      452,
+      457
+    ]
+  },
+  "entite_896": {
+    "label": "MISC",
+    "text": "Maria !",
+    "jalons": [
+      536,
+      543
+    ]
+  },
+  "entite_897": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      662,
+      670
+    ]
+  },
+  "entite_898": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      900,
+      906
+    ]
+  },
+  "entite_899": {
+    "label": "LOC",
+    "text": "resU",
+    "jalons": [
+      1018,
+      1022
+    ]
+  },
+  "entite_900": {
+    "label": "MISC",
+    "text": "I 20 W 1 L M 1 N Ai",
+    "jalons": [
+      1183,
+      1202
+    ]
+  },
+  "entite_901": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1279,
+      1286
+    ]
+  },
+  "entite_902": {
+    "label": "MISC",
+    "text": "Hé bien !",
+    "jalons": [
+      1426,
+      1435
+    ]
+  },
+  "entite_903": {
+    "label": "MISC",
+    "text": "j t’obéis",
+    "jalons": [
+      1454,
+      1463
+    ]
+  },
+  "entite_904": {
+    "label": "ORG",
+    "text": "scè",
+    "jalons": [
+      1578,
+      1581
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      1593,
+      1600
+    ]
+  },
+  "entite_906": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1641,
+      1649
+    ]
+  },
+  "entite_907": {
+    "label": "PER",
+    "text": "Mari",
+    "jalons": [
+      1775,
+      1779
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "généros",
+    "jalons": [
+      1850,
+      1857
+    ]
+  },
+  "entite_909": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      1881,
+      1887
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      2013,
+      2020
+    ]
+  },
+  "entite_911": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2244,
+      2251
+    ]
+  },
+  "entite_912": {
+    "label": "PER",
+    "text": "sanctionnez",
+    "jalons": [
+      2291,
+      2302
+    ]
+  },
+  "entite_913": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      2349,
+      2357
+    ]
+  },
+  "entite_914": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      2474,
+      2478
+    ]
+  },
+  "entite_915": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2505,
+      2513
+    ]
+  },
+  "entite_916": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      2668,
+      2675
+    ]
+  },
+  "entite_917": {
+    "label": "PER",
+    "text": "rosesde",
+    "jalons": [
+      2938,
+      2945
+    ]
+  },
+  "entite_918": {
+    "label": "MISC",
+    "text": "ppréts",
+    "jalons": [
+      3225,
+      3231
+    ]
+  },
+  "entite_919": {
+    "label": "PER",
+    "text": "Gonzalveet",
+    "jalons": [
+      3501,
+      3511
+    ]
+  },
+  "entite_920": {
+    "label": "PER",
+    "text": "protégéson",
+    "jalons": [
+      3544,
+      3554
+    ]
+  },
+  "entite_921": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      3639,
+      3647
+    ]
+  },
+  "entite_922": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      3801,
+      3808
+    ]
+  },
+  "entite_923": {
+    "label": "MISC",
+    "text": "ia3",
+    "jalons": [
+      3810,
+      3813
+    ]
+  },
+  "entite_924": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4506,
+      4512
+    ]
+  },
+  "entite_925": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      4514,
+      4522
+    ]
+  },
+  "entite_926": {
+    "label": "LOC",
+    "text": "Î24 V",
+    "jalons": [
+      4701,
+      4706
+    ]
+  },
+  "entite_927": {
+    "label": "ORG",
+    "text": "IL MI H",
+    "jalons": [
+      4709,
+      4716
+    ]
+  },
+  "entite_928": {
+    "label": "PER",
+    "text": "loutcequi",
+    "jalons": [
+      4878,
+      4887
+    ]
+  },
+  "entite_929": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      4907,
+      4914
+    ]
+  },
+  "entite_930": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      4943,
+      4947
+    ]
+  },
+  "entite_931": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      5352,
+      5360
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      5564,
+      5571
+    ]
+  },
+  "entite_933": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      5668,
+      5675
+    ]
+  },
+  "entite_934": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      164,
+      172
+    ]
+  },
+  "entite_935": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      748,
+      755
+    ]
+  },
+  "entite_936": {
+    "label": "MISC",
+    "text": "Elie",
+    "jalons": [
+      985,
+      989
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1021,
+      1028
+    ]
+  },
+  "entite_938": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1207,
+      1215
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1262,
+      1269
+    ]
+  },
+  "entite_940": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      1480,
+      1488
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1782,
+      1789
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      1800,
+      1808
+    ]
+  },
+  "entite_943": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1847,
+      1854
+    ]
+  },
+  "entite_944": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      2038,
+      2046
+    ]
+  },
+  "entite_945": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      2200,
+      2208
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      2414,
+      2424
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Î28",
+    "jalons": [
+      2540,
+      2543
+    ]
+  },
+  "entite_948": {
+    "label": "MISC",
+    "text": "W1LM1NA",
+    "jalons": [
+      2544,
+      2551
+    ]
+  },
+  "entite_949": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2765,
+      2772
+    ]
+  },
+  "entite_950": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      2978,
+      2984
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "té- WILMINA",
+    "jalons": [
+      3408,
+      3419
+    ]
+  },
+  "entite_952": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      3527,
+      3535
+    ]
+  },
+  "entite_953": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3537,
+      3544
+    ]
+  },
+  "entite_954": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3546,
+      3554
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3957,
+      3964
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      4202,
+      4209
+    ]
+  },
+  "entite_957": {
+    "label": "PER",
+    "text": "l3o W 1 LU I H",
+    "jalons": [
+      4280,
+      4294
+    ]
+  },
+  "entite_958": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4527,
+      4535
+    ]
+  },
+  "entite_959": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      4586,
+      4596
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4602,
+      4608
+    ]
+  },
+  "entite_961": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      4648,
+      4655
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4826,
+      4833
+    ]
+  },
+  "entite_963": {
+    "label": "PER",
+    "text": "Gézarini",
+    "jalons": [
+      4864,
+      4872
+    ]
+  },
+  "entite_964": {
+    "label": "MISC",
+    "text": "Histoire à'Alphonse",
+    "jalons": [
+      4934,
+      4953
+    ]
+  },
+  "entite_965": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      4964,
+      4970
+    ]
+  },
+  "entite_966": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      5092,
+      5099
+    ]
+  },
+  "entite_967": {
+    "label": "ORG",
+    "text": "l3l ens",
+    "jalons": [
+      5101,
+      5108
+    ]
+  },
+  "entite_968": {
+    "label": "LOC",
+    "text": "Adriatique",
+    "jalons": [
+      5631,
+      5641
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "l32 WILMINA",
+    "jalons": [
+      86,
+      97
+    ]
+  },
+  "entite_970": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      99,
+      107
+    ]
+  },
+  "entite_971": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      765,
+      773
+    ]
+  },
+  "entite_972": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      1026,
+      1033
+    ]
+  },
+  "entite_973": {
+    "label": "LOC",
+    "text": "l33",
+    "jalons": [
+      1035,
+      1038
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "Al phonse",
+    "jalons": [
+      1981,
+      1990
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "rép !",
+    "jalons": [
+      2123,
+      2128
+    ]
+  },
+  "entite_976": {
+    "label": "MISC",
+    "text": "WILMISTA",
+    "jalons": [
+      2838,
+      2846
+    ]
+  },
+  "entite_977": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      2914,
+      2922
+    ]
+  },
+  "entite_978": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      2976,
+      2978
+    ]
+  },
+  "entite_979": {
+    "label": "MISC",
+    "text": "nn",
+    "jalons": [
+      3014,
+      3016
+    ]
+  },
+  "entite_980": {
+    "label": "PER",
+    "text": "l36 WILMINA",
+    "jalons": [
+      3741,
+      3752
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      3936,
+      3944
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "Fendroit",
+    "jalons": [
+      4032,
+      4040
+    ]
+  },
+  "entite_983": {
+    "label": "ORG",
+    "text": "dérobe^",
+    "jalons": [
+      4123,
+      4130
+    ]
+  },
+  "entite_984": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      4647,
+      4654
+    ]
+  },
+  "entite_985": {
+    "label": "MISC",
+    "text": "l37 Le hasard",
+    "jalons": [
+      4656,
+      4669
+    ]
+  },
+  "entite_986": {
+    "label": "LOC",
+    "text": "^consolations",
+    "jalons": [
+      4877,
+      4890
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "T. v.",
+    "jalons": [
+      5572,
+      5577
+    ]
+  },
+  "entite_988": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      116,
+      124
+    ]
+  },
+  "entite_989": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      775,
+      783
+    ]
+  },
+  "entite_990": {
+    "label": "LOC",
+    "text": "témoignai",
+    "jalons": [
+      1194,
+      1203
+    ]
+  },
+  "entite_991": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      1984,
+      1992
+    ]
+  },
+  "entite_992": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2493,
+      2494
+    ]
+  },
+  "entite_993": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2693,
+      2700
+    ]
+  },
+  "entite_994": {
+    "label": "MISC",
+    "text": "Albino",
+    "jalons": [
+      2833,
+      2839
+    ]
+  },
+  "entite_995": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3001,
+      3008
+    ]
+  },
+  "entite_996": {
+    "label": "MISC",
+    "text": "l42 WILMINA",
+    "jalons": [
+      3361,
+      3372
+    ]
+  },
+  "entite_997": {
+    "label": "PER",
+    "text": "reveni",
+    "jalons": [
+      3961,
+      3967
+    ]
+  },
+  "entite_998": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      3970,
+      3978
+    ]
+  },
+  "entite_999": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4157,
+      4164
+    ]
+  },
+  "entite_1000": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4505,
+      4513
+    ]
+  },
+  "entite_1001": {
+    "label": "MISC",
+    "text": "vi",
+    "jalons": [
+      4692,
+      4694
+    ]
+  },
+  "entite_1002": {
+    "label": "LOC",
+    "text": "Toscane",
+    "jalons": [
+      4825,
+      4832
+    ]
+  },
+  "entite_1003": {
+    "label": "PER",
+    "text": "duc Colonia",
+    "jalons": [
+      4852,
+      4863
+    ]
+  },
+  "entite_1004": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      4978,
+      4986
+    ]
+  },
+  "entite_1005": {
+    "label": "PER",
+    "text": "i44 WILMINA",
+    "jalons": [
+      5053,
+      5064
+    ]
+  },
+  "entite_1006": {
+    "label": "MISC",
+    "text": "Eh quoi ! continuat-il",
+    "jalons": [
+      5133,
+      5155
+    ]
+  },
+  "entite_1007": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      40,
+      45
+    ]
+  },
+  "entite_1008": {
+    "label": "MISC",
+    "text": "Alruerano",
+    "jalons": [
+      600,
+      609
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      967,
+      973
+    ]
+  },
+  "entite_1010": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      1151,
+      1156
+    ]
+  },
+  "entite_1011": {
+    "label": "MISC",
+    "text": "T. v. 7",
+    "jalons": [
+      1279,
+      1286
+    ]
+  },
+  "entite_1012": {
+    "label": "PER",
+    "text": "IÂ6 WILMINA",
+    "jalons": [
+      1287,
+      1298
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      1388,
+      1393
+    ]
+  },
+  "entite_1014": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      1635,
+      1643
+    ]
+  },
+  "entite_1015": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      1764,
+      1772
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "perdr",
+    "jalons": [
+      2041,
+      2046
+    ]
+  },
+  "entite_1017": {
+    "label": "PER",
+    "text": "Vait",
+    "jalons": [
+      2088,
+      2092
+    ]
+  },
+  "entite_1018": {
+    "label": "LOC",
+    "text": "palais Colonia",
+    "jalons": [
+      2247,
+      2261
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "lems",
+    "jalons": [
+      2272,
+      2276
+    ]
+  },
+  "entite_1020": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2302,
+      2309
+    ]
+  },
+  "entite_1021": {
+    "label": "MISC",
+    "text": "La mort du",
+    "jalons": [
+      2343,
+      2353
+    ]
+  },
+  "entite_1022": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      2361,
+      2369
+    ]
+  },
+  "entite_1023": {
+    "label": "LOC",
+    "text": "comlesse",
+    "jalons": [
+      2580,
+      2588
+    ]
+  },
+  "entite_1024": {
+    "label": "PER",
+    "text": "Altcrbourg cl",
+    "jalons": [
+      2591,
+      2604
+    ]
+  },
+  "entite_1025": {
+    "label": "MISC",
+    "text": "surveillans",
+    "jalons": [
+      2722,
+      2733
+    ]
+  },
+  "entite_1026": {
+    "label": "LOC",
+    "text": "l’Italie",
+    "jalons": [
+      2791,
+      2799
+    ]
+  },
+  "entite_1027": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2839,
+      2846
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "La mienne",
+    "jalons": [
+      3034,
+      3043
+    ]
+  },
+  "entite_1029": {
+    "label": "PER",
+    "text": "l48 WILMINA",
+    "jalons": [
+      3062,
+      3073
+    ]
+  },
+  "entite_1030": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3103,
+      3109
+    ]
+  },
+  "entite_1031": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      3256,
+      3264
+    ]
+  },
+  "entite_1032": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3266,
+      3272
+    ]
+  },
+  "entite_1033": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      3356,
+      3362
+    ]
+  },
+  "entite_1034": {
+    "label": "MISC",
+    "text": "En effet",
+    "jalons": [
+      3403,
+      3411
+    ]
+  },
+  "entite_1035": {
+    "label": "LOC",
+    "text": "Lyon",
+    "jalons": [
+      3422,
+      3426
+    ]
+  },
+  "entite_1036": {
+    "label": "LOC",
+    "text": "repassai",
+    "jalons": [
+      3938,
+      3946
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "Alpes",
+    "jalons": [
+      3951,
+      3956
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4083,
+      4090
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": ".WILMINA",
+    "jalons": [
+      4859,
+      4867
+    ]
+  },
+  "entite_1040": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5040,
+      5047
+    ]
+  },
+  "entite_1041": {
+    "label": "PER",
+    "text": "Abrozzia",
+    "jalons": [
+      5178,
+      5186
+    ]
+  },
+  "entite_1042": {
+    "label": "MISC",
+    "text": "Eh bien !",
+    "jalons": [
+      5316,
+      5325
+    ]
+  },
+  "entite_1043": {
+    "label": "LOC",
+    "text": "mienne",
+    "jalons": [
+      5513,
+      5519
+    ]
+  },
+  "entite_1044": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5551,
+      5558
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      54,
+      61
+    ]
+  },
+  "entite_1046": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      280,
+      288
+    ]
+  },
+  "entite_1047": {
+    "label": "MISC",
+    "text": "La parole expira sur ses lèvres",
+    "jalons": [
+      386,
+      417
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      769,
+      776
+    ]
+  },
+  "entite_1049": {
+    "label": "LOC",
+    "text": "Hélas’.qui",
+    "jalons": [
+      949,
+      959
+    ]
+  },
+  "entite_1050": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      993,
+      1000
+    ]
+  },
+  "entite_1051": {
+    "label": "MISC",
+    "text": "et.ces",
+    "jalons": [
+      1287,
+      1293
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Apennin",
+    "jalons": [
+      1508,
+      1515
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "couvent des Pénitens",
+    "jalons": [
+      1548,
+      1568
+    ]
+  },
+  "entite_1054": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      1575,
+      1583
+    ]
+  },
+  "entite_1055": {
+    "label": "LOC",
+    "text": "champ Malvina",
+    "jalons": [
+      1606,
+      1619
+    ]
+  },
+  "entite_1056": {
+    "label": "PER",
+    "text": "Lerinde",
+    "jalons": [
+      1623,
+      1630
+    ]
+  },
+  "entite_1057": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      1830,
+      1837
+    ]
+  },
+  "entite_1058": {
+    "label": "MISC",
+    "text": "Je temps que j’avais passé près d’elle, n’avait servi qu à nie faire découvrir une foule de qualités",
+    "jalons": [
+      1999,
+      2099
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "aveuglai",
+    "jalons": [
+      2214,
+      2222
+    ]
+  },
+  "entite_1060": {
+    "label": "PER",
+    "text": "tombersur",
+    "jalons": [
+      2392,
+      2401
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "expirante",
+    "jalons": [
+      2452,
+      2461
+    ]
+  },
+  "entite_1062": {
+    "label": "PER",
+    "text": "aflermir",
+    "jalons": [
+      2479,
+      2487
+    ]
+  },
+  "entite_1063": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2532,
+      2539
+    ]
+  },
+  "entite_1064": {
+    "label": "MISC",
+    "text": "I 54 W I L M I N",
+    "jalons": [
+      2730,
+      2746
+    ]
+  },
+  "entite_1065": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2822,
+      2829
+    ]
+  },
+  "entite_1066": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2990,
+      2998
+    ]
+  },
+  "entite_1067": {
+    "label": "LOC",
+    "text": "Allerbourg",
+    "jalons": [
+      3021,
+      3031
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "Conduisezmoi",
+    "jalons": [
+      3098,
+      3110
+    ]
+  },
+  "entite_1069": {
+    "label": "PER",
+    "text": "maisqu’",
+    "jalons": [
+      3334,
+      3341
+    ]
+  },
+  "entite_1070": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3509,
+      3515
+    ]
+  },
+  "entite_1071": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3643,
+      3650
+    ]
+  },
+  "entite_1072": {
+    "label": "LOC",
+    "text": "IJ",
+    "jalons": [
+      3652,
+      3654
+    ]
+  },
+  "entite_1073": {
+    "label": "PER",
+    "text": "Ce'zarini",
+    "jalons": [
+      3848,
+      3857
+    ]
+  },
+  "entite_1074": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3925,
+      3932
+    ]
+  },
+  "entite_1075": {
+    "label": "PER",
+    "text": "élaienten",
+    "jalons": [
+      3971,
+      3980
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      4007,
+      4013
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      4191,
+      4197
+    ]
+  },
+  "entite_1078": {
+    "label": "LOC",
+    "text": "Lérinde",
+    "jalons": [
+      4217,
+      4224
+    ]
+  },
+  "entite_1079": {
+    "label": "PER",
+    "text": "Carlos ï56 W",
+    "jalons": [
+      4517,
+      4529
+    ]
+  },
+  "entite_1080": {
+    "label": "ORG",
+    "text": "LM1RA",
+    "jalons": [
+      4530,
+      4535
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      4540,
+      4546
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "el",
+    "jalons": [
+      4582,
+      4584
+    ]
+  },
+  "entite_1083": {
+    "label": "PER",
+    "text": "retournasse",
+    "jalons": [
+      4658,
+      4669
+    ]
+  },
+  "entite_1084": {
+    "label": "MISC",
+    "text": "Midvina !!",
+    "jalons": [
+      4965,
+      4975
+    ]
+  },
+  "entite_1085": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      5093,
+      5101
+    ]
+  },
+  "entite_1086": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      5580,
+      5588
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5618,
+      5625
+    ]
+  },
+  "entite_1088": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      44,
+      49
+    ]
+  },
+  "entite_1089": {
+    "label": "LOC",
+    "text": "WILMl",
+    "jalons": [
+      372,
+      377
+    ]
+  },
+  "entite_1090": {
+    "label": "MISC",
+    "text": "siguora Maria",
+    "jalons": [
+      657,
+      670
+    ]
+  },
+  "entite_1091": {
+    "label": "LOC",
+    "text": "Espagne",
+    "jalons": [
+      691,
+      698
+    ]
+  },
+  "entite_1092": {
+    "label": "MISC",
+    "text": "Maria",
+    "jalons": [
+      807,
+      812
+    ]
+  },
+  "entite_1093": {
+    "label": "LOC",
+    "text": "W1LMEINA",
+    "jalons": [
+      1298,
+      1306
+    ]
+  },
+  "entite_1094": {
+    "label": "LOC",
+    "text": "l5",
+    "jalons": [
+      1308,
+      1310
+    ]
+  },
+  "entite_1095": {
+    "label": "ORG",
+    "text": "dre",
+    "jalons": [
+      1313,
+      1316
+    ]
+  },
+  "entite_1096": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      1497,
+      1504
+    ]
+  },
+  "entite_1097": {
+    "label": "PER",
+    "text": "Mnr'a.",
+    "jalons": [
+      1822,
+      1828
+    ]
+  },
+  "entite_1098": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      1927,
+      1933
+    ]
+  },
+  "entite_1099": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      2135,
+      2143
+    ]
+  },
+  "entite_1100": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      2200,
+      2207
+    ]
+  },
+  "entite_1101": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2407,
+      2415
+    ]
+  },
+  "entite_1102": {
+    "label": "MISC",
+    "text": "• en van je lui promis de passer",
+    "jalons": [
+      2699,
+      2731
+    ]
+  },
+  "entite_1103": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3028,
+      3034
+    ]
+  },
+  "entite_1104": {
+    "label": "LOC",
+    "text": "palais Colonia",
+    "jalons": [
+      3080,
+      3094
+    ]
+  },
+  "entite_1105": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      3147,
+      3154
+    ]
+  },
+  "entite_1106": {
+    "label": "LOC",
+    "text": "iGl",
+    "jalons": [
+      3156,
+      3159
+    ]
+  },
+  "entite_1107": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3373,
+      3380
+    ]
+  },
+  "entite_1108": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3462,
+      3468
+    ]
+  },
+  "entite_1109": {
+    "label": "ORG",
+    "text": "Cocnetti",
+    "jalons": [
+      3506,
+      3514
+    ]
+  },
+  "entite_1110": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3692,
+      3699
+    ]
+  },
+  "entite_1111": {
+    "label": "PER",
+    "text": "T. Y. 7",
+    "jalons": [
+      3962,
+      3969
+    ]
+  },
+  "entite_1112": {
+    "label": "PER",
+    "text": "celteenfa t",
+    "jalons": [
+      4156,
+      4167
+    ]
+  },
+  "entite_1113": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4701,
+      4708
+    ]
+  },
+  "entite_1114": {
+    "label": "LOC",
+    "text": "lendema",
+    "jalons": [
+      4877,
+      4884
+    ]
+  },
+  "entite_1115": {
+    "label": "LOC",
+    "text": "l63",
+    "jalons": [
+      4941,
+      4944
+    ]
+  },
+  "entite_1116": {
+    "label": "PER",
+    "text": "C u-los",
+    "jalons": [
+      5111,
+      5118
+    ]
+  },
+  "entite_1117": {
+    "label": "LOC",
+    "text": "Lérinde",
+    "jalons": [
+      5122,
+      5129
+    ]
+  },
+  "entite_1118": {
+    "label": "MISC",
+    "text": "Jant an ciel !",
+    "jalons": [
+      5444,
+      5458
+    ]
+  },
+  "entite_1119": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5594,
+      5602
+    ]
+  },
+  "entite_1120": {
+    "label": "MISC",
+    "text": "W I",
+    "jalons": [
+      144,
+      147
+    ]
+  },
+  "entite_1121": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      405,
+      411
+    ]
+  },
+  "entite_1122": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      715,
+      721
+    ]
+  },
+  "entite_1123": {
+    "label": "PER",
+    "text": "Ire",
+    "jalons": [
+      943,
+      946
+    ]
+  },
+  "entite_1124": {
+    "label": "PER",
+    "text": "Raoul d’Avarello",
+    "jalons": [
+      1291,
+      1307
+    ]
+  },
+  "entite_1125": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      1341,
+      1347
+    ]
+  },
+  "entite_1126": {
+    "label": "PER",
+    "text": "-t-if vec",
+    "jalons": [
+      1644,
+      1653
+    ]
+  },
+  "entite_1127": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      1723,
+      1731
+    ]
+  },
+  "entite_1128": {
+    "label": "LOC",
+    "text": "hangemenl",
+    "jalons": [
+      1735,
+      1744
+    ]
+  },
+  "entite_1129": {
+    "label": "PER",
+    "text": "iGG WILMINA",
+    "jalons": [
+      1927,
+      1938
+    ]
+  },
+  "entite_1130": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      2999,
+      3007
+    ]
+  },
+  "entite_1131": {
+    "label": "MISC",
+    "text": "jm-e",
+    "jalons": [
+      3066,
+      3070
+    ]
+  },
+  "entite_1132": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3216,
+      3221
+    ]
+  },
+  "entite_1133": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3224,
+      3231
+    ]
+  },
+  "entite_1134": {
+    "label": "PER",
+    "text": "devinlplus",
+    "jalons": [
+      3450,
+      3460
+    ]
+  },
+  "entite_1135": {
+    "label": "LOC",
+    "text": "château d’Avarello",
+    "jalons": [
+      3624,
+      3642
+    ]
+  },
+  "entite_1136": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3671,
+      3678
+    ]
+  },
+  "entite_1137": {
+    "label": "MISC",
+    "text": "IG8",
+    "jalons": [
+      3724,
+      3727
+    ]
+  },
+  "entite_1138": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3847,
+      3852
+    ]
+  },
+  "entite_1139": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      3992,
+      3998
+    ]
+  },
+  "entite_1140": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4019,
+      4026
+    ]
+  },
+  "entite_1141": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4479,
+      4486
+    ]
+  },
+  "entite_1142": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5009,
+      5016
+    ]
+  },
+  "entite_1143": {
+    "label": "LOC",
+    "text": "l’Italie",
+    "jalons": [
+      5076,
+      5084
+    ]
+  },
+  "entite_1144": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      5371,
+      5376
+    ]
+  },
+  "entite_1145": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5430,
+      5437
+    ]
+  },
+  "entite_1146": {
+    "label": "LOC",
+    "text": "Partez",
+    "jalons": [
+      5455,
+      5461
+    ]
+  },
+  "entite_1147": {
+    "label": "LOC",
+    "text": "Rimini",
+    "jalons": [
+      5504,
+      5510
+    ]
+  },
+  "entite_1148": {
+    "label": "MISC",
+    "text": "T. v. 8",
+    "jalons": [
+      5516,
+      5523
+    ]
+  },
+  "entite_1149": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      5709,
+      5716
+    ]
+  },
+  "entite_1150": {
+    "label": "MISC",
+    "text": "s1",
+    "jalons": [
+      5725,
+      5727
+    ]
+  },
+  "entite_1151": {
+    "label": "LOC",
+    "text": "Rimini",
+    "jalons": [
+      195,
+      201
+    ]
+  },
+  "entite_1152": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_1153": {
+    "label": "LOC",
+    "text": "l’Amérique",
+    "jalons": [
+      357,
+      367
+    ]
+  },
+  "entite_1154": {
+    "label": "LOC",
+    "text": "Indes",
+    "jalons": [
+      436,
+      441
+    ]
+  },
+  "entite_1155": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      527,
+      533
+    ]
+  },
+  "entite_1156": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      548,
+      553
+    ]
+  },
+  "entite_1157": {
+    "label": "LOC",
+    "text": "I7I",
+    "jalons": [
+      676,
+      679
+    ]
+  },
+  "entite_1158": {
+    "label": "PER",
+    "text": "plaisirje vis naîtr e",
+    "jalons": [
+      700,
+      721
+    ]
+  },
+  "entite_1159": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      825,
+      832
+    ]
+  },
+  "entite_1160": {
+    "label": "PER",
+    "text": "Raotd",
+    "jalons": [
+      1242,
+      1247
+    ]
+  },
+  "entite_1161": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      1271,
+      1277
+    ]
+  },
+  "entite_1162": {
+    "label": "PER",
+    "text": "hacun",
+    "jalons": [
+      1419,
+      1424
+    ]
+  },
+  "entite_1163": {
+    "label": "LOC",
+    "text": "ter-eur",
+    "jalons": [
+      1457,
+      1464
+    ]
+  },
+  "entite_1164": {
+    "label": "MISC",
+    "text": "Parle !",
+    "jalons": [
+      1466,
+      1473
+    ]
+  },
+  "entite_1165": {
+    "label": "MISC",
+    "text": "I !",
+    "jalons": [
+      1534,
+      1537
+    ]
+  },
+  "entite_1166": {
+    "label": "PER",
+    "text": "17a WILMINA",
+    "jalons": [
+      1585,
+      1596
+    ]
+  },
+  "entite_1167": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      1854,
+      1860
+    ]
+  },
+  "entite_1168": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      1918,
+      1926
+    ]
+  },
+  "entite_1169": {
+    "label": "MISC",
+    "text": "fqr assassin",
+    "jalons": [
+      2345,
+      2357
+    ]
+  },
+  "entite_1170": {
+    "label": "PER",
+    "text": "Raoul j",
+    "jalons": [
+      2374,
+      2381
+    ]
+  },
+  "entite_1171": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      2512,
+      2519
+    ]
+  },
+  "entite_1172": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      2665,
+      2671
+    ]
+  },
+  "entite_1173": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      3129,
+      3135
+    ]
+  },
+  "entite_1174": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3310,
+      3317
+    ]
+  },
+  "entite_1175": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      3399,
+      3405
+    ]
+  },
+  "entite_1176": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3447,
+      3452
+    ]
+  },
+  "entite_1177": {
+    "label": "LOC",
+    "text": "cap de Ronne-Espérance",
+    "jalons": [
+      3482,
+      3504
+    ]
+  },
+  "entite_1178": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      4049,
+      4055
+    ]
+  },
+  "entite_1179": {
+    "label": "MISC",
+    "text": "Mon cher maître",
+    "jalons": [
+      4069,
+      4084
+    ]
+  },
+  "entite_1180": {
+    "label": "LOC",
+    "text": "pé-",
+    "jalons": [
+      4169,
+      4172
+    ]
+  },
+  "entite_1181": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      4189,
+      4195
+    ]
+  },
+  "entite_1182": {
+    "label": "MISC",
+    "text": "Onon !",
+    "jalons": [
+      4214,
+      4220
+    ]
+  },
+  "entite_1183": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      4858,
+      4864
+    ]
+  },
+  "entite_1184": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      4978,
+      4982
+    ]
+  },
+  "entite_1185": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5131,
+      5135
+    ]
+  },
+  "entite_1186": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      5257,
+      5264
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "Ciel",
+    "jalons": [
+      5318,
+      5322
+    ]
+  },
+  "entite_1188": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      5727,
+      5733
+    ]
+  },
+  "entite_1189": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      177,
+      183
+    ]
+  },
+  "entite_1190": {
+    "label": "MISC",
+    "text": "I77",
+    "jalons": [
+      419,
+      422
+    ]
+  },
+  "entite_1191": {
+    "label": "LOC",
+    "text": "Cafres",
+    "jalons": [
+      1068,
+      1074
+    ]
+  },
+  "entite_1192": {
+    "label": "PER",
+    "text": "Craal",
+    "jalons": [
+      1107,
+      1112
+    ]
+  },
+  "entite_1193": {
+    "label": "MISC",
+    "text": "Sauvages me prodiguèrent",
+    "jalons": [
+      1227,
+      1251
+    ]
+  },
+  "entite_1194": {
+    "label": "MISC",
+    "text": "Us",
+    "jalons": [
+      1283,
+      1285
+    ]
+  },
+  "entite_1195": {
+    "label": "PER",
+    "text": "Carlos",
+    "jalons": [
+      1317,
+      1323
+    ]
+  },
+  "entite_1196": {
+    "label": "LOC",
+    "text": "Craal",
+    "jalons": [
+      1377,
+      1382
+    ]
+  },
+  "entite_1197": {
+    "label": "MISC",
+    "text": "Hottentots",
+    "jalons": [
+      1525,
+      1535
+    ]
+  },
+  "entite_1198": {
+    "label": "MISC",
+    "text": "Colbe",
+    "jalons": [
+      2325,
+      2330
+    ]
+  },
+  "entite_1199": {
+    "label": "LOC",
+    "text": "Afrique",
+    "jalons": [
+      2334,
+      2341
+    ]
+  },
+  "entite_1200": {
+    "label": "MISC",
+    "text": "Hottentots",
+    "jalons": [
+      2366,
+      2376
+    ]
+  },
+  "entite_1201": {
+    "label": "LOC",
+    "text": "Cafrerie",
+    "jalons": [
+      2404,
+      2412
+    ]
+  },
+  "entite_1202": {
+    "label": "PER",
+    "text": "craaî",
+    "jalons": [
+      2439,
+      2444
+    ]
+  },
+  "entite_1203": {
+    "label": "LOC",
+    "text": "Cafresetles Hottentots",
+    "jalons": [
+      2528,
+      2550
+    ]
+  },
+  "entite_1204": {
+    "label": "LOC",
+    "text": "Européen",
+    "jalons": [
+      2621,
+      2629
+    ]
+  },
+  "entite_1205": {
+    "label": "MISC",
+    "text": "Sauvages",
+    "jalons": [
+      2640,
+      2648
+    ]
+  },
+  "entite_1206": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      2870,
+      2876
+    ]
+  },
+  "entite_1207": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      2959,
+      2965
+    ]
+  },
+  "entite_1208": {
+    "label": "LOC",
+    "text": "W IL M I",
+    "jalons": [
+      3090,
+      3098
+    ]
+  },
+  "entite_1209": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      3226,
+      3234
+    ]
+  },
+  "entite_1210": {
+    "label": "LOC",
+    "text": "Craal",
+    "jalons": [
+      3343,
+      3348
+    ]
+  },
+  "entite_1211": {
+    "label": "MISC",
+    "text": "Colbe",
+    "jalons": [
+      3877,
+      3882
+    ]
+  },
+  "entite_1212": {
+    "label": "LOC",
+    "text": "duCap-de-Bonne-Espérance",
+    "jalons": [
+      3926,
+      3950
+    ]
+  },
+  "entite_1213": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3993,
+      4000
+    ]
+  },
+  "entite_1214": {
+    "label": "LOC",
+    "text": "quâmes",
+    "jalons": [
+      4007,
+      4013
+    ]
+  },
+  "entite_1215": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      4021,
+      4031
+    ]
+  },
+  "entite_1216": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      4123,
+      4129
+    ]
+  },
+  "entite_1217": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      4462,
+      4470
+    ]
+  },
+  "entite_1218": {
+    "label": "MISC",
+    "text": "Dieu !",
+    "jalons": [
+      4472,
+      4478
+    ]
+  },
+  "entite_1219": {
+    "label": "LOC",
+    "text": "Inde",
+    "jalons": [
+      4797,
+      4801
+    ]
+  },
+  "entite_1220": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      4951,
+      4959
+    ]
+  },
+  "entite_1221": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      5227,
+      5233
+    ]
+  },
+  "entite_1222": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      5263,
+      5268
+    ]
+  },
+  "entite_1223": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      5316,
+      5322
+    ]
+  },
+  "entite_1224": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      5614,
+      5620
+    ]
+  },
+  "entite_1225": {
+    "label": "LOC",
+    "text": "château des",
+    "jalons": [
+      5642,
+      5653
+    ]
+  },
+  "entite_1226": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      5654,
+      5662
+    ]
+  },
+  "entite_1227": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      5668,
+      5676
+    ]
+  },
+  "entite_1228": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      222,
+      230
+    ]
+  },
+  "entite_1229": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      738,
+      743
+    ]
+  },
+  "entite_1230": {
+    "label": "PER",
+    "text": "daus",
+    "jalons": [
+      950,
+      954
+    ]
+  },
+  "entite_1231": {
+    "label": "LOC",
+    "text": "marchais",
+    "jalons": [
+      1283,
+      1291
+    ]
+  },
+  "entite_1232": {
+    "label": "LOC",
+    "text": "Avarello",
+    "jalons": [
+      1694,
+      1702
+    ]
+  },
+  "entite_1233": {
+    "label": "MISC",
+    "text": "Raoul !!",
+    "jalons": [
+      2368,
+      2376
+    ]
+  },
+  "entite_1234": {
+    "label": "LOC",
+    "text": "Naples",
+    "jalons": [
+      2635,
+      2641
+    ]
+  },
+  "entite_1235": {
+    "label": "MISC",
+    "text": "Lâche !",
+    "jalons": [
+      2660,
+      2667
+    ]
+  },
+  "entite_1236": {
+    "label": "LOC",
+    "text": "I86 WILMINA",
+    "jalons": [
+      2772,
+      2783
+    ]
+  },
+  "entite_1237": {
+    "label": "LOC",
+    "text": "jedevais",
+    "jalons": [
+      2986,
+      2994
+    ]
+  },
+  "entite_1238": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3488,
+      3493
+    ]
+  },
+  "entite_1239": {
+    "label": "MISC",
+    "text": "Viens",
+    "jalons": [
+      3566,
+      3571
+    ]
+  },
+  "entite_1240": {
+    "label": "PER",
+    "text": "Alphonse ! viens",
+    "jalons": [
+      3574,
+      3590
+    ]
+  },
+  "entite_1241": {
+    "label": "PER",
+    "text": "Plût",
+    "jalons": [
+      3650,
+      3654
+    ]
+  },
+  "entite_1242": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3889,
+      3895
+    ]
+  },
+  "entite_1243": {
+    "label": "ORG",
+    "text": "Avarello",
+    "jalons": [
+      4060,
+      4068
+    ]
+  },
+  "entite_1244": {
+    "label": "MISC",
+    "text": "Regarde !",
+    "jalons": [
+      4301,
+      4310
+    ]
+  },
+  "entite_1245": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      4319,
+      4324
+    ]
+  },
+  "entite_1246": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4361,
+      4369
+    ]
+  },
+  "entite_1247": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4443,
+      4450
+    ]
+  },
+  "entite_1248": {
+    "label": "LOC",
+    "text": "I88",
+    "jalons": [
+      4542,
+      4545
+    ]
+  },
+  "entite_1249": {
+    "label": "MISC",
+    "text": "Tiens !",
+    "jalons": [
+      4595,
+      4602
+    ]
+  },
+  "entite_1250": {
+    "label": "PER",
+    "text": "Vois",
+    "jalons": [
+      4670,
+      4674
+    ]
+  },
+  "entite_1251": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4706,
+      4713
+    ]
+  },
+  "entite_1252": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      5458,
+      5465
+    ]
+  },
+  "entite_1253": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      546,
+      556
+    ]
+  },
+  "entite_1254": {
+    "label": "PER",
+    "text": "versai",
+    "jalons": [
+      841,
+      847
+    ]
+  },
+  "entite_1255": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      942,
+      949
+    ]
+  },
+  "entite_1256": {
+    "label": "PER",
+    "text": "usai",
+    "jalons": [
+      1240,
+      1244
+    ]
+  },
+  "entite_1257": {
+    "label": "PER",
+    "text": "WILMC1NA",
+    "jalons": [
+      1463,
+      1471
+    ]
+  },
+  "entite_1258": {
+    "label": "PER",
+    "text": "expirans",
+    "jalons": [
+      2155,
+      2163
+    ]
+  },
+  "entite_1259": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      2336,
+      2343
+    ]
+  },
+  "entite_1260": {
+    "label": "PER",
+    "text": "celtj",
+    "jalons": [
+      2471,
+      2476
+    ]
+  },
+  "entite_1261": {
+    "label": "PER",
+    "text": "épuisai",
+    "jalons": [
+      2943,
+      2950
+    ]
+  },
+  "entite_1262": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      3220,
+      3227
+    ]
+  },
+  "entite_1263": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      3733,
+      3740
+    ]
+  },
+  "entite_1264": {
+    "label": "LOC",
+    "text": "tances",
+    "jalons": [
+      4151,
+      4157
+    ]
+  },
+  "entite_1265": {
+    "label": "ORG",
+    "text": "ColoIlia",
+    "jalons": [
+      4229,
+      4237
+    ]
+  },
+  "entite_1266": {
+    "label": "MISC",
+    "text": "séparai",
+    "jalons": [
+      4478,
+      4485
+    ]
+  },
+  "entite_1267": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5029,
+      5037
+    ]
+  },
+  "entite_1268": {
+    "label": "LOC",
+    "text": "Italie",
+    "jalons": [
+      5138,
+      5144
+    ]
+  },
+  "entite_1269": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      343,
+      350
+    ]
+  },
+  "entite_1270": {
+    "label": "MISC",
+    "text": "Ovous !",
+    "jalons": [
+      521,
+      528
+    ]
+  },
+  "entite_1271": {
+    "label": "LOC",
+    "text": "vousmême",
+    "jalons": [
+      642,
+      650
+    ]
+  },
+  "entite_1272": {
+    "label": "PER",
+    "text": "Alphonse d’Albino",
+    "jalons": [
+      1089,
+      1106
+    ]
+  },
+  "entite_1273": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      1109,
+      1115
+    ]
+  },
+  "entite_1274": {
+    "label": "LOC",
+    "text": "Supérieur",
+    "jalons": [
+      1296,
+      1305
+    ]
+  },
+  "entite_1275": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1457,
+      1461
+    ]
+  },
+  "entite_1276": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      1531,
+      1539
+    ]
+  },
+  "entite_1277": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1750,
+      1758
+    ]
+  },
+  "entite_1278": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1770,
+      1776
+    ]
+  },
+  "entite_1279": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      1925,
+      1930
+    ]
+  },
+  "entite_1280": {
+    "label": "LOC",
+    "text": "Providence",
+    "jalons": [
+      1998,
+      2008
+    ]
+  },
+  "entite_1281": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2010,
+      2017
+    ]
+  },
+  "entite_1282": {
+    "label": "MISC",
+    "text": "I98",
+    "jalons": [
+      2049,
+      2052
+    ]
+  },
+  "entite_1283": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      2476,
+      2484
+    ]
+  },
+  "entite_1284": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2664,
+      2672
+    ]
+  },
+  "entite_1285": {
+    "label": "PER",
+    "text": "el la marquise",
+    "jalons": [
+      2707,
+      2721
+    ]
+  },
+  "entite_1286": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      2922,
+      2929
+    ]
+  },
+  "entite_1287": {
+    "label": "MISC",
+    "text": "AlbinOjdont",
+    "jalons": [
+      3016,
+      3027
+    ]
+  },
+  "entite_1288": {
+    "label": "PER",
+    "text": "Gonzalye",
+    "jalons": [
+      3327,
+      3335
+    ]
+  },
+  "entite_1289": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      3550,
+      3555
+    ]
+  },
+  "entite_1290": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3567,
+      3574
+    ]
+  },
+  "entite_1291": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      3579,
+      3587
+    ]
+  },
+  "entite_1292": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      3687,
+      3695
+    ]
+  },
+  "entite_1293": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3792,
+      3800
+    ]
+  },
+  "entite_1294": {
+    "label": "MISC",
+    "text": "W 1 L Ml N A.",
+    "jalons": [
+      3862,
+      3875
+    ]
+  },
+  "entite_1295": {
+    "label": "PER",
+    "text": "Al-",
+    "jalons": [
+      3953,
+      3956
+    ]
+  },
+  "entite_1296": {
+    "label": "PER",
+    "text": "bino",
+    "jalons": [
+      3959,
+      3963
+    ]
+  },
+  "entite_1297": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      4047,
+      4054
+    ]
+  },
+  "entite_1298": {
+    "label": "PER",
+    "text": "lemps",
+    "jalons": [
+      4645,
+      4650
+    ]
+  },
+  "entite_1299": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      4771,
+      4778
+    ]
+  },
+  "entite_1300": {
+    "label": "LOC",
+    "text": "rafraîchissemens",
+    "jalons": [
+      4855,
+      4871
+    ]
+  },
+  "entite_1301": {
+    "label": "MISC",
+    "text": "la nuli",
+    "jalons": [
+      5113,
+      5120
+    ]
+  },
+  "entite_1302": {
+    "label": "LOC",
+    "text": "Villa-Rosa",
+    "jalons": [
+      5305,
+      5315
+    ]
+  },
+  "entite_1303": {
+    "label": "LOC",
+    "text": "Florence^",
+    "jalons": [
+      5333,
+      5342
+    ]
+  },
+  "entite_1304": {
+    "label": "LOC",
+    "text": "Almérano",
+    "jalons": [
+      5373,
+      5381
+    ]
+  },
+  "entite_1305": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      5488,
+      5495
+    ]
+  },
+  "entite_1306": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5497,
+      5504
+    ]
+  },
+  "entite_1307": {
+    "label": "MISC",
+    "text": "LM I",
+    "jalons": [
+      5639,
+      5643
+    ]
+  },
+  "entite_1308": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5675,
+      5682
+    ]
+  },
+  "entite_1309": {
+    "label": "PER",
+    "text": "Lvpàre Ce-",
+    "jalons": [
+      2,
+      12
+    ]
+  },
+  "entite_1310": {
+    "label": "PER",
+    "text": "•zarini",
+    "jalons": [
+      14,
+      21
+    ]
+  },
+  "entite_1311": {
+    "label": "MISC",
+    "text": "Laurentino",
+    "jalons": [
+      86,
+      96
+    ]
+  },
+  "entite_1312": {
+    "label": "LOC",
+    "text": "Cézarini",
+    "jalons": [
+      401,
+      409
+    ]
+  },
+  "entite_1313": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      425,
+      429
+    ]
+  },
+  "entite_1314": {
+    "label": "PER",
+    "text": "rie",
+    "jalons": [
+      497,
+      500
+    ]
+  },
+  "entite_1315": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      646,
+      653
+    ]
+  },
+  "entite_1316": {
+    "label": "PER",
+    "text": "sentiinicnsde",
+    "jalons": [
+      669,
+      682
+    ]
+  },
+  "entite_1317": {
+    "label": "PER",
+    "text": "pourvôtre nièce",
+    "jalons": [
+      727,
+      742
+    ]
+  },
+  "entite_1318": {
+    "label": "PER",
+    "text": "voiis",
+    "jalons": [
+      744,
+      749
+    ]
+  },
+  "entite_1319": {
+    "label": "MISC",
+    "text": "xle",
+    "jalons": [
+      809,
+      812
+    ]
+  },
+  "entite_1320": {
+    "label": "PER",
+    "text": "pa- WILMINA",
+    "jalons": [
+      835,
+      846
+    ]
+  },
+  "entite_1321": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      865,
+      869
+    ]
+  },
+  "entite_1322": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1087,
+      1095
+    ]
+  },
+  "entite_1323": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1099,
+      1107
+    ]
+  },
+  "entite_1324": {
+    "label": "LOC",
+    "text": "tètij",
+    "jalons": [
+      1179,
+      1184
+    ]
+  },
+  "entite_1325": {
+    "label": "PER",
+    "text": "Lorsrpi'",
+    "jalons": [
+      1273,
+      1281
+    ]
+  },
+  "entite_1326": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1331,
+      1338
+    ]
+  },
+  "entite_1327": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1417,
+      1424
+    ]
+  },
+  "entite_1328": {
+    "label": "PER",
+    "text": "Hélas’.répondit le bon homme",
+    "jalons": [
+      1488,
+      1516
+    ]
+  },
+  "entite_1329": {
+    "label": "PER",
+    "text": "barbar Raoul",
+    "jalons": [
+      1821,
+      1833
+    ]
+  },
+  "entite_1330": {
+    "label": "LOC",
+    "text": "Quànd",
+    "jalons": [
+      2589,
+      2594
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      2627,
+      2635
+    ]
+  },
+  "entite_1332": {
+    "label": "PER",
+    "text": "ap- WILMINA",
+    "jalons": [
+      2677,
+      2688
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "2o5 t",
+    "jalons": [
+      2690,
+      2695
+    ]
+  },
+  "entite_1334": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      2865,
+      2873
+    ]
+  },
+  "entite_1335": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2956,
+      2963
+    ]
+  },
+  "entite_1336": {
+    "label": "PER",
+    "text": "marquise avail",
+    "jalons": [
+      3193,
+      3207
+    ]
+  },
+  "entite_1337": {
+    "label": "LOC",
+    "text": "château d’Avarello",
+    "jalons": [
+      3341,
+      3359
+    ]
+  },
+  "entite_1338": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3525,
+      3532
+    ]
+  },
+  "entite_1339": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3552,
+      3560
+    ]
+  },
+  "entite_1340": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3607,
+      3614
+    ]
+  },
+  "entite_1341": {
+    "label": "LOC",
+    "text": "Laurentino",
+    "jalons": [
+      3678,
+      3688
+    ]
+  },
+  "entite_1342": {
+    "label": "PER",
+    "text": "Bruno",
+    "jalons": [
+      3787,
+      3792
+    ]
+  },
+  "entite_1343": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3821,
+      3829
+    ]
+  },
+  "entite_1344": {
+    "label": "PER",
+    "text": "Wilmina i",
+    "jalons": [
+      3912,
+      3921
+    ]
+  },
+  "entite_1345": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4006,
+      4014
+    ]
+  },
+  "entite_1346": {
+    "label": "ORG",
+    "text": "nomu erons-",
+    "jalons": [
+      4040,
+      4051
+    ]
+  },
+  "entite_1347": {
+    "label": "PER",
+    "text": "Alphonsescntii",
+    "jalons": [
+      4201,
+      4215
+    ]
+  },
+  "entite_1348": {
+    "label": "LOC",
+    "text": "savail",
+    "jalons": [
+      4238,
+      4244
+    ]
+  },
+  "entite_1349": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      4273,
+      4278
+    ]
+  },
+  "entite_1350": {
+    "label": "MISC",
+    "text": "W1L",
+    "jalons": [
+      4482,
+      4485
+    ]
+  },
+  "entite_1351": {
+    "label": "LOC",
+    "text": "Néanoins",
+    "jalons": [
+      4536,
+      4544
+    ]
+  },
+  "entite_1352": {
+    "label": "ORG",
+    "text": "Cornetti",
+    "jalons": [
+      4683,
+      4691
+    ]
+  },
+  "entite_1353": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      4721,
+      4729
+    ]
+  },
+  "entite_1354": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      4754,
+      4762
+    ]
+  },
+  "entite_1355": {
+    "label": "PER",
+    "text": "Bianchi",
+    "jalons": [
+      4870,
+      4877
+    ]
+  },
+  "entite_1356": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      5445,
+      5450
+    ]
+  },
+  "entite_1357": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      5529,
+      5537
+    ]
+  },
+  "entite_1358": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      5637,
+      5642
+    ]
+  },
+  "entite_1359": {
+    "label": "PER",
+    "text": "Colonia",
+    "jalons": [
+      32,
+      39
+    ]
+  },
+  "entite_1360": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      63,
+      71
+    ]
+  },
+  "entite_1361": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      152,
+      157
+    ]
+  },
+  "entite_1362": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      321,
+      329
+    ]
+  },
+  "entite_1363": {
+    "label": "MISC",
+    "text": "Cetle",
+    "jalons": [
+      357,
+      362
+    ]
+  },
+  "entite_1364": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      417,
+      424
+    ]
+  },
+  "entite_1365": {
+    "label": "PER",
+    "text": "Gonzalye",
+    "jalons": [
+      428,
+      436
+    ]
+  },
+  "entite_1366": {
+    "label": "LOC",
+    "text": "Peuîà-peu",
+    "jalons": [
+      516,
+      525
+    ]
+  },
+  "entite_1367": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      644,
+      649
+    ]
+  },
+  "entite_1368": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      768,
+      775
+    ]
+  },
+  "entite_1369": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      977,
+      984
+    ]
+  },
+  "entite_1370": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1203,
+      1211
+    ]
+  },
+  "entite_1371": {
+    "label": "PER",
+    "text": "T. V. 9 2IO W ItWIS",
+    "jalons": [
+      1240,
+      1259
+    ]
+  },
+  "entite_1372": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      1375,
+      1376
+    ]
+  },
+  "entite_1373": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      1415,
+      1422
+    ]
+  },
+  "entite_1374": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1473,
+      1480
+    ]
+  },
+  "entite_1375": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      1724,
+      1730
+    ]
+  },
+  "entite_1376": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      2038,
+      2045
+    ]
+  },
+  "entite_1377": {
+    "label": "LOC",
+    "text": "MINA",
+    "jalons": [
+      2163,
+      2167
+    ]
+  },
+  "entite_1378": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2243,
+      2250
+    ]
+  },
+  "entite_1379": {
+    "label": "LOC",
+    "text": "Alphonse,-",
+    "jalons": [
+      2256,
+      2266
+    ]
+  },
+  "entite_1380": {
+    "label": "MISC",
+    "text": "Laurentino",
+    "jalons": [
+      2527,
+      2537
+    ]
+  },
+  "entite_1381": {
+    "label": "PER",
+    "text": "Enselme",
+    "jalons": [
+      2540,
+      2547
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      2818,
+      2825
+    ]
+  },
+  "entite_1383": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      2879,
+      2885
+    ]
+  },
+  "entite_1384": {
+    "label": "PER",
+    "text": "Cézarini cl",
+    "jalons": [
+      2951,
+      2962
+    ]
+  },
+  "entite_1385": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3006,
+      3013
+    ]
+  },
+  "entite_1386": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3082,
+      3090
+    ]
+  },
+  "entite_1387": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3108,
+      3115
+    ]
+  },
+  "entite_1388": {
+    "label": "ORG",
+    "text": "chévriers",
+    "jalons": [
+      3372,
+      3381
+    ]
+  },
+  "entite_1389": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      3647,
+      3655
+    ]
+  },
+  "entite_1390": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      3796,
+      3801
+    ]
+  },
+  "entite_1391": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3858,
+      3866
+    ]
+  },
+  "entite_1392": {
+    "label": "LOC",
+    "text": "lout",
+    "jalons": [
+      4092,
+      4096
+    ]
+  },
+  "entite_1393": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      4396,
+      4402
+    ]
+  },
+  "entite_1394": {
+    "label": "ORG",
+    "text": "ue",
+    "jalons": [
+      4424,
+      4426
+    ]
+  },
+  "entite_1395": {
+    "label": "PER",
+    "text": "ré— artit le duc",
+    "jalons": [
+      4542,
+      4558
+    ]
+  },
+  "entite_1396": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      4590,
+      4597
+    ]
+  },
+  "entite_1397": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      4835,
+      4843
+    ]
+  },
+  "entite_1398": {
+    "label": "PER",
+    "text": "Almérano",
+    "jalons": [
+      4899,
+      4907
+    ]
+  },
+  "entite_1399": {
+    "label": "PER",
+    "text": "Aîterbourg",
+    "jalons": [
+      4913,
+      4923
+    ]
+  },
+  "entite_1400": {
+    "label": "MISC",
+    "text": "Innocence",
+    "jalons": [
+      4953,
+      4962
+    ]
+  },
+  "entite_1401": {
+    "label": "MISC",
+    "text": "Ciel !",
+    "jalons": [
+      5133,
+      5139
+    ]
+  },
+  "entite_1402": {
+    "label": "PER",
+    "text": "-t-d",
+    "jalons": [
+      5160,
+      5164
+    ]
+  },
+  "entite_1403": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5217,
+      5224
+    ]
+  },
+  "entite_1404": {
+    "label": "MISC",
+    "text": "biaspbê mes des assassins",
+    "jalons": [
+      5548,
+      5573
+    ]
+  },
+  "entite_1405": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      5639,
+      5646
+    ]
+  },
+  "entite_1406": {
+    "label": "MISC",
+    "text": "Jj’éris",
+    "jalons": [
+      5689,
+      5696
+    ]
+  },
+  "entite_1407": {
+    "label": "PER",
+    "text": "marquise",
+    "jalons": [
+      5731,
+      5739
+    ]
+  },
+  "entite_1408": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      5878,
+      5886
+    ]
+  },
+  "entite_1409": {
+    "label": "LOC",
+    "text": "îille",
+    "jalons": [
+      5909,
+      5914
+    ]
+  },
+  "entite_1410": {
+    "label": "MISC",
+    "text": "O !",
+    "jalons": [
+      5938,
+      5941
+    ]
+  },
+  "entite_1411": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      192,
+      199
+    ]
+  },
+  "entite_1412": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      251,
+      258
+    ]
+  },
+  "entite_1413": {
+    "label": "LOC",
+    "text": "estinée",
+    "jalons": [
+      311,
+      318
+    ]
+  },
+  "entite_1414": {
+    "label": "ORG",
+    "text": "ttc",
+    "jalons": [
+      468,
+      471
+    ]
+  },
+  "entite_1415": {
+    "label": "PER",
+    "text": "mmis",
+    "jalons": [
+      508,
+      512
+    ]
+  },
+  "entite_1416": {
+    "label": "MISC",
+    "text": "était’",
+    "jalons": [
+      524,
+      530
+    ]
+  },
+  "entite_1417": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      553,
+      560
+    ]
+  },
+  "entite_1418": {
+    "label": "PER",
+    "text": "Malvina",
+    "jalons": [
+      658,
+      665
+    ]
+  },
+  "entite_1419": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      747,
+      751
+    ]
+  },
+  "entite_1420": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      756,
+      764
+    ]
+  },
+  "entite_1421": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      920,
+      927
+    ]
+  },
+  "entite_1422": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      1098,
+      1106
+    ]
+  },
+  "entite_1423": {
+    "label": "MISC",
+    "text": "Gran Dieu !",
+    "jalons": [
+      1166,
+      1177
+    ]
+  },
+  "entite_1424": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1423,
+      1430
+    ]
+  },
+  "entite_1425": {
+    "label": "PER",
+    "text": "Fulvia",
+    "jalons": [
+      1519,
+      1525
+    ]
+  },
+  "entite_1426": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      2043,
+      2047
+    ]
+  },
+  "entite_1427": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2810,
+      2818
+    ]
+  },
+  "entite_1428": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      3152,
+      3159
+    ]
+  },
+  "entite_1429": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      3186,
+      3194
+    ]
+  },
+  "entite_1430": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3316,
+      3323
+    ]
+  },
+  "entite_1431": {
+    "label": "MISC",
+    "text": "pi us",
+    "jalons": [
+      3656,
+      3661
+    ]
+  },
+  "entite_1432": {
+    "label": "PER",
+    "text": "Albino",
+    "jalons": [
+      3944,
+      3950
+    ]
+  },
+  "entite_1433": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      4027,
+      4034
+    ]
+  },
+  "entite_1434": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4265,
+      4272
+    ]
+  },
+  "entite_1435": {
+    "label": "MISC",
+    "text": "bonLaurentino",
+    "jalons": [
+      4382,
+      4395
+    ]
+  },
+  "entite_1436": {
+    "label": "PER",
+    "text": "Bruno",
+    "jalons": [
+      4504,
+      4509
+    ]
+  },
+  "entite_1437": {
+    "label": "PER",
+    "text": "donton",
+    "jalons": [
+      4511,
+      4517
+    ]
+  },
+  "entite_1438": {
+    "label": "MISC",
+    "text": "Laurentino",
+    "jalons": [
+      4817,
+      4827
+    ]
+  },
+  "entite_1439": {
+    "label": "PER",
+    "text": "WILMINA",
+    "jalons": [
+      4886,
+      4893
+    ]
+  },
+  "entite_1440": {
+    "label": "MISC",
+    "text": "I2-I",
+    "jalons": [
+      4895,
+      4899
+    ]
+  },
+  "entite_1441": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      4947,
+      4954
+    ]
+  },
+  "entite_1442": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5031,
+      5038
+    ]
+  },
+  "entite_1443": {
+    "label": "ORG",
+    "text": "hahilans",
+    "jalons": [
+      5129,
+      5137
+    ]
+  },
+  "entite_1444": {
+    "label": "MISC",
+    "text": "Laurentino",
+    "jalons": [
+      5238,
+      5248
+    ]
+  },
+  "entite_1445": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      5419,
+      5424
+    ]
+  },
+  "entite_1446": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      5507,
+      5515
+    ]
+  },
+  "entite_1447": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      5583,
+      5591
+    ]
+  },
+  "entite_1448": {
+    "label": "LOC",
+    "text": "Vais",
+    "jalons": [
+      5648,
+      5652
+    ]
+  },
+  "entite_1449": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      5750,
+      5757
+    ]
+  },
+  "entite_1450": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      552,
+      560
+    ]
+  },
+  "entite_1451": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      681,
+      688
+    ]
+  },
+  "entite_1452": {
+    "label": "MISC",
+    "text": "ca",
+    "jalons": [
+      734,
+      736
+    ]
+  },
+  "entite_1453": {
+    "label": "PER",
+    "text": "ma Wilmina",
+    "jalons": [
+      1150,
+      1160
+    ]
+  },
+  "entite_1454": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      1601,
+      1609
+    ]
+  },
+  "entite_1455": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      1632,
+      1639
+    ]
+  },
+  "entite_1456": {
+    "label": "PER",
+    "text": "Gonzalve",
+    "jalons": [
+      1676,
+      1684
+    ]
+  },
+  "entite_1457": {
+    "label": "MISC",
+    "text": "Ah !",
+    "jalons": [
+      1687,
+      1691
+    ]
+  },
+  "entite_1458": {
+    "label": "LOC",
+    "text": "château des Souvenirs",
+    "jalons": [
+      2051,
+      2072
+    ]
+  },
+  "entite_1459": {
+    "label": "PER",
+    "text": "Alphonse",
+    "jalons": [
+      2119,
+      2127
+    ]
+  },
+  "entite_1460": {
+    "label": "PER",
+    "text": "dé Malvina",
+    "jalons": [
+      2207,
+      2217
+    ]
+  },
+  "entite_1461": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2285,
+      2292
+    ]
+  },
+  "entite_1462": {
+    "label": "LOC",
+    "text": "Manha",
+    "jalons": [
+      2391,
+      2396
+    ]
+  },
+  "entite_1463": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      2503,
+      2508
+    ]
+  },
+  "entite_1464": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      2514,
+      2521
+    ]
+  },
+  "entite_1465": {
+    "label": "MISC",
+    "text": "af1 fection",
+    "jalons": [
+      2581,
+      2592
+    ]
+  },
+  "entite_1466": {
+    "label": "PER",
+    "text": "abscns",
+    "jalons": [
+      2689,
+      2695
+    ]
+  },
+  "entite_1467": {
+    "label": "LOC",
+    "text": "ducs Colonia",
+    "jalons": [
+      2751,
+      2763
+    ]
+  },
+  "entite_1468": {
+    "label": "MISC",
+    "text": "Nicetle",
+    "jalons": [
+      2777,
+      2784
+    ]
+  },
+  "entite_1469": {
+    "label": "MISC",
+    "text": "Juliette et seconde fille",
+    "jalons": [
+      2795,
+      2820
+    ]
+  },
+  "entite_1470": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      2823,
+      2830
+    ]
+  },
+  "entite_1471": {
+    "label": "PER",
+    "text": "Cézarini",
+    "jalons": [
+      2884,
+      2892
+    ]
+  },
+  "entite_1472": {
+    "label": "PER",
+    "text": "Lazaro",
+    "jalons": [
+      3087,
+      3093
+    ]
+  },
+  "entite_1473": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      3173,
+      3181
+    ]
+  },
+  "entite_1474": {
+    "label": "PER",
+    "text": "Louis",
+    "jalons": [
+      3205,
+      3210
+    ]
+  },
+  "entite_1475": {
+    "label": "LOC",
+    "text": "forçats^ 226 WILMINA",
+    "jalons": [
+      3328,
+      3348
+    ]
+  },
+  "entite_1476": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      3371,
+      3379
+    ]
+  },
+  "entite_1477": {
+    "label": "PER",
+    "text": "Sainte Vierge !",
+    "jalons": [
+      3480,
+      3495
+    ]
+  },
+  "entite_1478": {
+    "label": "ORG",
+    "text": "Avarello !",
+    "jalons": [
+      3586,
+      3596
+    ]
+  },
+  "entite_1479": {
+    "label": "ORG",
+    "text": "Maresco",
+    "jalons": [
+      3640,
+      3647
+    ]
+  },
+  "entite_1480": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3654,
+      3661
+    ]
+  },
+  "entite_1481": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      3727,
+      3735
+    ]
+  },
+  "entite_1482": {
+    "label": "PER",
+    "text": "Alberti",
+    "jalons": [
+      3886,
+      3893
+    ]
+  },
+  "entite_1483": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      3972,
+      3979
+    ]
+  },
+  "entite_1484": {
+    "label": "ORG",
+    "text": "Maresco",
+    "jalons": [
+      4039,
+      4046
+    ]
+  },
+  "entite_1485": {
+    "label": "LOC",
+    "text": "Colonia",
+    "jalons": [
+      4082,
+      4089
+    ]
+  },
+  "entite_1486": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      4190,
+      4198
+    ]
+  },
+  "entite_1487": {
+    "label": "LOC",
+    "text": "WILMINA",
+    "jalons": [
+      4211,
+      4218
+    ]
+  },
+  "entite_1488": {
+    "label": "PER",
+    "text": "Maresco.—Signor",
+    "jalons": [
+      4453,
+      4468
+    ]
+  },
+  "entite_1489": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      4794,
+      4802
+    ]
+  },
+  "entite_1490": {
+    "label": "LOC",
+    "text": "Florence",
+    "jalons": [
+      4939,
+      4947
+    ]
+  },
+  "entite_1491": {
+    "label": "PER",
+    "text": "Pablo",
+    "jalons": [
+      5132,
+      5137
+    ]
+  },
+  "entite_1492": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      5180,
+      5188
+    ]
+  },
+  "entite_1493": {
+    "label": "LOC",
+    "text": "Maresco",
+    "jalons": [
+      5193,
+      5200
+    ]
+  },
+  "entite_1494": {
+    "label": "PER",
+    "text": "Juliette",
+    "jalons": [
+      5275,
+      5283
+    ]
+  },
+  "entite_1495": {
+    "label": "LOC",
+    "text": "Maresco",
+    "jalons": [
+      5409,
+      5416
+    ]
+  },
+  "entite_1496": {
+    "label": "LOC",
+    "text": "C-oloiiia",
+    "jalons": [
+      5518,
+      5527
+    ]
+  },
+  "entite_1497": {
+    "label": "PER",
+    "text": "Mareico",
+    "jalons": [
+      5656,
+      5663
+    ]
+  },
+  "entite_1498": {
+    "label": "LOC",
+    "text": "Wi.min’",
+    "jalons": [
+      5733,
+      5740
+    ]
+  },
+  "entite_1499": {
+    "label": "PER",
+    "text": "Tevëriipie",
+    "jalons": [
+      150,
+      160
+    ]
+  },
+  "entite_1500": {
+    "label": "LOC",
+    "text": "Sitôt",
+    "jalons": [
+      322,
+      327
+    ]
+  },
+  "entite_1501": {
+    "label": "LOC",
+    "text": "Azoly",
+    "jalons": [
+      360,
+      365
+    ]
+  },
+  "entite_1502": {
+    "label": "PER",
+    "text": "Wilmina",
+    "jalons": [
+      550,
+      557
+    ]
+  },
+  "entite_1503": {
+    "label": "PER",
+    "text": "Jes",
+    "jalons": [
+      717,
+      720
+    ]
+  },
+  "entite_1504": {
+    "label": "LOC",
+    "text": "Apennins",
+    "jalons": [
+      987,
+      995
+    ]
+  },
+  "entite_1505": {
+    "label": "PER",
+    "text": "a3o WILMINA",
+    "jalons": [
+      1056,
+      1067
+    ]
+  },
+  "entite_1506": {
+    "label": "PER",
+    "text": "Raoul",
+    "jalons": [
+      1085,
+      1090
+    ]
+  },
+  "entite_1507": {
+    "label": "PER",
+    "text": "Alroérano",
+    "jalons": [
+      1565,
+      1574
+    ]
+  },
+  "entite_1508": {
+    "label": "MISC",
+    "text": "chdnge",
+    "jalons": [
+      2166,
+      2172
+    ]
+  },
+  "entite_1509": {
+    "label": "MISC",
+    "text": "FIN",
+    "jalons": [
+      2500,
+      2503
+    ]
+  }
+}

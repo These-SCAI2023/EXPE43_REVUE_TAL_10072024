@@ -1,0 +1,3338 @@
+{
+  "entite_0": {
+    "label": "LOC",
+    "text": "parc de Versailles",
+    "jalons": [
+      26,
+      44
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France 11",
+    "jalons": [
+      156,
+      191
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Charles",
+    "jalons": [
+      209,
+      216
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "parc de Versailles",
+    "jalons": [
+      262,
+      280
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Ch",
+    "jalons": [
+      392,
+      394
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Bel",
+    "jalons": [
+      407,
+      410
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      458,
+      465
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      976,
+      1008
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Source gallica.bnf.fr / BnF",
+    "jalons": [
+      1016,
+      1043
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "CLIQUER ICI",
+    "jalons": [
+      1539,
+      1550
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "ACCÉDER",
+    "jalons": [
+      1556,
+      1563
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "TARIFS ET",
+    "jalons": [
+      1568,
+      1577
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "LA LICENCE 2/",
+    "jalons": [
+      1580,
+      1593
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      1610,
+      1617
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      1642,
+      1645
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "L.2112-1",
+    "jalons": [
+      1667,
+      1675
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Source gallica.BnF.fr / Bibliothèque municipale de …",
+    "jalons": [
+      2183,
+      2235
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2366,
+      2373
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      2413,
+      2416
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "L341-1",
+    "jalons": [
+      2466,
+      2472
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2583,
+      2590
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      3092,
+      3099
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "SENNE 40029 34 ères",
+    "jalons": [
+      3169,
+      3188
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "He C",
+    "jalons": [
+      3196,
+      3200
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "AT UC",
+    "jalons": [
+      3235,
+      3240
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "biosph ag",
+    "jalons": [
+      3258,
+      3267
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "nn 2 nr 8 ao",
+    "jalons": [
+      3287,
+      3299
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "raisonSær",
+    "jalons": [
+      3342,
+      3351
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "T1 10e co",
+    "jalons": [
+      3367,
+      3376
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Pr Che ET Vu",
+    "jalons": [
+      3380,
+      3392
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "DE D",
+    "jalons": [
+      3399,
+      3403
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Ç",
+    "jalons": [
+      3410,
+      3411
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "D PR CR S M as",
+    "jalons": [
+      3417,
+      3431
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "TE ET L 5",
+    "jalons": [
+      3436,
+      3445
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "RAP",
+    "jalons": [
+      3470,
+      3473
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "CURE SAN + LE ca ” D NS",
+    "jalons": [
+      3481,
+      3504
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "Ce A",
+    "jalons": [
+      3514,
+      3518
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "FA HS LA _",
+    "jalons": [
+      3561,
+      3571
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "NX S",
+    "jalons": [
+      3580,
+      3584
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "FOURMIS SE",
+    "jalons": [
+      3585,
+      3595
+    ]
+  },
+  "entite_40": {
+    "label": "ORG",
+    "text": "PHILOSOPHIQUE",
+    "jalons": [
+      3680,
+      3693
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      3705,
+      3712
+    ]
+  },
+  "entite_42": {
+    "label": "ORG",
+    "text": "CR Et",
+    "jalons": [
+      3720,
+      3725
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Hic",
+    "jalons": [
+      3743,
+      3746
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "om Gi",
+    "jalons": [
+      3762,
+      3767
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "LONDRES",
+    "jalons": [
+      3774,
+      3781
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Golden-Square",
+    "jalons": [
+      3794,
+      3807
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "CE",
+    "jalons": [
+      3809,
+      3811
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3827,
+      3832
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Marchands",
+    "jalons": [
+      3843,
+      3852
+    ]
+  },
+  "entite_50": {
+    "label": "ORG",
+    "text": "Nouveautés",
+    "jalons": [
+      3860,
+      3870
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Palais ci",
+    "jalons": [
+      3875,
+      3884
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Royal",
+    "jalons": [
+      3892,
+      3897
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "VERSAILLES",
+    "jalons": [
+      3913,
+      3923
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "CN",
+    "jalons": [
+      3929,
+      3931
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Er",
+    "jalons": [
+      3938,
+      3940
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Ch 1 EE",
+    "jalons": [
+      3955,
+      3962
+    ]
+  },
+  "entite_57": {
+    "label": "ORG",
+    "text": "PTT ' Fra",
+    "jalons": [
+      3975,
+      3984
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "© C E T",
+    "jalons": [
+      4014,
+      4021
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      4160,
+      4167
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Les lumières de La k révélation",
+    "jalons": [
+      4210,
+      4241
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4771,
+      4775
+    ]
+  },
+  "entite_62": {
+    "label": "ORG",
+    "text": "Le monde",
+    "jalons": [
+      4793,
+      4801
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "hi",
+    "jalons": [
+      4872,
+      4874
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      4916,
+      4917
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Les siècles",
+    "jalons": [
+      5168,
+      5179
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Les Le 2",
+    "jalons": [
+      5182,
+      5190
+    ]
+  },
+  "entite_67": {
+    "label": "LOC",
+    "text": "Îles",
+    "jalons": [
+      5283,
+      5287
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "contr’",
+    "jalons": [
+      5331,
+      5337
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "L'Étre suprême",
+    "jalons": [
+      5433,
+      5447
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "étre de la-",
+    "jalons": [
+      5591,
+      5602
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "veloppé",
+    "jalons": [
+      171,
+      178
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "FES Ji",
+    "jalons": [
+      209,
+      215
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Ge",
+    "jalons": [
+      233,
+      235
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      517,
+      521
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "repliquer",
+    "jalons": [
+      630,
+      639
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      895,
+      896
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Littéral",
+    "jalons": [
+      924,
+      932
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Les oreilles du plus grand",
+    "jalons": [
+      969,
+      995
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Le dire",
+    "jalons": [
+      1044,
+      1051
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "méme",
+    "jalons": [
+      1336,
+      1340
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "eSprits",
+    "jalons": [
+      1495,
+      1502
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Lock",
+    "jalons": [
+      1738,
+      1742
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Malebranche",
+    "jalons": [
+      1750,
+      1761
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      1950,
+      1951
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "FOURMIS DU PARC DE VERSAILLES",
+    "jalons": [
+      2029,
+      2058
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "RAISONNANT",
+    "jalons": [
+      2060,
+      2070
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "parc de Versailles",
+    "jalons": [
+      2164,
+      2182
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      2185,
+      2189
+    ]
+  },
+  "entite_89": {
+    "label": "ORG",
+    "text": "Fourmis",
+    "jalons": [
+      2233,
+      2240
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "entre’",
+    "jalons": [
+      2526,
+      2532
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Four-",
+    "jalons": [
+      2729,
+      2734
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "questr le bord des routes et des avenues",
+    "jalons": [
+      3047,
+      3087
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "M EL e",
+    "jalons": [
+      3533,
+      3539
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "RS",
+    "jalons": [
+      3549,
+      3551
+    ]
+  },
+  "entite_95": {
+    "label": "MISC",
+    "text": "Les Fourmis",
+    "jalons": [
+      3855,
+      3866
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "no- tions",
+    "jalons": [
+      3928,
+      3937
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "les Fourmis",
+    "jalons": [
+      4463,
+      4474
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      4790,
+      4795
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4890,
+      4894
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Dieux",
+    "jalons": [
+      5090,
+      5095
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "À t 4",
+    "jalons": [
+      5375,
+      5380
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "sd",
+    "jalons": [
+      5387,
+      5389
+    ]
+  },
+  "entite_103": {
+    "label": "ORG",
+    "text": "CT IR | É +",
+    "jalons": [
+      5411,
+      5422
+    ]
+  },
+  "entite_104": {
+    "label": "ORG",
+    "text": "Fourmis",
+    "jalons": [
+      5534,
+      5541
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      115,
+      119
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "La seconde",
+    "jalons": [
+      327,
+      337
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "les Fourmis",
+    "jalons": [
+      775,
+      786
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "Ce qui vous environne",
+    "jalons": [
+      1054,
+      1075
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "L L l \\",
+    "jalons": [
+      1503,
+      1510
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "As à tr",
+    "jalons": [
+      1527,
+      1534
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "luisans",
+    "jalons": [
+      1616,
+      1623
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "au-",
+    "jalons": [
+      3272,
+      3275
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      4182,
+      4188
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "vice-Dieux",
+    "jalons": [
+      4341,
+      4351
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      5375,
+      5381
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "lamitière",
+    "jalons": [
+      340,
+      349
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Voustrouverez",
+    "jalons": [
+      364,
+      377
+    ]
+  },
+  "entite_118": {
+    "label": "ORG",
+    "text": "NP",
+    "jalons": [
+      518,
+      520
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Î",
+    "jalons": [
+      532,
+      533
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "êgreen",
+    "jalons": [
+      899,
+      905
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Croire",
+    "jalons": [
+      1046,
+      1052
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "COup",
+    "jalons": [
+      1229,
+      1233
+    ]
+  },
+  "entite_123": {
+    "label": "ORG",
+    "text": "Cinq",
+    "jalons": [
+      1861,
+      1865
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Marly",
+    "jalons": [
+      1944,
+      1949
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "S1.-Cloud",
+    "jalons": [
+      1951,
+      1960
+    ]
+  },
+  "entite_126": {
+    "label": "LOC",
+    "text": "Meudon",
+    "jalons": [
+      1962,
+      1968
+    ]
+  },
+  "entite_127": {
+    "label": "LOC",
+    "text": "Bellevue",
+    "jalons": [
+      1970,
+      1978
+    ]
+  },
+  "entite_128": {
+    "label": "LOC",
+    "text": "Boulogne",
+    "jalons": [
+      1980,
+      1988
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "S1.-Germain",
+    "jalons": [
+      1992,
+      2003
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Trianon",
+    "jalons": [
+      2098,
+      2105
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Ver- sailles",
+    "jalons": [
+      2116,
+      2128
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Four-",
+    "jalons": [
+      2201,
+      2206
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "tr'",
+    "jalons": [
+      2489,
+      2492
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "grand Être",
+    "jalons": [
+      2638,
+      2648
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      2682,
+      2688
+    ]
+  },
+  "entite_136": {
+    "label": "MISC",
+    "text": "entre’",
+    "jalons": [
+      3012,
+      3018
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "S",
+    "jalons": [
+      3294,
+      3295
+    ]
+  },
+  "entite_138": {
+    "label": "MISC",
+    "text": "#@ _",
+    "jalons": [
+      3410,
+      3414
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "© rer” pepe",
+    "jalons": [
+      3425,
+      3436
+    ]
+  },
+  "entite_140": {
+    "label": "ORG",
+    "text": "PTT",
+    "jalons": [
+      3450,
+      3453
+    ]
+  },
+  "entite_141": {
+    "label": "ORG",
+    "text": "TRE",
+    "jalons": [
+      3456,
+      3459
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "Fourmis",
+    "jalons": [
+      3615,
+      3622
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "Le de meme",
+    "jalons": [
+      4362,
+      4372
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "© LS",
+    "jalons": [
+      5077,
+      5081
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "ange Lente",
+    "jalons": [
+      5312,
+      5322
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "TR D",
+    "jalons": [
+      5325,
+      5329
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Divinité",
+    "jalons": [
+      274,
+      282
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "Être su- | prême",
+    "jalons": [
+      1247,
+      1263
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "Î",
+    "jalons": [
+      1337,
+      1338
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Î",
+    "jalons": [
+      1502,
+      1503
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "Eh !",
+    "jalons": [
+      1766,
+      1770
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      1954,
+      1960
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Fourmis pou- vaient",
+    "jalons": [
+      2315,
+      2334
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Divinité",
+    "jalons": [
+      2348,
+      2356
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      3125,
+      3131
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "Fourmis pour l’ha- biter",
+    "jalons": [
+      3220,
+      3244
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "vo-",
+    "jalons": [
+      3611,
+      3614
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "aumilieu",
+    "jalons": [
+      3700,
+      3708
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "RS RER",
+    "jalons": [
+      4431,
+      4437
+    ]
+  },
+  "entite_160": {
+    "label": "ORG",
+    "text": "fn",
+    "jalons": [
+      4439,
+      4441
+    ]
+  },
+  "entite_161": {
+    "label": "ORG",
+    "text": "Fourmis",
+    "jalons": [
+      4468,
+      4475
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "or- veilleux",
+    "jalons": [
+      4841,
+      4853
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "U",
+    "jalons": [
+      5413,
+      5414
+    ]
+  },
+  "entite_164": {
+    "label": "ORG",
+    "text": "Fourmiraisonnable",
+    "jalons": [
+      5559,
+      5576
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "ma- nière",
+    "jalons": [
+      300,
+      309
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "EE",
+    "jalons": [
+      610,
+      612
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Lien ni mien, et où vous jouerez de la plénitude de votre liberté",
+    "jalons": [
+      974,
+      1039
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "mr",
+    "jalons": [
+      1344,
+      1346
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      1380,
+      1386
+    ]
+  },
+  "entite_170": {
+    "label": "MISC",
+    "text": "D D mg oi NÉ æ Ent * Dit a VAR CT HAE",
+    "jalons": [
+      1549,
+      1586
+    ]
+  },
+  "entite_171": {
+    "label": "MISC",
+    "text": "tre # PP",
+    "jalons": [
+      1590,
+      1598
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "sentantôtenvousravalantà la con- dition des animaux",
+    "jalons": [
+      2449,
+      2500
+    ]
+  },
+  "entite_173": {
+    "label": "MISC",
+    "text": "EN VO stupides",
+    "jalons": [
+      2555,
+      2569
+    ]
+  },
+  "entite_174": {
+    "label": "ORG",
+    "text": "Esprit",
+    "jalons": [
+      3288,
+      3294
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      3296,
+      3300
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Matière",
+    "jalons": [
+      3302,
+      3309
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "AR",
+    "jalons": [
+      3503,
+      3505
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "T 2 \" EE",
+    "jalons": [
+      3509,
+      3517
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "cé- lèbres Fourmis",
+    "jalons": [
+      4036,
+      4054
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "est-à-",
+    "jalons": [
+      4108,
+      4114
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Four-",
+    "jalons": [
+      4649,
+      4654
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "turel",
+    "jalons": [
+      4692,
+      4697
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "en sarraux",
+    "jalons": [
+      5025,
+      5035
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "entre’",
+    "jalons": [
+      5181,
+      5187
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "Fourmi pendue",
+    "jalons": [
+      5394,
+      5407
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "De Et “S. het",
+    "jalons": [
+      5422,
+      5435
+    ]
+  },
+  "entite_187": {
+    "label": "ORG",
+    "text": "EEE",
+    "jalons": [
+      5442,
+      5445
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Fourmi",
+    "jalons": [
+      22,
+      28
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Fourmimerveilleuse",
+    "jalons": [
+      103,
+      121
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      226,
+      230
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "entre'",
+    "jalons": [
+      511,
+      517
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "© KA",
+    "jalons": [
+      700,
+      704
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "” «re",
+    "jalons": [
+      707,
+      712
+    ]
+  },
+  "entite_194": {
+    "label": "MISC",
+    "text": "NOTES",
+    "jalons": [
+      717,
+      722
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Æeuclide",
+    "jalons": [
+      1430,
+      1438
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "lon",
+    "jalons": [
+      1611,
+      1614
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "RS",
+    "jalons": [
+      1896,
+      1898
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "Espagnol",
+    "jalons": [
+      2346,
+      2354
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Portugais",
+    "jalons": [
+      2358,
+      2367
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      2853,
+      2860
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Co/ins!",
+    "jalons": [
+      2915,
+      2922
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      2973,
+      2983
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "France",
+    "jalons": [
+      2993,
+      2999
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Ouvrage sérieux",
+    "jalons": [
+      3577,
+      3592
+    ]
+  },
+  "entite_205": {
+    "label": "MISC",
+    "text": "Traducteur",
+    "jalons": [
+      3602,
+      3612
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Louis XIV",
+    "jalons": [
+      3634,
+      3643
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "Fourmis de son parc",
+    "jalons": [
+      3657,
+      3676
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "li",
+    "jalons": [
+      3882,
+      3884
+    ]
+  },
+  "entite_209": {
+    "label": "LOC",
+    "text": "Four-",
+    "jalons": [
+      4094,
+      4099
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "Que des Fourmis",
+    "jalons": [
+      4565,
+      4580
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Fourmis antropophages",
+    "jalons": [
+      4791,
+      4812
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4828,
+      4832
+    ]
+  },
+  "entite_213": {
+    "label": "ORG",
+    "text": "Fourmis",
+    "jalons": [
+      5109,
+      5116
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Mille",
+    "jalons": [
+      5192,
+      5197
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Une Nuits.",
+    "jalons": [
+      5201,
+      5211
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "Les Philosophes de tous les pays",
+    "jalons": [
+      5216,
+      5248
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Capucin",
+    "jalons": [
+      5559,
+      5566
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Montesquieu",
+    "jalons": [
+      289,
+      300
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Cepen-",
+    "jalons": [
+      302,
+      308
+    ]
+  },
+  "entite_220": {
+    "label": "ORG",
+    "text": "ner",
+    "jalons": [
+      452,
+      455
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "Journal de Paris",
+    "jalons": [
+      566,
+      582
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Essais de Montagne",
+    "jalons": [
+      679,
+      697
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Sénéque",
+    "jalons": [
+      716,
+      723
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Traducteur",
+    "jalons": [
+      828,
+      838
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "ES",
+    "jalons": [
+      988,
+      990
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "Ja",
+    "jalons": [
+      1049,
+      1051
+    ]
+  },
+  "entite_227": {
+    "label": "MISC",
+    "text": "Empires",
+    "jalons": [
+      1069,
+      1076
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "Les Juifs",
+    "jalons": [
+      1217,
+      1226
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Philon",
+    "jalons": [
+      1339,
+      1345
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Joseph",
+    "jalons": [
+      1364,
+      1370
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "légitimit",
+    "jalons": [
+      1593,
+      1602
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Etat",
+    "jalons": [
+      1864,
+      1868
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Trajan",
+    "jalons": [
+      2043,
+      2049
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Antonin",
+    "jalons": [
+      2055,
+      2062
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Marc- Aurèle",
+    "jalons": [
+      2068,
+      2080
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "Dieux bienfaisans",
+    "jalons": [
+      2111,
+      2128
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Charles IX",
+    "jalons": [
+      2153,
+      2163
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "HEnri II",
+    "jalons": [
+      2169,
+      2177
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Philippe ET",
+    "jalons": [
+      2183,
+      2194
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Isaac Newton",
+    "jalons": [
+      2420,
+      2432
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Bayle",
+    "jalons": [
+      2893,
+      2898
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Montagne",
+    "jalons": [
+      2902,
+      2910
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      3005,
+      3015
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "breuse d’entre'",
+    "jalons": [
+      3358,
+      3373
+    ]
+  },
+  "entite_245": {
+    "label": "MISC",
+    "text": "Traducteur",
+    "jalons": [
+      3386,
+      3396
+    ]
+  },
+  "entite_246": {
+    "label": "ORG",
+    "text": "LR",
+    "jalons": [
+      3416,
+      3418
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "du- maine",
+    "jalons": [
+      3607,
+      3616
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "Fourmis du parc de Versailles",
+    "jalons": [
+      3630,
+      3659
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Fourmis raisonneuses",
+    "jalons": [
+      4073,
+      4093
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Etat",
+    "jalons": [
+      4289,
+      4293
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4444,
+      4448
+    ]
+  },
+  "entite_252": {
+    "label": "ORG",
+    "text": "PER PE",
+    "jalons": [
+      5194,
+      5200
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "l'Europe",
+    "jalons": [
+      5660,
+      5668
+    ]
+  },
+  "entite_254": {
+    "label": "ORG",
+    "text": "2)et",
+    "jalons": [
+      379,
+      383
+    ]
+  },
+  "entite_255": {
+    "label": "ORG",
+    "text": "EEE",
+    "jalons": [
+      426,
+      429
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "F w ” }",
+    "jalons": [
+      453,
+      460
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "C4",
+    "jalons": [
+      461,
+      463
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Æmère",
+    "jalons": [
+      553,
+      558
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Aristote",
+    "jalons": [
+      565,
+      573
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Newton",
+    "jalons": [
+      578,
+      584
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Léïblitz",
+    "jalons": [
+      591,
+      599
+    ]
+  },
+  "entite_262": {
+    "label": "ORG",
+    "text": "om",
+    "jalons": [
+      1025,
+      1027
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "france",
+    "jalons": [
+      1423,
+      1429
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "breuse",
+    "jalons": [
+      1549,
+      1555
+    ]
+  },
+  "entite_265": {
+    "label": "LOC",
+    "text": "Déistes",
+    "jalons": [
+      1587,
+      1594
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Socimiens",
+    "jalons": [
+      1596,
+      1605
+    ]
+  },
+  "entite_267": {
+    "label": "MISC",
+    "text": "Unitaires",
+    "jalons": [
+      1607,
+      1616
+    ]
+  },
+  "entite_268": {
+    "label": "MISC",
+    "text": "La seconde",
+    "jalons": [
+      1966,
+      1976
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "eRER",
+    "jalons": [
+      2284,
+      2288
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Pyrrhonniens",
+    "jalons": [
+      2439,
+      2451
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Clic-",
+    "jalons": [
+      2454,
+      2459
+    ]
+  },
+  "entite_272": {
+    "label": "ORG",
+    "text": "Quiétistes",
+    "jalons": [
+      2469,
+      2479
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "La troisième classe",
+    "jalons": [
+      2487,
+      2506
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Matérialistes",
+    "jalons": [
+      2601,
+      2614
+    ]
+  },
+  "entite_275": {
+    "label": "ORG",
+    "text": "Athées",
+    "jalons": [
+      2616,
+      2622
+    ]
+  },
+  "entite_276": {
+    "label": "ORG",
+    "text": "Fatalistes",
+    "jalons": [
+      2624,
+      2634
+    ]
+  },
+  "entite_277": {
+    "label": "LOC",
+    "text": "l'Europe",
+    "jalons": [
+      3171,
+      3179
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Leucippe",
+    "jalons": [
+      3792,
+      3800
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Démocrite",
+    "jalons": [
+      3802,
+      3811
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Epicure",
+    "jalons": [
+      3814,
+      3821
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Athènes",
+    "jalons": [
+      3867,
+      3874
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Lucrèce",
+    "jalons": [
+      3901,
+      3908
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Rome",
+    "jalons": [
+      4033,
+      4037
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Pline",
+    "jalons": [
+      4081,
+      4086
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "RS",
+    "jalons": [
+      4140,
+      4142
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "v v",
+    "jalons": [
+      4146,
+      4149
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Buffon",
+    "jalons": [
+      4238,
+      4244
+    ]
+  },
+  "entite_288": {
+    "label": "LOC",
+    "text": "parisiens",
+    "jalons": [
+      4335,
+      4344
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      4354,
+      4355
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Hobbes",
+    "jalons": [
+      4482,
+      4488
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Shafiesbury",
+    "jalons": [
+      4491,
+      4502
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Bolimgbrock",
+    "jalons": [
+      4505,
+      4516
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Voltaire",
+    "jalons": [
+      4518,
+      4526
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Montesquieu",
+    "jalons": [
+      4532,
+      4543
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Alem- bert",
+    "jalons": [
+      4547,
+      4557
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "minente",
+    "jalons": [
+      4795,
+      4802
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "dée",
+    "jalons": [
+      4867,
+      4870
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "est-à-",
+    "jalons": [
+      5454,
+      5460
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Spinosa",
+    "jalons": [
+      5559,
+      5566
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Rochefoucaut",
+    "jalons": [
+      5676,
+      5688
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Aïni",
+    "jalons": [
+      33,
+      37
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "J |",
+    "jalons": [
+      1228,
+      1231
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Da",
+    "jalons": [
+      1384,
+      1386
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Soit",
+    "jalons": [
+      1395,
+      1399
+    ]
+  },
+  "entite_305": {
+    "label": "MISC",
+    "text": "NOTES",
+    "jalons": [
+      1501,
+      1506
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Suisse",
+    "jalons": [
+      1528,
+      1534
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1609,
+      1613
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Zoroastre",
+    "jalons": [
+      1729,
+      1738
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Manès",
+    "jalons": [
+      1742,
+      1747
+    ]
+  },
+  "entite_310": {
+    "label": "ORG",
+    "text": "Phallus",
+    "jalons": [
+      2249,
+      2256
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "Santons",
+    "jalons": [
+      2292,
+      2299
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "ER",
+    "jalons": [
+      2649,
+      2651
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "RAT",
+    "jalons": [
+      2657,
+      2660
+    ]
+  },
+  "entite_314": {
+    "label": "ORG",
+    "text": "A | TE",
+    "jalons": [
+      2665,
+      2671
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Un | | Re",
+    "jalons": [
+      2676,
+      2685
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "D.",
+    "jalons": [
+      2691,
+      2693
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "ab- solue",
+    "jalons": [
+      3242,
+      3251
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "quelquesinitiés",
+    "jalons": [
+      3462,
+      3477
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      3495,
+      3496
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Statues",
+    "jalons": [
+      3754,
+      3761
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "contr'",
+    "jalons": [
+      3870,
+      3876
+    ]
+  },
+  "entite_322": {
+    "label": "MISC",
+    "text": "CR E",
+    "jalons": [
+      4028,
+      4032
+    ]
+  },
+  "entite_323": {
+    "label": "ORG",
+    "text": "ENEEE",
+    "jalons": [
+      4037,
+      4042
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Vol-",
+    "jalons": [
+      4385,
+      4389
+    ]
+  },
+  "entite_325": {
+    "label": "MISC",
+    "text": "À sans équivoque et sans plaisanterie",
+    "jalons": [
+      4489,
+      4526
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Prusse",
+    "jalons": [
+      4615,
+      4621
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Diderot",
+    "jalons": [
+      4748,
+      4755
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "’ Alembert",
+    "jalons": [
+      4760,
+      4770
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Dargental",
+    "jalons": [
+      4774,
+      4783
+    ]
+  },
+  "entite_330": {
+    "label": "ORG",
+    "text": "D nm hit mt tee at",
+    "jalons": [
+      5323,
+      5341
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Ferney",
+    "jalons": [
+      5456,
+      5462
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      5472,
+      5478
+    ]
+  },
+  "entite_333": {
+    "label": "MISC",
+    "text": "tou",
+    "jalons": [
+      5538,
+      5541
+    ]
+  },
+  "entite_334": {
+    "label": "MISC",
+    "text": "les Juifs",
+    "jalons": [
+      125,
+      134
+    ]
+  },
+  "entite_335": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      162,
+      166
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Moïse",
+    "jalons": [
+      172,
+      177
+    ]
+  },
+  "entite_337": {
+    "label": "LOC",
+    "text": "Babylone",
+    "jalons": [
+      295,
+      303
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "Chine",
+    "jalons": [
+      312,
+      317
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Moïse",
+    "jalons": [
+      430,
+      435
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "Vidal",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_341": {
+    "label": "ORG",
+    "text": "Brahmanes",
+    "jalons": [
+      504,
+      513
+    ]
+  },
+  "entite_342": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      520,
+      521
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Pline",
+    "jalons": [
+      553,
+      558
+    ]
+  },
+  "entite_344": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      639,
+      643
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Spinosa",
+    "jalons": [
+      823,
+      830
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Bay",
+    "jalons": [
+      930,
+      933
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "Le Dion Mine",
+    "jalons": [
+      1030,
+      1042
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "don LS « HE 2: Sn",
+    "jalons": [
+      1072,
+      1089
+    ]
+  },
+  "entite_349": {
+    "label": "LOC",
+    "text": "Foppens",
+    "jalons": [
+      1212,
+      1219
+    ]
+  },
+  "entite_350": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1459,
+      1463
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Israëlites",
+    "jalons": [
+      2049,
+      2059
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      2143,
+      2147
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "Apocalypse",
+    "jalons": [
+      2216,
+      2226
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Newton",
+    "jalons": [
+      2231,
+      2237
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Pape",
+    "jalons": [
+      2274,
+      2278
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Amérique",
+    "jalons": [
+      2362,
+      2370
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "L L { } «+",
+    "jalons": [
+      2405,
+      2415
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "Essai philosophique sur l’entendement humain",
+    "jalons": [
+      2445,
+      2489
+    ]
+  },
+  "entite_359": {
+    "label": "MISC",
+    "text": "Homerus",
+    "jalons": [
+      2518,
+      2525
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "Note du Traducteur",
+    "jalons": [
+      2531,
+      2549
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2597,
+      2598
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      2653,
+      2654
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "É",
+    "jalons": [
+      2706,
+      2707
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      2744,
+      2750
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Duc de Wurtemberg",
+    "jalons": [
+      2781,
+      2798
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Duc de Bavière",
+    "jalons": [
+      2862,
+      2876
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "États",
+    "jalons": [
+      2936,
+      2941
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "# Spinosa",
+    "jalons": [
+      3004,
+      3013
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      3104,
+      3105
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Ÿ",
+    "jalons": [
+      3199,
+      3200
+    ]
+  },
+  "entite_371": {
+    "label": "ORG",
+    "text": "église Fe” chrétienne",
+    "jalons": [
+      3391,
+      3412
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "lAvenir",
+    "jalons": [
+      3457,
+      3464
+    ]
+  },
+  "entite_373": {
+    "label": "ORG",
+    "text": "Publiciste judicieux de qui nous tenons",
+    "jalons": [
+      3611,
+      3650
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "Journal * du 10 février dernier",
+    "jalons": [
+      3684,
+      3715
+    ]
+  },
+  "entite_375": {
+    "label": "MISC",
+    "text": "Lors de notre secte point de salut",
+    "jalons": [
+      4124,
+      4158
+    ]
+  },
+  "entite_376": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      4296,
+      4303
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Salamanque",
+    "jalons": [
+      4310,
+      4320
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Panini",
+    "jalons": [
+      4491,
+      4497
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "La première",
+    "jalons": [
+      4601,
+      4612
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "F4",
+    "jalons": [
+      4753,
+      4755
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "| | | RE * ts",
+    "jalons": [
+      5083,
+      5096
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "Me D",
+    "jalons": [
+      5109,
+      5113
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Mt Lu",
+    "jalons": [
+      5151,
+      5156
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "FR f re",
+    "jalons": [
+      5227,
+      5234
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      5314,
+      5316
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "dai Fe tre",
+    "jalons": [
+      5348,
+      5358
+    ]
+  },
+  "entite_387": {
+    "label": "ORG",
+    "text": "L EH",
+    "jalons": [
+      5427,
+      5431
+    ]
+  },
+  "entite_388": {
+    "label": "MISC",
+    "text": "RS sommes ®",
+    "jalons": [
+      5484,
+      5495
+    ]
+  },
+  "entite_389": {
+    "label": "MISC",
+    "text": "psp",
+    "jalons": [
+      5497,
+      5500
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Cicéron",
+    "jalons": [
+      158,
+      165
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Gassendi",
+    "jalons": [
+      170,
+      178
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Tyndal",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "diderot",
+    "jalons": [
+      194,
+      201
+    ]
+  },
+  "entite_394": {
+    "label": "ORG",
+    "text": "LL",
+    "jalons": [
+      469,
+      471
+    ]
+  },
+  "entite_395": {
+    "label": "ORG",
+    "text": "ue",
+    "jalons": [
+      566,
+      568
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Mi",
+    "jalons": [
+      660,
+      662
+    ]
+  },
+  "entite_397": {
+    "label": "MISC",
+    "text": "L et de leur stupidité",
+    "jalons": [
+      723,
+      745
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Ù",
+    "jalons": [
+      879,
+      880
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "De le hi ct me A ner",
+    "jalons": [
+      916,
+      936
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "R",
+    "jalons": [
+      973,
+      974
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "TRE",
+    "jalons": [
+      981,
+      984
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "cé",
+    "jalons": [
+      1052,
+      1054
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Impulsion",
+    "jalons": [
+      1234,
+      1243
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "galimathias",
+    "jalons": [
+      1261,
+      1272
+    ]
+  },
+  "entite_405": {
+    "label": "MISC",
+    "text": "Traducteur",
+    "jalons": [
+      1357,
+      1367
+    ]
+  },
+  "entite_406": {
+    "label": "ORG",
+    "text": "FLN",
+    "jalons": [
+      1371,
+      1374
+    ]
+  },
+  "entite_407": {
+    "label": "MISC",
+    "text": "ES de ET",
+    "jalons": [
+      1381,
+      1389
+    ]
+  },
+  "entite_408": {
+    "label": "MISC",
+    "text": "Eve 7 D",
+    "jalons": [
+      1398,
+      1405
+    ]
+  },
+  "entite_409": {
+    "label": "ORG",
+    "text": "SH UPS",
+    "jalons": [
+      1419,
+      1425
+    ]
+  },
+  "entite_410": {
+    "label": "ORG",
+    "text": "FN",
+    "jalons": [
+      1428,
+      1430
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "RACE ET or",
+    "jalons": [
+      1435,
+      1445
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "| | ” 1 Ést",
+    "jalons": [
+      1483,
+      1494
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "À ” Z",
+    "jalons": [
+      1505,
+      1510
+    ]
+  },
+  "entite_414": {
+    "label": "ORG",
+    "text": "TR",
+    "jalons": [
+      1521,
+      1523
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "D D",
+    "jalons": [
+      1528,
+      1531
+    ]
+  },
+  "entite_416": {
+    "label": "ORG",
+    "text": "PS EN",
+    "jalons": [
+      1564,
+      1569
+    ]
+  }
+}
