@@ -2,6 +2,7 @@ from supervenn import supervenn
 from matplotlib import pyplot as plt
 import glob
 import json
+import numpy as np
 import pandas as pd
 from upsetplot import from_memberships
 from matplotlib import pyplot as plt
@@ -31,17 +32,21 @@ def stocker(chemin, contenu):
 
 
 
-path_corpora = "../test_upsetplot/*.json"
+path_corpora = "../Upstplt-ELTeC/*fra_sp*.json"
 
-
-
+liste_moteur=[]
+a=5
 for path in glob.glob(path_corpora):
     print("_____________",path)
-    path_output = path.split(".json")[0]+"_upsetplot2.png"
+    path_output ="_".join(path.split("_")[:3])
     print(path_output)
     dico_entite=lire_json(path)
     # print(dico_entite)
-    dico_entite = {k: set(v)for k,v in dico_entite.items() if k =="Tesseract-PNG" or k =="Ref"}
+    for key, value in dico_entite.items():
+        liste_moteur.append(key)
+
+
+    dico_entite = {k: set(v)for k,v in dico_entite.items() if k ==liste_moteur[a] or k =="Ref"}
     print(dico_entite)
     # for k, v in dico_entite.items():
     #     print(k,set(v))
@@ -50,10 +55,10 @@ for path in glob.glob(path_corpora):
     upset = UpSet(
         test,
         orientation='horizontal',
-        # sort_by='degree',
+        sort_by='degree',
         # subset_size='count',
         # show_counts=True,
-        # totals_plot_elements=5,
+        totals_plot_elements=3,
         show_percentages=True
     )
     # upset.style_subsets(
@@ -67,11 +72,12 @@ for path in glob.glob(path_corpora):
     # )
     fig = plt.figure()
     fig.legend(loc=7)
-
     upset.plot(fig=fig)
-    fig.figsize = (20, 20)
     # plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
-    plt.savefig(path_output)
+    # fig.figsize = (10, 6)
+    plt.axis([-1, 2, 0, 8000])
+
+    plt.savefig(path_output+"_%s_upsetplot.png"%liste_moteur[a], dpi=300)
     plt.show()
 
 # # ##SuperVenn
