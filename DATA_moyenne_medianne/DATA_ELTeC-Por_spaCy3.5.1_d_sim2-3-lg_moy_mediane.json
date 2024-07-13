@@ -1,0 +1,18 @@
+{
+  "Kraken-jspl-ELTeC": {
+    "mediane": 0.644574093578709,
+    "moyenne": 0.6588625540679194
+  },
+  "Kraken": {
+    "mediane": 0.70203849975196,
+    "moyenne": 0.7048966187511281
+  },
+  "TesseractPor-PNG-jspl-ELTeC": {
+    "mediane": 0.5480376431329044,
+    "moyenne": 0.5562969416055635
+  },
+  "TesseractPor-PNG": {
+    "mediane": 0.5413797246032772,
+    "moyenne": 0.5433511922691189
+  }
+}

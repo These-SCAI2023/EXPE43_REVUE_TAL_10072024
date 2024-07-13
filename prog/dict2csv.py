@@ -40,8 +40,8 @@ def stocker(chemin, contenu):
     return chemin
 
 # Ajouter .json à la place de .txt
-path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-eng_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
-
+# path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-eng_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
+path_corpora = "../DATA_TGB-2023_spaCy3.5.1_Distance/*/*OCR/*/SIM/*.txt"
 for path in glob.glob(path_corpora):
     print(path)
     add_json=path.split(".txt")[0]+".json"

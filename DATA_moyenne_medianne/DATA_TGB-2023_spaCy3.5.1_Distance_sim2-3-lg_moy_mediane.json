@@ -1,0 +1,26 @@
+{
+  "TesseractFra-PNG-jspll-ELTeC": {
+    "mediane": 0.5576998818432454,
+    "moyenne": 0.5452558740196105
+  },
+  "TesseractFra-PNG-jspll-pretrain": {
+    "mediane": 0.6533333333333333,
+    "moyenne": 0.6286800896292148
+  },
+  "TesseractFra-png": {
+    "mediane": 0.55893536121673,
+    "moyenne": 0.5332872272943816
+  },
+  "kraken-jspll-ELTeC": {
+    "mediane": 0.6648176204222402,
+    "moyenne": 0.6410285711905785
+  },
+  "kraken-jspll-pretrain": {
+    "mediane": 0.6699926679205586,
+    "moyenne": 0.6704968882988218
+  },
+  "kraken": {
+    "mediane": 0.6622423185685091,
+    "moyenne": 0.6531783778226257
+  }
+}
