@@ -20,7 +20,11 @@
     "EN-type": 2072
   },
   "Tesseract-PNG": {
-    "EN-occ": 7825,
-    "EN-type": 2653
+    "EN-occ": 14931,
+    "EN-type": 2838
+  },
+  "Ref": {
+    "EN-occ": 14931,
+    "EN-type": 2838
   }
 }

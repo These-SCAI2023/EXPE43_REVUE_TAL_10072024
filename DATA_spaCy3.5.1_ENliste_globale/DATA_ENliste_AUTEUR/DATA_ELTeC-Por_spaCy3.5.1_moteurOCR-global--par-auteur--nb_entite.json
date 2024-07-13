@@ -12,7 +12,11 @@
     "EN-type": 3594
   },
   "TesseractPor-PNG": {
-    "EN-occ": 8729,
+    "EN-occ": 16904,
+    "EN-type": 4007
+  },
+  "Ref": {
+    "EN-occ": 16904,
     "EN-type": 4007
   }
 }
