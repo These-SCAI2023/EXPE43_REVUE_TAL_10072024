@@ -1,0 +1,1930 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "VILlage",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Etrivieres",
+    "jalons": [
+      22,
+      32
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Bernard Bonafoux",
+    "jalons": [
+      68,
+      84
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      163,
+      170
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "premiere ci-apres",
+    "jalons": [
+      625,
+      642
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Source gallica.bnf.fr / Bibliothque nationale de France",
+    "jalons": [
+      645,
+      700
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Source galice.offre BnF s.",
+    "jalons": [
+      706,
+      732
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "CL0QUERIC",
+    "jalons": [
+      1215,
+      1224
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "AUTOCARS ET A LA LICENCE",
+    "jalons": [
+      1237,
+      1261
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      1281,
+      1288
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      1313,
+      1316
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Source gallica.BnF.fr / Bibliotheque municipale de ...",
+    "jalons": [
+      1848,
+      1902
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Lutilisateur",
+    "jalons": [
+      1926,
+      1938
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2030,
+      2037
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      2077,
+      2080
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "L341-1",
+    "jalons": [
+      2130,
+      2136
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2246,
+      2253
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Lutilisateur",
+    "jalons": [
+      2439,
+      2451
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "matiere",
+    "jalons": [
+      2561,
+      2568
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "7l",
+    "jalons": [
+      2718,
+      2720
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2749,
+      2756
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "contacter utilisation.commercialegbnf.fr",
+    "jalons": [
+      2778,
+      2818
+    ]
+  },
+  "entite_22": {
+    "label": "PER",
+    "text": "r i",
+    "jalons": [
+      2829,
+      2832
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "BERNARD BONAFO",
+    "jalons": [
+      2841,
+      2855
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Es N-",
+    "jalons": [
+      2881,
+      2886
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "HIN I1",
+    "jalons": [
+      2912,
+      2918
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "IUIlII YIIII",
+    "jalons": [
+      2928,
+      2940
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "IIIIIIII",
+    "jalons": [
+      2947,
+      2955
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "5O",
+    "jalons": [
+      2963,
+      2965
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "CIMIEZ",
+    "jalons": [
+      2979,
+      2985
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "LIBRAIRE-EDITEUR",
+    "jalons": [
+      3000,
+      3016
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Grande-Rue",
+    "jalons": [
+      3024,
+      3034
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Brienoles",
+    "jalons": [
+      3038,
+      3047
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "1tf",
+    "jalons": [
+      3057,
+      3060
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "i,:,-:d",
+    "jalons": [
+      3061,
+      3068
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "U",
+    "jalons": [
+      3073,
+      3074
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "ILes Sonnets de Provence",
+    "jalons": [
+      3101,
+      3125
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Andre SAGER",
+    "jalons": [
+      3142,
+      3153
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "rue Vivienne",
+    "jalons": [
+      3155,
+      3167
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3172,
+      3177
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Triumvirs",
+    "jalons": [
+      3183,
+      3192
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Marius",
+    "jalons": [
+      3208,
+      3214
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Brignoles",
+    "jalons": [
+      3219,
+      3228
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Poc",
+    "jalons": [
+      3230,
+      3233
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "Les Joies et les Larmes",
+    "jalons": [
+      3247,
+      3270
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Les Dupes d'eu-memes",
+    "jalons": [
+      3354,
+      3374
+    ]
+  },
+  "entite_46": {
+    "label": "ORG",
+    "text": "comedia",
+    "jalons": [
+      3376,
+      3383
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Le Retour",
+    "jalons": [
+      3404,
+      3413
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "NGO-----",
+    "jalons": [
+      3478,
+      3486
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "At5 I0US DR0IIS",
+    "jalons": [
+      3488,
+      3503
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "DERNIRES EIRIVIRES",
+    "jalons": [
+      3515,
+      3533
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Esprits superbes",
+    "jalons": [
+      3555,
+      3571
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "Muse Ne chante",
+    "jalons": [
+      3699,
+      3713
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Ca",
+    "jalons": [
+      3760,
+      3762
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "ca",
+    "jalons": [
+      3781,
+      3783
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Ou ne plus toucher ma Lyre",
+    "jalons": [
+      3827,
+      3853
+    ]
+  },
+  "entite_56": {
+    "label": "MISC",
+    "text": "Si",
+    "jalons": [
+      3855,
+      3857
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "De vous je pense tre",
+    "jalons": [
+      3890,
+      3910
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Ni vos discours",
+    "jalons": [
+      3949,
+      3964
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Et chanterai",
+    "jalons": [
+      4013,
+      4025
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "DENIERS ETRIVInES",
+    "jalons": [
+      4046,
+      4063
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Encore moins etre louable",
+    "jalons": [
+      4095,
+      4120
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Je ne dois rien mon semblable",
+    "jalons": [
+      4122,
+      4151
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "Et je suis ce que",
+    "jalons": [
+      4153,
+      4170
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4171,
+      4175
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "0r Dieu",
+    "jalons": [
+      4186,
+      4193
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Pere",
+    "jalons": [
+      4212,
+      4216
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "A",
+    "jalons": [
+      4218,
+      4219
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Dans mon infime petitesse",
+    "jalons": [
+      4336,
+      4361
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "Je ne crois pas que la le blesse",
+    "jalons": [
+      4363,
+      4395
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Car ma louange",
+    "jalons": [
+      4397,
+      4411
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Ie",
+    "jalons": [
+      4426,
+      4428
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "Nous sommes",
+    "jalons": [
+      4542,
+      4553
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "Nous evitons",
+    "jalons": [
+      4642,
+      4654
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Du bon et vieux cure",
+    "jalons": [
+      4688,
+      4708
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Et jamais notre cour",
+    "jalons": [
+      4768,
+      4788
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Les plaisirs corrupteurs",
+    "jalons": [
+      4814,
+      4838
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Nous sommes",
+    "jalons": [
+      4900,
+      4911
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Notre esprit abeti",
+    "jalons": [
+      4944,
+      4962
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Notre me est constamment en proie la semence",
+    "jalons": [
+      4990,
+      5034
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "Nos corps",
+    "jalons": [
+      5036,
+      5045
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "Et que la pauvret",
+    "jalons": [
+      5145,
+      5162
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Faites",
+    "jalons": [
+      5217,
+      5223
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "Montrez",
+    "jalons": [
+      5245,
+      5252
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Et ne veulent aimer ni Dieu",
+    "jalons": [
+      5334,
+      5361
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "LES DERNIERS SERVICES",
+    "jalons": [
+      5432,
+      5453
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Tendez",
+    "jalons": [
+      5592,
+      5598
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Pascal",
+    "jalons": [
+      5659,
+      5665
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Bacon",
+    "jalons": [
+      5667,
+      5672
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Chateaubriand",
+    "jalons": [
+      5674,
+      5687
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "En sciences etaient pareils au mendiant",
+    "jalons": [
+      5689,
+      5728
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Graces",
+    "jalons": [
+      5730,
+      5736
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Sans vos dons nerveux",
+    "jalons": [
+      5819,
+      5840
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "miLle",
+    "jalons": [
+      5927,
+      5932
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Vous faites noblement emploi de vos richesses",
+    "jalons": [
+      5962,
+      6007
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Arouet",
+    "jalons": [
+      6021,
+      6027
+    ]
+  },
+  "entite_96": {
+    "label": "MISC",
+    "text": "Original",
+    "jalons": [
+      6061,
+      6069
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "Soit",
+    "jalons": [
+      6091,
+      6095
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "Un vase qui jamais n'a d",
+    "jalons": [
+      6143,
+      6167
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Afin d'en guster",
+    "jalons": [
+      14,
+      30
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Serres",
+    "jalons": [
+      133,
+      139
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "N'",
+    "jalons": [
+      141,
+      143
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Voltaire",
+    "jalons": [
+      194,
+      202
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      284,
+      288
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Arouet",
+    "jalons": [
+      290,
+      296
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      374,
+      378
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Panini",
+    "jalons": [
+      538,
+      544
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Julien",
+    "jalons": [
+      549,
+      555
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "MI",
+    "jalons": [
+      644,
+      646
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "Prochain",
+    "jalons": [
+      648,
+      656
+    ]
+  },
+  "entite_110": {
+    "label": "ORG",
+    "text": "ete",
+    "jalons": [
+      723,
+      726
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "Dictionnaire Historique",
+    "jalons": [
+      762,
+      785
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Augsbourg",
+    "jalons": [
+      787,
+      796
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "LBS DIRES SrRIVIRES",
+    "jalons": [
+      805,
+      824
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "Cresus",
+    "jalons": [
+      886,
+      892
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "De tres-pres",
+    "jalons": [
+      915,
+      927
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Vous finirez",
+    "jalons": [
+      962,
+      974
+    ]
+  },
+  "entite_117": {
+    "label": "MISC",
+    "text": "De se saouler aykdercueil",
+    "jalons": [
+      1005,
+      1030
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      1039,
+      1040
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1200,
+      1204
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      1403,
+      1407
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      1409,
+      1410
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "X. DossIER",
+    "jalons": [
+      1412,
+      1422
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Vous osez l'avouer ici",
+    "jalons": [
+      1480,
+      1502
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "Les grandeurs du Tres-Haut et le lerinage",
+    "jalons": [
+      1659,
+      1700
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "D'autres",
+    "jalons": [
+      1702,
+      1710
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "Ni le peuple ameute",
+    "jalons": [
+      1757,
+      1776
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      1796,
+      1799
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Et qui, sans balancer",
+    "jalons": [
+      1801,
+      1822
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "En saluant la mort d'un gracieux sourire",
+    "jalons": [
+      1847,
+      1887
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "Je ne suis point jaloux",
+    "jalons": [
+      1905,
+      1928
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "LES DERNIrES ETnRIVIRES",
+    "jalons": [
+      1971,
+      1994
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Faute de mieux, gardez ce bonheur illusoire",
+    "jalons": [
+      2043,
+      2086
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Vers un but incertain marchez",
+    "jalons": [
+      2088,
+      2117
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "Vous aurez le nant l'heure du repas",
+    "jalons": [
+      2137,
+      2172
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Pauvre mystifier Les supremes delices",
+    "jalons": [
+      2174,
+      2211
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Couronnement beni",
+    "jalons": [
+      2213,
+      2230
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "II De mon recit croyez",
+    "jalons": [
+      2344,
+      2366
+    ]
+  },
+  "entite_138": {
+    "label": "MISC",
+    "text": "Comme l'oiseau du ciel j'aime ma liberte",
+    "jalons": [
+      2380,
+      2420
+    ]
+  },
+  "entite_139": {
+    "label": "MISC",
+    "text": "Etre nie a bon droit ce qu'on ne peut comprendre",
+    "jalons": [
+      2422,
+      2470
+    ]
+  },
+  "entite_140": {
+    "label": "MISC",
+    "text": "Je vais sans nul souci",
+    "jalons": [
+      2610,
+      2632
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Jignore",
+    "jalons": [
+      2658,
+      2665
+    ]
+  },
+  "entite_142": {
+    "label": "ORG",
+    "text": "MIe",
+    "jalons": [
+      2703,
+      2706
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "Et ne pensant jamais qui sur le semer",
+    "jalons": [
+      2747,
+      2784
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Je jouis mon gre",
+    "jalons": [
+      2830,
+      2846
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "LES DERNIRES EIRIVIRES",
+    "jalons": [
+      2870,
+      2892
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "Vers l'amour naturel tout se penche et s'entraine",
+    "jalons": [
+      3032,
+      3081
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "L'homme qui de ce monde",
+    "jalons": [
+      3083,
+      3106
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "malte",
+    "jalons": [
+      3120,
+      3125
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "S'",
+    "jalons": [
+      3134,
+      3136
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "S'",
+    "jalons": [
+      3221,
+      3223
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "II",
+    "jalons": [
+      3267,
+      3269
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "Provoqua",
+    "jalons": [
+      3315,
+      3323
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Aux amis accoudes",
+    "jalons": [
+      3404,
+      3421
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "D'un ton persuasif",
+    "jalons": [
+      3443,
+      3461
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "Le Mettre",
+    "jalons": [
+      3649,
+      3658
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "Et, l'indignation colorant mon visage",
+    "jalons": [
+      3738,
+      3775
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "D'un geste",
+    "jalons": [
+      3777,
+      3787
+    ]
+  },
+  "entite_158": {
+    "label": "MISC",
+    "text": "Et leur dis : autrefois vous tes mes amis",
+    "jalons": [
+      3821,
+      3862
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Et vous etes encor",
+    "jalons": [
+      3863,
+      3881
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "LES DERNIRES ETRIYInES",
+    "jalons": [
+      3909,
+      3931
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Nul",
+    "jalons": [
+      4046,
+      4049
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      4137,
+      4138
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "Rende la douce joie et le bonheur supreme",
+    "jalons": [
+      4316,
+      4357
+    ]
+  },
+  "entite_164": {
+    "label": "MISC",
+    "text": "Au leur si",
+    "jalons": [
+      4359,
+      4369
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "S'",
+    "jalons": [
+      4446,
+      4448
+    ]
+  },
+  "entite_166": {
+    "label": "LOC",
+    "text": "Voil",
+    "jalons": [
+      4487,
+      4491
+    ]
+  },
+  "entite_167": {
+    "label": "MISC",
+    "text": "Ecouter",
+    "jalons": [
+      4537,
+      4544
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Je dois vous dire ici toute la verite",
+    "jalons": [
+      4621,
+      4658
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "voil",
+    "jalons": [
+      4676,
+      4680
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "intrepide Dont",
+    "jalons": [
+      4691,
+      4705
+    ]
+  },
+  "entite_171": {
+    "label": "MISC",
+    "text": "Redoutant les perils d'une mer",
+    "jalons": [
+      4749,
+      4779
+    ]
+  },
+  "entite_172": {
+    "label": "MISC",
+    "text": "Sur le pont du navire",
+    "jalons": [
+      4831,
+      4852
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Esperant",
+    "jalons": [
+      4880,
+      4888
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "Vous etes confondus Ecoutez",
+    "jalons": [
+      4965,
+      4992
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Mes recits indiscrets",
+    "jalons": [
+      5004,
+      5025
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Je vous remonterait qu'un homme",
+    "jalons": [
+      5054,
+      5085
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "LBS DENTAiRES",
+    "jalons": [
+      5099,
+      5112
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Createur",
+    "jalons": [
+      5322,
+      5330
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Vietnam",
+    "jalons": [
+      5400,
+      5407
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "Escalade",
+    "jalons": [
+      5443,
+      5451
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Parlez",
+    "jalons": [
+      5503,
+      5509
+    ]
+  },
+  "entite_182": {
+    "label": "MISC",
+    "text": "Dirent",
+    "jalons": [
+      5529,
+      5535
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "MOi je suis un enfant",
+    "jalons": [
+      5621,
+      5642
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "LES DEINMInES EITRIVIRES",
+    "jalons": [
+      5667,
+      5691
+    ]
+  },
+  "entite_185": {
+    "label": "ORG",
+    "text": "CONFI INVERSE",
+    "jalons": [
+      5697,
+      5710
+    ]
+  },
+  "entite_186": {
+    "label": "MISC",
+    "text": "Par des lettres",
+    "jalons": [
+      5761,
+      5776
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Un mort",
+    "jalons": [
+      5810,
+      5817
+    ]
+  },
+  "entite_188": {
+    "label": "MISC",
+    "text": "A su chretiennement",
+    "jalons": [
+      5855,
+      5874
+    ]
+  },
+  "entite_189": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5891,
+      5895
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "Et chacun en pliant sa lettre",
+    "jalons": [
+      87,
+      116
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "Et ne pouvant alors contenir un sourire",
+    "jalons": [
+      174,
+      213
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "0n",
+    "jalons": [
+      215,
+      217
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "De Profundis 7 0n",
+    "jalons": [
+      266,
+      283
+    ]
+  },
+  "entite_194": {
+    "label": "MISC",
+    "text": "Que je sois un devon",
+    "jalons": [
+      301,
+      321
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Sacrement S'",
+    "jalons": [
+      334,
+      346
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Qu'il a revu la-haut",
+    "jalons": [
+      393,
+      413
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Et quand le lendemain le vieux sonneur",
+    "jalons": [
+      435,
+      473
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "De tant carillonner",
+    "jalons": [
+      483,
+      502
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "Les soi",
+    "jalons": [
+      527,
+      534
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Suivant le sarcophage",
+    "jalons": [
+      573,
+      594
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Portent sur le vent",
+    "jalons": [
+      614,
+      633
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "LES DERNIrES",
+    "jalons": [
+      906,
+      918
+    ]
+  },
+  "entite_203": {
+    "label": "ORG",
+    "text": "Academie",
+    "jalons": [
+      964,
+      972
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Qui",
+    "jalons": [
+      1018,
+      1021
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Si'",
+    "jalons": [
+      1105,
+      1108
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "tendard",
+    "jalons": [
+      1122,
+      1129
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "C'est qu'il a, m'a-t-on dit",
+    "jalons": [
+      1152,
+      1179
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "Et je crains",
+    "jalons": [
+      1202,
+      1214
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "Voila",
+    "jalons": [
+      1253,
+      1258
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "Bien rarement",
+    "jalons": [
+      1294,
+      1307
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "helas l",
+    "jalons": [
+      1309,
+      1316
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      1383,
+      1384
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Que l'on n'y pense plus 0 triste humanitel",
+    "jalons": [
+      1424,
+      1466
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Nous voici doucement arrives pres du temple",
+    "jalons": [
+      1467,
+      1510
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Des devoirs",
+    "jalons": [
+      1558,
+      1569
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "Si les regards moqueurs",
+    "jalons": [
+      1655,
+      1678
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Atteindront",
+    "jalons": [
+      1699,
+      1710
+    ]
+  },
+  "entite_218": {
+    "label": "MISC",
+    "text": "Qu'ils prient pour les morts",
+    "jalons": [
+      1943,
+      1971
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "Vitant",
+    "jalons": [
+      2001,
+      2007
+    ]
+  },
+  "entite_220": {
+    "label": "MISC",
+    "text": "Je flagelle mon gre",
+    "jalons": [
+      2087,
+      2106
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "TEE",
+    "jalons": [
+      2160,
+      2163
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "Je n'oserai jamais exhiber tant de foi",
+    "jalons": [
+      2246,
+      2284
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Vous n'entendez jamais remonter dans la rue Des Pacers h ma femme",
+    "jalons": [
+      2372,
+      2437
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Et les poches de meurs quon",
+    "jalons": [
+      2592,
+      2619
+    ]
+  },
+  "entite_225": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      2707,
+      2711
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "Les Riches en",
+    "jalons": [
+      2811,
+      2824
+    ]
+  },
+  "entite_227": {
+    "label": "ORG",
+    "text": "Esprit",
+    "jalons": [
+      2825,
+      2831
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      2848,
+      2849
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Convoi Funeste",
+    "jalons": [
+      2856,
+      2870
+    ]
+  },
+  "entite_230": {
+    "label": "MISC",
+    "text": "Hypocrites",
+    "jalons": [
+      2881,
+      2891
+    ]
+  },
+  "entite_231": {
+    "label": "MISC",
+    "text": "Atheisme",
+    "jalons": [
+      2897,
+      2905
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "5 N'iii",
+    "jalons": [
+      2929,
+      2936
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Portail-Neuf",
+    "jalons": [
+      2983,
+      2995
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "N 3",
+    "jalons": [
+      2997,
+      3000
+    ]
+  },
+  "entite_235": {
+    "label": "LOC",
+    "text": "3A L",
+    "jalons": [
+      3030,
+      3034
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Paroisses",
+    "jalons": [
+      3137,
+      3146
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Lives",
+    "jalons": [
+      3148,
+      3153
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "Piet",
+    "jalons": [
+      3157,
+      3161
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Ecadrexets",
+    "jalons": [
+      3195,
+      3205
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "Religio..",
+    "jalons": [
+      3229,
+      3238
+    ]
+  }
+}
