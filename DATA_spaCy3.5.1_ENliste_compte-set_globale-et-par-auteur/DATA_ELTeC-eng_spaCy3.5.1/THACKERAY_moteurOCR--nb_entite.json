@@ -1,0 +1,30 @@
+{
+  "Kraken-jspll-ELTeC": {
+    "EN-occ": 1325,
+    "EN-type": 517
+  },
+  "Kraken-jspll-pretrain": {
+    "EN-occ": 1700,
+    "EN-type": 611
+  },
+  "Kraken": {
+    "EN-occ": 2105,
+    "EN-type": 1064
+  },
+  "Tesseract-PNG-jspll-ELTeC": {
+    "EN-occ": 1289,
+    "EN-type": 386
+  },
+  "Tesseract-PNG-jspll-pretrain": {
+    "EN-occ": 1563,
+    "EN-type": 443
+  },
+  "Tesseract-PNG": {
+    "EN-occ": 1625,
+    "EN-type": 498
+  },
+  "Ref": {
+    "EN-occ": 1492,
+    "EN-type": 407
+  }
+}
